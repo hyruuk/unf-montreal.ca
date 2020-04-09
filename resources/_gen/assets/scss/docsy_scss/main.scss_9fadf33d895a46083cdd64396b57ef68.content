@@ -12443,6 +12443,13 @@ readers do not read off random characters that represent icons */
     border-color: #f5f8fb;
     box-shadow: 0 0 0 2px #82afd5; }
 
+.popover.offline-search-result {
+  max-width: 90%; }
+  .popover.offline-search-result .card, .popover.offline-search-result .td-content .highlight, .td-content .popover.offline-search-result .highlight {
+    margin-bottom: 0.5rem; }
+    .popover.offline-search-result .card .card-header, .popover.offline-search-result .td-content .highlight .card-header, .td-content .popover.offline-search-result .highlight .card-header {
+      font-weight: bold; }
+
 .td-outer {
   display: flex;
   flex-direction: column;
