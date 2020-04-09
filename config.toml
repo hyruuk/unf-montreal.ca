@@ -363,8 +363,54 @@ google_analitycs_id = "" # your id
 # top header
 top_header = true
 
+
+##################### DOCSY #####################
+# Google Custom Search Engine ID. Remove or comment out to disable search.
+# gcs_engine_id = "011737558837375720776:fsdu1nryfng"
 time_format_default = "02.01.2006"
-sidebar_search_disable = false
+# sidebar_search_disable = false
+# Add your release versions here
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+# Menu title if your navbar has a versions selector to access old versions of your site.
+# This menu appears only if you have at least one [params.versions] set.
+version_menu = "Releases"
+# Flag used in the "version-banner" partial to decide whether to display a 
+# banner on every page indicating that this is an archived version of the docs.
+# Set this flag to "true" if you want to display the banner.
+archived_version = false
+
+# The version number for the version of the docs represented in this doc set.
+# Used in the "version-banner" partial to display a version number for the 
+# current doc set.
+version = "0.0"
+
+# A link to latest version of the docs. Used in the "version-banner" partial to
+# point people to the main doc site.
+url_latest_version = "https://example.com"
+
+# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+github_repo = "https://github.com/google/docsy"
+# An optional link to a related project repo. For example, the sibling repository where your product code lives.
+github_project_repo = "https://github.com/google/docsy"
+
+[[params.versions]]
+  version = "master"
+  url = "https://master.kubeflow.org"
+
+[[params.versions]]
+  version = "v0.2"
+  url = "https://v0-2.kubeflow.org"
+
+[[params.versions]]
+  version = "v0.3"
+  url = "https://v0-3.kubeflow.org"
+
+version_menu = "Releases"
+
+# Enable local search
+offlineSearch = true
+
 # Preloader
 [params.preloader]
 enable = true
@@ -416,7 +462,7 @@ link = "https://github.com/unfmontreal/"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "content/en"
 weight = 1
 home = "Home"
 about= "About"
@@ -428,9 +474,15 @@ copyright = "Copyright &copy; 2020 UNF"
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
-contentDir = "content/french"
+contentDir = "content/fr"
 weight = 2
 home = "Accueil"
 about= "À propos de nous"
 # copyright
 copyright = "Copyright &copy; 2020 UNF"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
