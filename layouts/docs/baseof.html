@@ -5,11 +5,11 @@
   </head>
   {{- partial "preloader.html" . -}}
   {{- partial "header.html" . -}}
-  {{/*  {{ partial "page-header_docsy.html" . }}  */}}
+  {{ partial "page-header.html" . }}
   <body class="td-{{ .Kind }}">
     {{/*  Hack pour être capable d'abaisser "docs" en-dessous du navbar  */}}
-    <section class="" style="background: black; padding-top: 144px" >
-    </section>
+    {{/*  <section class="" style="background: black; padding-top: 144px" >
+    </section>  */}}
      <div class="container-fluid">
       <div class="row">
           <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">

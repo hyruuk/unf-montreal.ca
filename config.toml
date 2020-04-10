@@ -401,9 +401,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/unf-montreal.ca/docsy-example"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/unf-montreal/unf-montreal.ca"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -444,7 +444,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
-enable = false
+enable = true
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
@@ -516,17 +516,17 @@ map_marker = "images/marker.png"
 
 [[params.social]]
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/UNF_montreal"
 
-# [[params.social]]
-# title = "instagram"
-# icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+title = "slack"
+icon = "fab fa-slack" # themify icon : https://themify.me/themify-icons
+link = "#"
 
 [[params.social]]
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/unfmontreal/"
 
 # [[params.social]]
