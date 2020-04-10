@@ -1,17 +1,13 @@
-
 ---
 title: "Documentation"
-# linkTitle: "Documentation"
-weight: 20
-menu:
-  main:
-    weight: 20
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# about image
+image: "images/about/about-page.jpg"
+# meta description
+description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 ---
-
-{{% pageinfo %}}
-Yo
-{{% /pageinfo %}}
-
 
 This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
 

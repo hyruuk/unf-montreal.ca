@@ -108,3 +108,37 @@
 
 - id: download
   translation: Download
+
+##### DOCSY #####
+
+# UI strings. Buttons and similar.
+
+- id: ui_pager_prev
+  translation: Previous
+- id: ui_pager_next
+  translation: Next
+- id: ui_read_more
+  translation: Read more
+- id: ui_search
+  translation: Search this site…
+- id: ui_in
+  translation: in
+- id: footer_all_rights_reserved
+  translation: All Rights Reserved
+- id: footer_privacy_policy
+  translation: Privacy Policy
+- id: post_byline_by
+  translation: By
+- id: post_created
+  translation: Created
+- id: post_last_mod
+  translation: Last modified
+- id: post_edit_this
+  translation: Edit this page
+- id: post_create_issue
+  translation: Create documentation issue
+- id: post_create_project_issue
+  translation: Create project issue
+- id: post_posts_in
+  translation: Posts in
+
