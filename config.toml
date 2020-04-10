@@ -64,6 +64,12 @@ hasChildren = true
   weight = 2
 
   [[Languages.fr.menu.main]]
+  parent = "À propos de nous"
+  name = "About"
+  URL = "about"
+  weight = 3
+
+  [[Languages.fr.menu.main]]
   name = "Nouvelles"
   URL = "News"
   weight = 2

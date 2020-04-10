@@ -1,16 +1,15 @@
 <!doctype html>
 <html lang="{{ .Site.Language.Lang }}" class="no-js">
   <head>
-    {{ partial "docsy_head.html" . }}
-    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "head.html" . }}
   </head>
+  {{- partial "preloader.html" . -}}
+  {{- partial "header.html" . -}}
+  {{ partial "page-header.html" . }}
+  {{ partial "docsy_head.html" . }}
   <body class="td-{{ .Kind }}">
-    <header>
-      {{ partial "navbar.html" . }}
-    </header>
-    <div class="container-fluid td-outer">
-      <div class="td-main">
-        <div class="row flex-xl-nowrap">
+     <div class="container">
+      <div class="row">
           <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
             {{ partial "docsy_sidebar.html" . }}
           </div>
@@ -23,9 +22,8 @@
             {{ block "main" . }}{{ end }}
           </main>
         </div>
-      </div>
-      {{ partial "footer.html" . }}
     </div>
+    {{ partial "footer.html" . }}
     {{ partial "docsy_scripts.html" . }}
   </body>
 </html>
