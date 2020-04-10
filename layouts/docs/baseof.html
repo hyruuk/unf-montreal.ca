@@ -1,14 +1,16 @@
 <!doctype html>
 <html lang="{{ .Site.Language.Lang }}" class="no-js">
   <head>
-    {{ partial "head.html" . }}
+    {{ partial "docsy_head.html" . }}
   </head>
   {{- partial "preloader.html" . -}}
   {{- partial "header.html" . -}}
-  {{ partial "page-header.html" . }}
-  {{ partial "docsy_head.html" . }}
+  {{/*  {{ partial "page-header_docsy.html" . }}  */}}
   <body class="td-{{ .Kind }}">
-     <div class="container">
+    {{/*  Hack pour être capable d'abaisser "docs" en-dessous du navbar  */}}
+    <section class="" style="background: black; padding-top: 144px" >
+    </section>
+     <div class="container-fluid">
       <div class="row">
           <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
             {{ partial "docsy_sidebar.html" . }}
@@ -23,8 +25,7 @@
           </main>
         </div>
     </div>
-    {{ partial "head.html" . }}
     {{ partial "footer.html" . }}
-    {{ partial "docsy_scripts.html" . }}
   </body>
+  {{ partial "docsy_scripts.html" . }}
 </html>
