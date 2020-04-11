@@ -17,17 +17,17 @@ interest: ["Delete interest for staff?"]
 contact:
   # contact item loop
   - name : "basile.pinsard@criugm.qc.ca"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
+    icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
     link : "mailto:basile.pinsard@criugm.qc.ca"
 
   # contact item loop
   - name : "+1 514 340 2800"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
+    icon : "fas fa-phone-alt" # icon pack : https://themify.me/themify-icons
     link : "tel:+15143402800"
 
   # contact item loop
   - name : "4545 rue Queen-Mary, Montréal"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
+    icon : "fas fa-map-marker-alt" # icon pack : https://themify.me/themify-icons
     link : "https://goo.gl/maps/oJZVQeq7Hm3DqYsKA"
 
 # type

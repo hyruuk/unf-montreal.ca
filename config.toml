@@ -68,132 +68,121 @@ hasChildren = true
   URL = "team"
   weight = 2
 
-  [[Languages.fr.menu.main]]
-  parent = "À propos de nous"
-  name = "About"
-  URL = "about"
-  weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Nouvelles"
+URL = "news"
+weight = 2
+
+[[Languages.fr.menu.main]]
+weight = 3
+name = "Votre étude"
+hasChildren = true
 
   [[Languages.fr.menu.main]]
-  name = "Nouvelles"
-  URL = "News"
+  parent = "Votre étude"
+  name = "Formulaires à télécharger"
+  URL = "forms"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "Votre étude"
+  name = "Évaluation des projets"
+  URL = "project_evaluation"
   weight = 2
 
   [[Languages.fr.menu.main]]
+  parent = "Votre étude"
+  name = "Guide de soumission des projets"
+  URL = "project_submission"
   weight = 3
-  name = "Votre étude"
-  hasChildren = true
-
-    [[Languages.fr.menu.main]]
-    parent = "Votre étude"
-    name = "Formulaires à télécharger"
-    URL = "forms"
-    weight = 1
-
-    [[Languages.fr.menu.main]]
-    parent = "Votre étude"
-    name = "Évaluation des projets"
-    URL = "project_evaluation"
-    weight = 2
-
-    [[Languages.fr.menu.main]]
-    parent = "Votre étude"
-    name = "Guide de soumission des projets"
-    URL = "project_submission"
-    weight = 3
-
-    [[Languages.fr.menu.main]]
-    parent = "Votre étude"
-    name = "Dates butoirs pour la soumission des projets de recherche"
-    URL = "project_submission_deadlines"
-    weight = 4
-
-    [[Languages.fr.menu.main]]
-    parent = "Votre étude"
-    name = "Taux horaires et politique de facturation"
-    URL = "rates"
-    weight = 5
-
-    [[Languages.fr.menu.main]]
-    parent = "Votre étude"
-    name = "Suivi des projets"
-    URL = "project_followup"
-    weight = 6
 
   [[Languages.fr.menu.main]]
-  name = "Recherche"
-  URL = "research"
+  parent = "Votre étude"
+  name = "Dates butoirs pour la soumission des projets de recherche"
+  URL = "project_submission_deadlines"
   weight = 4
 
-    [[Languages.fr.menu.main]]
-    parent = "Recherche"
-    name = "Sécurité"
-    URL = "research_safety_guidelines"
-    weight = 1
-
-    [[Languages.fr.menu.main]]
-    parent = "Recherche"
-    name = "Infrastructure"
-    URL = "research_infrastructure"
-    weight = 2
-
-    [[Languages.fr.menu.main]]
-    parent = "Recherche"
-    name = "Liste des publications"
-    URL = "research_published_papers"
-    weight = 3
-
-    [[Languages.fr.menu.main]]
-    parent = "Recherche"
-    name = "Découverte fortuite"
-    URL = "research_coincidental_findings"
-    weight = 4
-
   [[Languages.fr.menu.main]]
-  name = "Services"
-  URL = "services"
+  parent = "Votre étude"
+  name = "Taux horaires et politique de facturation"
+  URL = "rates"
   weight = 5
 
-    [[Languages.fr.menu.main]]
-    parent = "Services"
-    name = "Reservation IRM"
-    URL = "service_reserve_mri"
-    weight = 1
+  [[Languages.fr.menu.main]]
+  parent = "Votre étude"
+  name = "Suivi des projets"
+  URL = "project_followup"
+  weight = 6
 
-    [[Languages.fr.menu.main]]
-    parent = "Services"
-    name = "Reservation Salle de Simulation"
-    URL = "service_reserve_simulation_room"
-    weight = 2
-
-    [[Languages.fr.menu.main]]
-    parent = "Services"
-    name = "Récupération des données IRM"
-    URL = "service_mri_data_download"
-    weight = 3
-
-    [[Languages.fr.menu.main]]
-    parent = "Services"
-    name = "Traitement des données IRM"
-    URL = "service_mri_data_processing"
-    weight = 4
-
-    [[Languages.fr.menu.main]]
-    parent = "Services"
-    name = "Images et Logos"
-    URL = "service_images_logos"
-    weight = 5
-
-    # [[Languages.fr.menu.main]]
-    # parent = "Services"
-    # name = "Documentation"
-    # URL = "service_documentation"
-    # weight = 6
+[[Languages.fr.menu.main]]
+name = "Recherche"
+URL = "research"
+weight = 4
 
   [[Languages.fr.menu.main]]
-  name = "Contact"
-  URL = "Contact"
-  weight = 6
+  parent = "Recherche"
+  name = "Sécurité"
+  URL = "research_safety_guidelines"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "Recherche"
+  name = "Infrastructure"
+  URL = "research_infrastructure"
+  weight = 2
+
+  [[Languages.fr.menu.main]]
+  parent = "Recherche"
+  name = "Liste des publications"
+  URL = "research_published_papers"
+  weight = 3
+
+  [[Languages.fr.menu.main]]
+  parent = "Recherche"
+  name = "Découverte fortuite"
+  URL = "research_coincidental_findings"
+  weight = 4
+
+[[Languages.fr.menu.main]]
+name = "Services"
+URL = "services"
+weight = 5
+
+  [[Languages.fr.menu.main]]
+  parent = "Services"
+  name = "Reservation IRM ou salle de simulation"
+  URL = "https://reservation.unf-montreal.ca/"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "Services"
+  name = "Récupération des données IRM"
+  URL = "https://dicom.unf-montreal.ca/index.php"
+  weight = 2
+
+  [[Languages.fr.menu.main]]
+  parent = "Services"
+  name = "Traitement des données IRM"
+  URL = "service_mri_data_processing"
+  weight = 3
+
+  [[Languages.fr.menu.main]]
+  parent = "Services"
+  name = "Images et Logos"
+  URL = "service_images_logos"
+  weight = 4
+
+  [[Languages.fr.menu.main]]
+  parent = "Services"
+  name = "Documentation"
+  URL = "docs"
+  weight = 5
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
 
 # [[menu.main]]
 # name = "Home"
@@ -220,7 +209,7 @@ hasChildren = true
 
 [[menu.main]]
 name = "News"
-URL = "News"
+URL = "news"
 weight = 2
 
 [[menu.main]]
@@ -300,43 +289,37 @@ weight = 5
 
   [[menu.main]]
   parent = "Service"
-  name = "Reserve MRI"
-  URL = "service_reserve_mri"
+  name = "Reserve MRI or Simulation Room"
+  URL = "https://reservation.unf-montreal.ca/"
   weight = 1
 
   [[menu.main]]
   parent = "Service"
-  name = "Reserve Simulation Room"
-  URL = "service_reserve_simulation_room"
-  weight = 2
-
-  [[menu.main]]
-  parent = "Service"
   name = "MRI Data Download"
-  URL = "service_mri_data_download"
-  weight = 3
+  URL = "https://dicom.unf-montreal.ca/index.php"
+  weight = 2
 
   [[menu.main]]
   parent = "Service"
   name = "MRI Data Processing"
   URL = "service_mri_data_processing"
-  weight = 4
+  weight = 3
 
   [[menu.main]]
   parent = "Service"
   name = "Images & Logos"
   URL = "service_images_logos"
-  weight = 5
+  weight = 4
 
-  # [[menu.main]]
-  # parent = "Service"
-  # name = "Documentation"
-  # URL = "service_documentation"
-  # weight = 6
+  [[menu.main]]
+  parent = "Service"
+  name = "Documentation"
+  URL = "docs"
+  weight = 5
 
 [[menu.main]]
 name = "Contact"
-URL = "Contact"
+URL = "contact"
 weight = 6
 
 # footer menu
@@ -532,7 +515,7 @@ link = "https://twitter.com/UNF_montreal"
 [[params.social]]
 title = "slack"
 icon = "fab fa-slack" # refer to https://fontawesome.com/icons/
-link = "#"
+link = "http://mic-unf.slack.com/"
 
 [[params.social]]
 title = "github"

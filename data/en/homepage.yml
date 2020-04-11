@@ -142,6 +142,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Latest News"
   # blog item comes from "content/**/blog" folder.
