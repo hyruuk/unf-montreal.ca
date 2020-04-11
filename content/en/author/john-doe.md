@@ -8,11 +8,11 @@ email: "email2@example.org"
 # portrait
 image: ""
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+  - icon : "fab fa-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+  - icon : "fab fa-twitter-alt" # themify icon pack : https://themify.me/themify-icons
     link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
+  - icon : "fab fa-github" # themify icon pack : https://themify.me/themify-icons
     link : "#"
 ---
 

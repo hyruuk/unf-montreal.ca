@@ -17,7 +17,7 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 contact:
   # contact item loop
   - name : "clarkmalik@email.com"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
+    icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
     link : "mailto:clarkmalik@email.com"
 
   # contact item loop
@@ -27,12 +27,12 @@ contact:
 
   # contact item loop
   - name : "Clark Malik"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+    icon : "fab fa-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
   - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+    icon : "fab fa-twitter-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
@@ -47,7 +47,7 @@ contact:
 
   # contact item loop
   - name : "1313 Boulevard Cremazie,Quebec"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
+    icon : "fas fa-map-marker-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
 # type

@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -44,6 +44,11 @@ link = "plugins/google-map/gmap.js"
 ############################## navigation ###############################
 
 # main menu
+[[Languages.fr.menu.main]]
+name = 'Accueil'
+URL = '/'
+weight = 1
+
 [[Languages.fr.menu.main]]
 name = 'À propos de nous'
 URL = 'about'
@@ -189,6 +194,12 @@ hasChildren = true
   name = "Contact"
   URL = "Contact"
   weight = 6
+
+
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
 
 [[menu.main]]
 name = "About"
@@ -511,27 +522,27 @@ map_marker = "images/marker.png"
 ############################# social site ########################
 # [[params.social]]
 # title = "facebook"
-# icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+# icon = "fab fa-facebook" # refer to https://fontawesome.com/icons/
 # link = "#"
 
 [[params.social]]
 title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-twitter" # refer to https://fontawesome.com/icons/
 link = "https://twitter.com/UNF_montreal"
 
 [[params.social]]
 title = "slack"
-icon = "fab fa-slack" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-slack" # refer to https://fontawesome.com/icons/
 link = "#"
 
 [[params.social]]
 title = "github"
-icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-github" # refer to https://fontawesome.com/icons/
 link = "https://github.com/unfmontreal/"
 
 # [[params.social]]
 # title = "linkedin"
-# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# icon = "fab fa-linkedin" # refer to https://fontawesome.com/icons/
 # link = "#"
 
 
