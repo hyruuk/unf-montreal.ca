@@ -1,14 +1,14 @@
 
-{{ $scssMain := "docsy_scss/main.scss"}}
-{{ if .Site.IsServer }}
+{{ $scssMain := "scss/docsy/main.scss"}}
+{{/*  {{ if .Site.IsServer }}  */}}
 {{/* Note the missing postCSS. This makes it snappier to develop in Chrome, but makes it look sub-optimal in other browsers. */}}
 {{ $css := resources.Get $scssMain | toCSS (dict "enableSourceMap" true) }}
 <link href="{{ $css.RelPermalink }}" rel="stylesheet">
-{{ else }}
+{{/*  {{ else }}
 {{ $css := resources.Get $scssMain | toCSS (dict "enableSourceMap" false) | postCSS | minify | fingerprint }}
 <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
 <link href="{{ $css.RelPermalink }}" rel="stylesheet" integrity="{{ $css.Data.integrity }}">
-{{ end }}
+{{ end }}  */}}
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" media="screen">
 
