@@ -4,9 +4,9 @@
 # Default build settings
 [build]
   publish = "public"
-  command = "npm install postcss-cli && hugo"
+  command = "npm install postcss-cli"
 
 # "production" environment specific build settings
 [build.environment]
-  HUGO_VERSION = "0.62.2"
+  HUGO_VERSION = "0.66"
   HUGO_THEME = "educenter"
