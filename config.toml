@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://unf-montreal.ca/"
 title = "unf-montreal.ca"
 theme = "educenter"
 # post pagination
@@ -194,7 +194,6 @@ hasChildren = true
   name = "Contact"
   URL = "Contact"
   weight = 6
-
 
 [[menu.main]]
 name = "Home"
