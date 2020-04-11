@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://unf-montreal.ca/"
+baseURL = "./"
 title = "unf-montreal.ca"
 theme = "educenter"
 # post pagination
