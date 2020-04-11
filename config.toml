@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "./"
+baseURL = "https://mystifying-hypatia-43495b.netlify.com/"
 title = "unf-montreal.ca"
 theme = "educenter"
 # post pagination
