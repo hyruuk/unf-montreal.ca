@@ -44,10 +44,10 @@ link = "plugins/google-map/gmap.js"
 ############################## navigation ###############################
 
 # main menu
-[[Languages.fr.menu.main]]
-name = 'Accueil'
-URL = '/'
-weight = 1
+# [[Languages.fr.menu.main]]
+# name = 'Accueil'
+# URL = '/'
+# weight = 1
 
 [[Languages.fr.menu.main]]
 name = 'À propos de nous'
@@ -195,10 +195,10 @@ hasChildren = true
   URL = "Contact"
   weight = 6
 
-[[menu.main]]
-name = "Home"
-URL = "/"
-weight = 1
+# [[menu.main]]
+# name = "Home"
+# URL = "/"
+# weight = 1
 
 [[menu.main]]
 name = "About"
