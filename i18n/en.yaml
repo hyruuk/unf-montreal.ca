@@ -142,3 +142,16 @@
 - id: post_posts_in
   translation: Posts in
 
+##### NEW #####
+
+- id: your_name
+  translation: Your name
+
+- id: your_message
+  translation: Your message  
+
+- id: subject
+  translation: Subject
+
+- id: your_message
+  translation: Your message

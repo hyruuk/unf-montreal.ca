@@ -141,3 +141,17 @@
   translation: Crée un *issue*
 # - id: post_posts_in
 #   translation: Posts in
+
+##### NEW #####
+
+- id: your_name
+  translation: Votre nom
+
+- id: your_message
+  translation: Votre message  
+
+- id: subject
+  translation: Sujet
+
+- id: your_message
+  translation: Votre message
