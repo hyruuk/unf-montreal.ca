@@ -190,137 +190,186 @@ weight = 6
 # weight = 1
 
 [[menu.main]]
-name = "About"
+name = "About us"
 URL = "about"
 weight = 1
 hasChildren = true
 
   [[menu.main]]
-  parent = "About"
-  name = "UNF Historic"
-  URL = "historic"
+  parent = "About us"
+  name = "Our team"
+  URL = "team"
   weight = 1
 
   [[menu.main]]
-  parent = "About"
-  name = "Team"
-  URL = "team"
+  parent = "About us"
+  name = "Our researchers"
+  URL = "researchers"
   weight = 2
+
+  [[menu.main]]
+  parent = "About us"
+  name = "UNF History"
+  URL = "history"
+  weight = 3
+
+  [[menu.main]]
+  parent = "About us"
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+[[menu.main]]
+weight = 2
+name = "Facility"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "MRI"
+  URL = "MRI"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "Simulation room"
+  URL = "Simulation room"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "Testing room"
+  URL = "Testing room"
+  weight = 3
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "MRI hardware & software"
+  URL = "MRI Hardware & software"
+  weight = 4
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "EEG (coming soon)"
+  URL = "EEG"
+  weight = 5
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "Reservation calendar"
+  URL = "https://reservation.unf-montreal.ca/Web/index.php?"
+  weight = 6
 
 [[menu.main]]
 name = "News"
-URL = "news"
-weight = 2
+hasChildren = true
+weight = 3
+
+  [[menu.main]]
+  parent = "News"
+  name = "Recent news"
+  URL = "news"
+  weight = 1
+
+  [[menu.main]]
+  parent = "News"
+  name = "Seminars"
+  URL = "seminars"
+  weight = 2
 
 [[menu.main]]
-weight = 3
+weight = 4
 name = "Your study"
 hasChildren = true
 
   [[menu.main]]
   parent = "Your study"
-  name = "Forms and documents"
-  URL = "forms"
+  name = "Ethics"
+  URL = "ethics"
   weight = 1
 
   [[menu.main]]
   parent = "Your study"
-  name = "Project Evaluation"
-  URL = "project_evaluation"
+  name = "Safety guidelines"
+  URL = "Safety guidelines"
   weight = 2
 
   [[menu.main]]
   parent = "Your study"
-  name = "Project Submission"
-  URL = "project_submission"
+  name = "Setting up you MR study"
+  URL = "setup_mr"
   weight = 3
 
   [[menu.main]]
   parent = "Your study"
-  name = "Project Submission Deadlines"
-  URL = "project_submission_deadlines"
+  name = "Setting up your EEG study"
+  URL = "Setting up your EEG study"
   weight = 4
 
   [[menu.main]]
   parent = "Your study"
-  name = "Hourly Rates"
-  URL = "rates"
+  name = "Reservation"
+  URL = "reservation"
   weight = 5
 
   [[menu.main]]
   parent = "Your study"
-  name = "Project Follow-up"
-  URL = "project_followup"
+  name = "Forms and documents"
+  URL = "forms"
   weight = 6
 
-[[menu.main]]
-name = "Research"
-URL = "research"
-weight = 4
+  [[menu.main]]
+  parent = "Your study"
+  name = "Data download"
+  URL = "download"
+  weight = 7
 
   [[menu.main]]
-  parent = "Research"
-  name = "Safety Guidelines"
-  URL = "research_safety_guidelines"
+  parent = "Your study"
+  name = "Data preprocessing"
+  URL = "preprocessing"
+  weight = 8
+
+  [[menu.main]]
+  parent = "Your study"
+  name = "Incidental findings"
+  URL = "findings"
+  weight = 9
+
+  [[menu.main]]
+  parent = "Your study"
+  name = "Logos"
+  URL = "logos"
+  weight = 10
+
+[[menu.main]]
+name = "Training & Computing"
+URL = "training"
+weight = 5
+
+  [[menu.main]]
+  parent = "Training & Computing"
+  name = "MRI safety training"
+  URL = "safety_training"
   weight = 1
 
   [[menu.main]]
-  parent = "Research"
+  parent = "Training & Computing"
   name = "Infrastructure"
   URL = "research_infrastructure"
   weight = 2
 
   [[menu.main]]
-  parent = "Research"
-  name = "Published Papers"
+  parent = "Training & Computing"
+  name = "Published papers"
   URL = "research_published_papers"
   weight = 3
 
   [[menu.main]]
-  parent = "Research"
-  name = "Coincidental Findings"
+  parent = "Training & Computing"
+  name = "Coincidental findings"
   URL = "research_coincidental_findings"
   weight = 4
-
-[[menu.main]]
-name = "Service"
-URL = "Service"
-weight = 5
-
-  [[menu.main]]
-  parent = "Service"
-  name = "Reserve MRI or Simulation Room"
-  URL = "https://reservation.unf-montreal.ca/"
-  weight = 1
-
-  [[menu.main]]
-  parent = "Service"
-  name = "MRI Data Download"
-  URL = "https://dicom.unf-montreal.ca/index.php"
-  weight = 2
-
-  [[menu.main]]
-  parent = "Service"
-  name = "MRI Data Processing"
-  URL = "service_mri_data_processing"
-  weight = 3
-
-  [[menu.main]]
-  parent = "Service"
-  name = "Images & Logos"
-  URL = "service_images_logos"
-  weight = 4
-
-  [[menu.main]]
-  parent = "Service"
-  name = "Documentation"
-  URL = "docs"
-  weight = 5
-
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
 
 # footer menu
 
@@ -379,13 +428,13 @@ privacy_policy = "https://policies.google.com/privacy"
 # This menu appears only if you have at least one [params.versions] set.
 version_menu = "Releases"
 
-# Flag used in the "version-banner" partial to decide whether to display a 
+# Flag used in the "version-banner" partial to decide whether to display a
 # banner on every page indicating that this is an archived version of the docs.
 # Set this flag to "true" if you want to display the banner.
 archived_version = false
 
 # The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the 
+# Used in the "version-banner" partial to display a version number for the
 # current doc set.
 version = "0.0"
 
@@ -434,7 +483,7 @@ yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/i
 no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page, 
+# If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = true
