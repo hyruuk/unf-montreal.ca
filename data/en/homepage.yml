@@ -4,37 +4,37 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "COVID-19"
+      content : "The UNF is closed until further notice. The UNF team is monitoring the situation, and we will let you know as soon as the conditions allow us to re-open the platform."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Apply now"
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "WELCOME TO THE UNF"
+      content : "UNF (Unité de Neuroimagerie Fonctionnelle) of the Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM) is solely dedicated to research in neuroimaging. Researchers from Université de Montréal and affiliates (research centers and faculty members) from Canada and around the globe can benefit from its state-of-the-art technology."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Apply now"
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Documentation"
+      content : "Answers to most of your questions can be found on the website; whether, you are setting up an experiment, wanting to find out the dates for submitting a project, looking for forms or recuperation imaging data, the latest information are available."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
+        label : "Read the documentation"
+        link : "docs"
 
 
 ############################### Banner feature ###############################
@@ -79,9 +79,9 @@ about:
 
 
 ############################# Course ################################
-course:
-  enable : false
-  title : "Our Course"
+#course:
+#  enable : false
+#  title : "Our Course"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
@@ -111,7 +111,7 @@ success_story:
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
