@@ -57,138 +57,187 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "À propos de nous"
-  name = "Historique"
-  URL = "historic"
+  name = "Notre équipe"
+  URL = "team"
   weight = 1
-
 
   [[Languages.fr.menu.main]]
   parent = "À propos de nous"
-  name = "Équipe"
-  URL = "team"
+  name = "Nos chercheurs"
+  URL = "researchers"
   weight = 2
 
+  [[Languages.fr.menu.main]]
+  parent = "À propos de nous"
+  name = "Notre histoire"
+  URL = "history"
+  weight = 3
+
+  [[Languages.fr.menu.main]]
+  parent = "À propos de nous"
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+[[Languages.fr.menu.main]]
+weight = 2
+name = "Installations"
+hasChildren = true
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "IRM"
+  URL = "MRI"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "Salle de simulation"
+  URL = "simulation_room"
+  weight = 2
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "Salle de tests"
+  URL = "testing_room"
+  weight = 3
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "Matériels et logiciels"
+  URL = "mri_hardware_software"
+  weight = 4
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "EEG (bientôt)"
+  URL = "EEG"
+  weight = 5
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "Calendrier de réservation"
+  URL = "https://reservation.unf-montreal.ca/Web/index.php?"
+  weight = 6
 
 [[Languages.fr.menu.main]]
 name = "Nouvelles"
-URL = "news"
-weight = 2
+hasChildren = true
+weight = 3
+
+  [[Languages.fr.menu.main]]
+  parent = "Nouvelles"
+  name = "Nouvelles récentes"
+  URL = "news"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "Nouvelles"
+  name = "Séminaires"
+  URL = "seminars"
+  weight = 2
 
 [[Languages.fr.menu.main]]
-weight = 3
+weight = 4
 name = "Votre étude"
 hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Formulaires à télécharger"
-  URL = "forms"
+  name = "Éthique"
+  URL = "ethics"
   weight = 1
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Évaluation des projets"
-  URL = "project_evaluation"
+  name = "Consignes de sécurité"
+  URL = "safety_guidelines"
   weight = 2
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Guide de soumission des projets"
-  URL = "project_submission"
+  name = "Préparez votre étude IMR"
+  URL = "setup_mri"
   weight = 3
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Dates butoirs pour la soumission des projets de recherche"
-  URL = "project_submission_deadlines"
+  name = "Préparez votre étude EEG"
+  URL = "setup_eeg"
   weight = 4
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Taux horaires et politique de facturation"
-  URL = "rates"
+  name = "Réservation"
+  URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
   weight = 5
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Suivi des projets"
-  URL = "project_followup"
+  name = "Formulaires et documents"
+  URL = "forms"
   weight = 6
 
-[[Languages.fr.menu.main]]
-name = "Recherche"
-URL = "research"
-weight = 4
+  [[Languages.fr.menu.main]]
+  parent = "Votre étude"
+  name = "Téléchargement de vos données"
+  URL = "download"
+  weight = 7
 
   [[Languages.fr.menu.main]]
-  parent = "Recherche"
-  name = "Sécurité"
-  URL = "research_safety_guidelines"
-  weight = 1
+  parent = "Votre étude"
+  name = "Prétraitement de vos données"
+  URL = "preprocessing"
+  weight = 8
 
   [[Languages.fr.menu.main]]
-  parent = "Recherche"
-  name = "Infrastructure"
-  URL = "research_infrastructure"
-  weight = 2
+  parent = "Votre étude"
+  name = "Découvertes fortuites"
+  URL = "findings"
+  weight = 9
 
   [[Languages.fr.menu.main]]
-  parent = "Recherche"
-  name = "Liste des publications"
-  URL = "research_published_papers"
-  weight = 3
-
-  [[Languages.fr.menu.main]]
-  parent = "Recherche"
-  name = "Découverte fortuite"
-  URL = "research_coincidental_findings"
-  weight = 4
+  parent = "Votre étude"
+  name = "Logos"
+  URL = "logos"
+  weight = 10
 
 [[Languages.fr.menu.main]]
-name = "Services"
-URL = "services"
 weight = 5
+name = "Formations"
+hasChildren = true
 
   [[Languages.fr.menu.main]]
-  parent = "Services"
-  name = "Reservation IRM ou salle de simulation"
-  URL = "https://reservation.unf-montreal.ca/"
+  parent = "Formations"
+  name = "Formation à la sécurité en IRM"
+  URL = "safety_training"
   weight = 1
 
   [[Languages.fr.menu.main]]
-  parent = "Services"
-  name = "Récupération des données IRM"
-  URL = "https://dicom.unf-montreal.ca/index.php"
+  parent = "Formations"
+  name = "Stockage de vos données"
+  URL = "data_storage"
   weight = 2
 
   [[Languages.fr.menu.main]]
-  parent = "Services"
-  name = "Traitement des données IRM"
-  URL = "service_mri_data_processing"
+  parent = "Formations"
+  name = "Analyse de vos données"
+  URL = "data_analysis"
   weight = 3
 
   [[Languages.fr.menu.main]]
-  parent = "Services"
-  name = "Images et Logos"
-  URL = "service_images_logos"
+  parent = "Formations"
+  name = "Compute Canada"
+  URL = "compute_canada"
   weight = 4
 
   [[Languages.fr.menu.main]]
-  parent = "Services"
+  parent = "Formations"
   name = "Documentation"
   URL = "docs"
   weight = 5
 
-[[Languages.fr.menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
-
-# [[menu.main]]
-# name = "Home"
-# URL = "/"
-# weight = 1
-
+## English Menu
 [[menu.main]]
 name = "About us"
 URL = "about"
@@ -233,19 +282,19 @@ hasChildren = true
   [[menu.main]]
   parent = "Facility"
   name = "Simulation room"
-  URL = "Simulation room"
+  URL = "simulation_room"
   weight = 2
 
   [[menu.main]]
   parent = "Facility"
   name = "Testing room"
-  URL = "Testing room"
+  URL = "testing_room"
   weight = 3
 
   [[menu.main]]
   parent = "Facility"
   name = "MRI hardware & software"
-  URL = "MRI Hardware & software"
+  URL = "mri_hardware_software"
   weight = 4
 
   [[menu.main]]
@@ -257,7 +306,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Facility"
   name = "Reservation calendar"
-  URL = "https://reservation.unf-montreal.ca/Web/index.php?"
+  URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
   weight = 6
 
 [[menu.main]]
@@ -303,7 +352,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Setting up your EEG study"
-  URL = "Setting up your EEG study"
+  URL = "setup_eeg"
   weight = 4
 
   [[menu.main]]
@@ -343,33 +392,40 @@ hasChildren = true
   weight = 10
 
 [[menu.main]]
-name = "Training & Computing"
-URL = "training"
+name = "Training"
+hasChildren = true
 weight = 5
 
   [[menu.main]]
-  parent = "Training & Computing"
+  parent = "Training"
   name = "MRI safety training"
   URL = "safety_training"
   weight = 1
 
   [[menu.main]]
-  parent = "Training & Computing"
-  name = "Infrastructure"
-  URL = "research_infrastructure"
+  parent = "Training"
+  name = "Data storage"
+  URL = "data_storage"
   weight = 2
 
   [[menu.main]]
-  parent = "Training & Computing"
-  name = "Published papers"
-  URL = "research_published_papers"
+  parent = "Training"
+  name = "Data analysis"
+  URL = "data_analysis"
   weight = 3
 
   [[menu.main]]
-  parent = "Training & Computing"
-  name = "Coincidental findings"
-  URL = "research_coincidental_findings"
+  parent = "Training"
+  name = "Compute Canada"
+  URL = "compute_canada"
   weight = 4
+
+  [[menu.main]]
+  parent = "Training"
+  name = "Documentation"
+  URL = "docs"
+  weight = 5
+
 
 # footer menu
 

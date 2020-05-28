@@ -4,41 +4,41 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "L'UNF c'est bien"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "COVID-19"
+      content : "L’unité de neuroimagerie fonctionnelle est fermée jusqu’à nouvel ordre. L’équipe UNF reste mobilisée, et nous vous laisserons savoir dès que les conditions nous permettrons de reprendre les activités de la plateforme."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Postuler maintenant"
         link : "contact"
 
     # slider item loop
-    - title : "L'UNF c'est beau"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Bienvenue à l’UNF"
+      content : "L’Unité de Neuroimagerie Fonctionnelle (UNF) du Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM) constitue une infrastructure technologique de pointe entièrement dédiée à la recherche en neuro-imagerie. L’UNF dessert les chercheurs provenant des centres de recherche et institutions affiliés à l’Université de Montréal, de la grande région de Montréal, du Québec et d’ailleurs au Canada ou à l’étranger."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Postuler"
         link : "contact"
 
     # slider item loop
-    - title : "L'UNF on est gentil"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Documentation"
+      content : "Les réponses à la plupart de vos questions peuvent y être trouvées, que vous soyez en train de mettre en place un protocole, cherchiez à connaître les dates pour la soumission d’un projet, soyez à la recherche de formulaires ou de la procédure pour récupérer vos données d’imagerie. Les informations les plus à jour sont sur ce site Internet."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Postuler"
-        link : "contact"
+        label : "Lire la documentation"
+        link : "docs"
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Événements à venir"
   # event item comes from "content/**/event" folder.
 
@@ -84,20 +84,20 @@ about:
 
 
 ############################# Course ################################
-# course:
-#  enable : true
-#   title : "Notre cours"
-  # course item comes from "content/**/course" folder.
+course:
+  enable : false
+  title : "Notre cours"
+  #course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
-# cta:
-#  enable : true
-#  subtitle : "Cliquez pour vous joindre à l’atelier avancé"
-#  title : "Apprentissage en réseautique avancée"
-#  button:
-#    enable : true
-#    label : "Se joindre"
-#    link : "contact"
+cta:
+  enable : false
+  subtitle : "Cliquez pour vous joindre à l’atelier avancé"
+  title : "Apprentissage en réseautique avancée"
+  button:
+    enable : true
+    label : "Se joindre"
+    link : "contact"
 
 
 ######################## Success story #############################
@@ -105,10 +105,7 @@ success_story:
   enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Mot du directeur"
-  content : "Directeur, président général de la vie UNF
-
-
-  Pierre Bellec"
+  content : "Directeur, président général de la vie UNF Pierre Bellec"
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
