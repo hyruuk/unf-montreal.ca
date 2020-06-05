@@ -148,10 +148,13 @@
   translation: Votre nom
 
 - id: your_message
-  translation: Votre message  
+  translation: Votre message
 
 - id: subject
   translation: Sujet
 
 - id: your_message
   translation: Votre message
+
+- id: participate
+  translation: Participer
