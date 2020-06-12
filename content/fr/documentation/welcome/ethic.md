@@ -18,47 +18,48 @@ Pour toute question ou clarification au sujet des procédures d’évaluation du
 comité d’éthique, contactez Mme Karima Bekhiti.
 
 Téléphone: 514-527-9565, poste 3223  
-Courriel: [karima.bekhiti.iugm@ssss.gouv.qc.ca](mailto:karima.bekhiti.iugm@ssss.gouv.qc.ca)
+Courriel: [__karima.bekhiti.iugm@ssss.gouv.qc.ca__](mailto:karima.bekhiti.iugm@ssss.gouv.qc.ca)
 
 ## Planifier votre étude
 
-Sur le [site web du comité d'éthique](http://www.criugm.qc.ca/la-recherche/ethique.html), vous trouverez les informations les plus récentes pour soumettre un projet aux différents comités de révision de votre demande. Les informations concernant les directives pour la soumission, les dates, la facturation et le suivi sont également disponibles à cette adresse.
+Sur le [__site web du comité d'éthique__](http://www.criugm.qc.ca/la-recherche/ethique.html), vous trouverez les informations les plus récentes pour soumettre un projet aux différents comités de révision de votre demande. Les informations concernant les directives pour la soumission, les dates, la facturation et le suivi sont également disponibles à cette adresse.
 
-*Voici les étapes à suivre quand vous planifiez la soumission d’un projet:*
+## Soumission d'un projet
 
-## Évaluation du projet
+Voici les étapes à suivre quand vous planifiez la soumission d’un projet:
+
+### 1. Évaluation du projet
 
 Il y a trois types d'évaluations qui sont nécessaires pour tous les projets de recherche:
 
-1.  Évaluation scientifique
+- Évaluation scientifique
 
-2.  Évaluation éthique
+- Évaluation éthique
 
-3.  Évaluation de la convenance administrative et institutionnelle
+- Évaluation de la convenance administrative et institutionnelle
 
 Une fois les trois évaluations complétées, votre projet pourra être approuvé par la personne formellement mandatée responsable pour le CIUSSS du Centre-Sud-de-l’Île-de-Montréal. Ce n'est qu'après l'approbation de votre projet par la personne formellement mandatée que vous êtes autorisés à commencer votre projet de recherche.
 
-## Guide de soumission
-Les directives de soumission de projet (pour plus de détails, consultez ce
-  [*lien*](http://www.criugm.qc.ca/fr/la-recherche/ethique.html).
+### 2. Guide de soumission
+Les directives de soumission de projet (pour plus de détails, consultez ce [__lien__](http://www.criugm.qc.ca/fr/la-recherche/ethique.html)).
 
 En fonction du type de projet de recherche, différents documents sont requis.
 
-1.  Projets de recherche en neuroimagerie
+- Projets de recherche en neuroimagerie
 
-2.  Projet de recherche dans lequel la neuroimagerie n’est pas la technique principale
+- Projet de recherche dans lequel la neuroimagerie n’est pas la technique principale
 
-3.  Projets de recherche en neuroimagerie avec essais cliniques
+- Projets de recherche en neuroimagerie avec essais cliniques
 
-## Dates de soumission
+### 3. Dates de soumission
 
-Consultez le [site du comité d'éthique](http://criugm.qc.ca/fr/la-recherche/ethique.html) pour connaître
+Consultez le [__site du comité d'éthique__](http://criugm.qc.ca/fr/la-recherche/ethique.html) pour connaître
 les dates des prochaines réunions ainsi que les dates limites pour le dépôt des projets.
 
-## Facturation et taux horaire
+### 4. Facturation et taux horaire
 
-Consultez les tableaux sur le [site web de l'UNF](http://www.unf-montreal.ca/site/taux-horaires-et-politique-de-facturation/) pour obtenir les taux horaires les plus récents applicables à votre catégorie.
+Consultez le section [__Taux horaire__](http://www.unf-montreal.ca//fr/rate/) pour connaitre les taux horaires les plus récents applicables à votre catégorie.
 
-## Suivi de projets
+### 5. Suivi de projets
 
-Pour la liste des formulaires de suivi de projet, consultez le [site du comité d'éthique de la recherche](http://criugm.qc.ca/fr/la-recherche/ethique.html).
+Pour la liste des formulaires de suivi de projet, consultez le [__site du comité d'éthique de la recherche__](http://criugm.qc.ca/fr/la-recherche/ethique.html).

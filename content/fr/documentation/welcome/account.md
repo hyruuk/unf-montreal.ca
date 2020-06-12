@@ -8,12 +8,12 @@ description: >
 type: "docs"
 ---
 
-Pour pouvoir mener à bien votre étude en IRM, vous devez obtenir un compte d'usager.
-Ce compte va vous permettre de faire une réservation (IRM, salle de simulation ou salle de test) en utilisant le [calendrier de réservations de l'UNF](https://reservation.unf-montreal.ca/Web/dashboard.php) et vous donnera accès aux serveurs de calculs.
+Pour pouvoir mener à bien votre étude à l'UNF, vous devez obtenir un compte d'usager.
+Ce compte va vous permettre de faire une réservation (IRM, salle de simulation ou salle de test) en utilisant le __[calendrier de réservation](https://reservation.unf-montreal.ca/Web/dashboard.php)__ et vous donnera accès aux serveurs de calculs.
 
-Nous vous encourageons aussi à demander à être ajouté au [slack de l'UNF](https://mic-unf.slack.com/). Il s'agit d'un chat où tout le monde peut poser des questions et s'entraider.
+Nous vous encourageons aussi à demander à être ajouté au __[slack de l'UNF](https://mic-unf.slack.com/)__. Il s'agit d'un chat où tout le monde peut poser des questions et s'entraider.
 
-Pour obtenir votre compte, envoyez un courriel à l'adresse suivante **[support.unf](mailto:support.unf@criugm.qc.ca?subject=Inscription-Serveurs_UNF)**.
+Pour obtenir votre compte, envoyez un courriel à l'adresse suivante __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Inscription-Serveurs_UNF)__.
 
 Veuillez également inclure l'information suivante:
 

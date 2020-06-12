@@ -158,3 +158,9 @@
 
 - id: participate
   translation: Participer
+
+- id: first_25h
+  translation: 25 premières heures
+
+- id: post_25h
+  translation: Heures suivantes

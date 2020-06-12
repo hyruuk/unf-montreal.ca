@@ -205,7 +205,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Taux horaire"
-  URL = "taux_horaire"
+  URL = "rate"
   weight = 11
 
 [[Languages.fr.menu.main]]

@@ -43,4 +43,4 @@ Visitez le site de l’UNF pour connaitre les prochaines dates auxquelles la for
 
 - Le cours est gratuit et dure environ 1 heure.
 
-Consultez la page [sécurité](http://www.unf-montreal.ca//fr/course/safety_training/) pour connaître la date des prochaines formations.
+Consultez la page __[sécurité](http://www.unf-montreal.ca//fr/course/safety_training/)__ pour connaître la date des prochaines formations.
