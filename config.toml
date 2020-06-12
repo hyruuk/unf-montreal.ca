@@ -87,31 +87,31 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "IRM"
-  URL = "MRI"
+  URL = "documentation/facility/mri"
   weight = 1
 
   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "Salle de simulation"
-  URL = "simulation_room"
+  URL = "documentation/facility/simulation_room"
   weight = 2
 
   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "Salle de tests"
-  URL = "testing_room"
+  URL = "documentation/facility/testing_room"
   weight = 3
 
   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "Matériels et logiciels"
-  URL = "mri_hardware_software"
+  URL = "documentation/facility/hardware_software"
   weight = 4
 
   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "EEG (bientôt)"
-  URL = "EEG"
+  URL = "documentation/facility/EEG"
   weight = 5
 
   [[Languages.fr.menu.main]]
@@ -145,25 +145,25 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Éthique"
-  URL = "ethics"
+  URL = "documentation/welcome/ethic"
   weight = 1
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Consignes de sécurité"
-  URL = "safety_guidelines"
+  URL = "documentation/your_study/safety_guidelines"
   weight = 2
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Préparez votre étude IMR"
-  URL = "setup_mri"
+  name = "Préparez votre étude IRM"
+  URL = "documentation/your_study/setup_mri"
   weight = 3
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Préparez votre étude EEG"
-  URL = "setup_eeg"
+  URL = "documentation/your_study/setup_eeg"
   weight = 4
 
   [[Languages.fr.menu.main]]
@@ -175,19 +175,19 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Formulaires et documents"
-  URL = "forms"
+  URL = "document"
   weight = 6
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Téléchargement de vos données"
-  URL = "download"
+  URL = "documentation/your_data/download_data"
   weight = 7
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Prétraitement de vos données"
-  URL = "preprocessing"
+  URL = "documentation/your_data/preproc_data"
   weight = 8
 
   [[Languages.fr.menu.main]]
@@ -199,8 +199,14 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Logos"
-  URL = "logos"
+  URL = "document/logos"
   weight = 10
+
+  [[Languages.fr.menu.main]]
+  parent = "Votre étude"
+  name = "Taux horaire"
+  URL = "rate"
+  weight = 11
 
 [[Languages.fr.menu.main]]
 weight = 5
@@ -210,32 +216,38 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Formations"
   name = "Formation à la sécurité en IRM"
-  URL = "safety_training"
+  URL = "course/safety_training"
   weight = 1
 
   [[Languages.fr.menu.main]]
   parent = "Formations"
   name = "Stockage de vos données"
-  URL = "data_storage"
+  URL = "documentation/your_data/data_storage"
   weight = 2
 
   [[Languages.fr.menu.main]]
   parent = "Formations"
   name = "Analyse de vos données"
-  URL = "data_analysis"
+  URL = "documentation/your_data/data_analysis"
   weight = 3
 
   [[Languages.fr.menu.main]]
   parent = "Formations"
   name = "Compute Canada"
-  URL = "compute_canada"
+  URL = "course/compute_canada"
   weight = 4
 
   [[Languages.fr.menu.main]]
   parent = "Formations"
-  name = "Documentation"
-  URL = "docs"
+  name = "Globus"
+  URL = "course/globus"
   weight = 5
+
+  [[Languages.fr.menu.main]]
+  parent = "Formations"
+  name = "Documentation"
+  URL = "documentation"
+  weight = 6
 
 ## English Menu
 [[menu.main]]
@@ -276,31 +288,31 @@ hasChildren = true
   [[menu.main]]
   parent = "Facility"
   name = "MRI"
-  URL = "MRI"
+  URL = "documentation/facility/MRI"
   weight = 1
 
   [[menu.main]]
   parent = "Facility"
   name = "Simulation room"
-  URL = "simulation_room"
+  URL = "documentation/facility/simulation_room"
   weight = 2
 
   [[menu.main]]
   parent = "Facility"
   name = "Testing room"
-  URL = "testing_room"
+  URL = "documentation/facility/testing_room"
   weight = 3
 
   [[menu.main]]
   parent = "Facility"
   name = "MRI hardware & software"
-  URL = "mri_hardware_software"
+  URL = "documentation/facility/hardware_software"
   weight = 4
 
   [[menu.main]]
   parent = "Facility"
   name = "EEG (coming soon)"
-  URL = "EEG"
+  URL = "documentation/facility/EEG"
   weight = 5
 
   [[menu.main]]
@@ -334,7 +346,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Ethics"
-  URL = "ethics"
+  URL = "documnentation/welcome/ethic"
   weight = 1
 
   [[menu.main]]
@@ -346,13 +358,13 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Setting up you MR study"
-  URL = "setup_mr"
+  URL = "documentation/your_study/setup_mri"
   weight = 3
 
   [[menu.main]]
   parent = "Your study"
   name = "Setting up your EEG study"
-  URL = "setup_eeg"
+  URL = "documentation/your_study/setup_eeg"
   weight = 4
 
   [[menu.main]]
@@ -364,19 +376,19 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Forms and documents"
-  URL = "forms"
+  URL = "document"
   weight = 6
 
   [[menu.main]]
   parent = "Your study"
   name = "Data download"
-  URL = "download"
+  URL = "documentation/your_study/download_data"
   weight = 7
 
   [[menu.main]]
   parent = "Your study"
   name = "Data preprocessing"
-  URL = "preprocessing"
+  URL = "documentation/your_study/preproc_data"
   weight = 8
 
   [[menu.main]]
@@ -388,7 +400,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Logos"
-  URL = "logos"
+  URL = "document/logos"
   weight = 10
 
 [[menu.main]]
@@ -405,13 +417,13 @@ weight = 5
   [[menu.main]]
   parent = "Training"
   name = "Data storage"
-  URL = "data_storage"
+  URL = "documentation/your_study/storage_data"
   weight = 2
 
   [[menu.main]]
   parent = "Training"
   name = "Data analysis"
-  URL = "data_analysis"
+  URL = "documentation/your_study/analysis_data"
   weight = 3
 
   [[menu.main]]
@@ -422,9 +434,15 @@ weight = 5
 
   [[menu.main]]
   parent = "Training"
+  name = "Globus"
+  URL = "globus"
+  weight = 5
+
+  [[menu.main]]
+  parent = "Training"
   name = "Documentation"
   URL = "docs"
-  weight = 5
+  weight = 6
 
 
 # footer menu
