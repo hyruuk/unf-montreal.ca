@@ -11,7 +11,7 @@ type: 'docs'
 Chaque projet IRM a un ensemble unique de paramètres d'acquisition qui varient selon le type des séquences et tâches qui seront incluses dans cette étude
 particulière.
 
-Les séquences IRM à utiliser, ainsi que les paramètres d'acquisition de ces séquences doivent être communiqués au [personnel de l'UNF](mailto:support.unf@criugm.qc.ca) avant votre session d'acquisition pilote. Un délai minimum d'une semaine avant votre session pilote est fortement recommandé pour s'assurer que le protocole puisse être créé avec les bons paramètres avant votre arrivée.
+Les séquences IRM à utiliser, ainsi que les paramètres d'acquisition de ces séquences doivent être communiqués au **[personnel de l'UNF](mailto:support.unf@criugm.qc.ca)** avant votre session d'acquisition pilote. Un délai minimum d'une semaine avant votre session pilote est fortement recommandé pour s'assurer que le protocole puisse être créé avec les bons paramètres avant votre arrivée.
 
 Ce qui doit être fait:
 
@@ -19,7 +19,7 @@ Ce qui doit être fait:
 
 -   Ceci dépend de la partie du corps que vous allez étudier dans votre expérience et quel type de séquences sont incluses dans votre projet, ainsi que de l'équipement périphérique que vous prévoyez utiliser (équipement de suivi des yeux, des stimuli auditifs, etc.).
 
--   Pour les acquisitions au niveau de la tête, il faut choisir entre une antenne à 20, 32 ou 64 canaux. Vous pouvez contacter le [personnel de l'UNF](mailto:support.unf@criugm.qc.ca) pour des informations pour toute information supplémentaire concernant le choix d'antenne pour votre étude.
+-   Pour les acquisitions au niveau de la tête, il faut choisir entre une antenne à 20, 32 ou 64 canaux. Vous pouvez contacter le **[personnel de l'UNF](mailto:support.unf@criugm.qc.ca)** pour des informations pour toute information supplémentaire concernant le choix d'antenne pour votre étude.
 
 ## Liste des séquences
 
