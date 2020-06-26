@@ -32,9 +32,9 @@ Si vous souhaitez accéder à la salle d'IRM en dehors des heures d'ouvertures
 normales veuillez envoyer un courriel à l'adresse suivante **[support.unf](mailto:support.unf@criugm.qc.ca?subject=Demande_Accès_MRI_Off-Hours)**.
 
 
-## Reservation
+## Réservations
 
-La reservation de l'IRM se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/fr/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
+La réservation de l'IRM se fait via le calendrier de réservation et la [__section réservation__](https://unf-montreal.ca/fr/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
 
 Les réservations pour l'IRM sont assujetties aux règles suivantes:
 
@@ -51,15 +51,15 @@ Les taux horaires sont présentés dans cette [__section__](https://unf-montreal
 
 ## Formulaires
 
-Les formulaires a remplir sont détaillés dans la section [__formulaires__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
+Les formulaires à remplir sont détaillés dans la section [__formulaires__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
 
 
 ## Accès et sécurité
 
-L'accès à l'IRM est controlé par les technitiens IRM. Ce sont les seuls à pouvoir vous laisser rentrer dans l'UNF.
+L'accès à l'IRM est controlé par les opérateurs de l'IRM. Ce sont les seuls à pouvoir vous laisser entrer dans l'UNF.
 Vous n'aurez accès à l'IRM qu'àprès avoir participé à la [__formation__](https://unf-montreal.ca/fr/documentation/welcome/security) sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.
 
-Une fois l'IRM reservé, présentez vous le jour de votre acquisition à l'entrée de l'UNF. Vous ne serez autorisé à rentrer que sous certaines conditions:
+Une fois l'IRM réservé, présentez vous le jour de votre acquisition à l'entrée de l'UNF. Vous ne serez autorisé à entrer que sous certaines conditions:
 
 - Les formulaires (réquisition IRM et dépistage) doivent avoir été remplis à l'avance
 
@@ -67,11 +67,11 @@ Une fois l'IRM reservé, présentez vous le jour de votre acquisition à l'entr�
 
 - Vous devrez remplir un questionnaire relié à de possibles symptômes COVID-19
 
-- Nous prendrons votre température afin de détecter de la fièvre potentielle
+- Nous prendrons votre température (lecture sans contact) afin de détecter de la fièvre potentielle
 
-- Vous devez vous presenter seul avec le participant
+- Vous devez vous présenter seul avec le participant
 
-- Vous devrez vous être lavé les mains avec le desinfectant à disposition
+- Vous devrez vous laver les mains avec le désinfectant à disposition
 
 - Vous devrez porter un masque de protection (fourni par l'UNF)
 
