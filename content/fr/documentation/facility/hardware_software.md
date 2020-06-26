@@ -52,8 +52,10 @@ Afin d'utiliser du matériel partagé par un groupe de recherche il vous sera de
 ### Matériel mis à disposition par d'autres groupes
 
 - Eye tracker (contact)
-- Biopack (contact)
-
+- Biopac MP-160 (contact)
+	- Conductance électrodermale
+	- Pléthysmographe
+	- Respiration
 
 ## Salle de simulation
 
