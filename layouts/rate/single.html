@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<!-- rate -->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <!--
+      <div class="col-md-6 mb-4 mb-md-0">
+        <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="scholarship news">
+      </div>
+      -->
+      <div class="col-md">
+        <h2 class="bold"> {{ .Title }}</h2>
+        <p class="content">{{.Params.subtitle}}</p>
+      </div>
+    </div>
+    <div class="row">
+      <!-- rate item -->
+      {{ with .Params.rate }}
+      {{ range .type }}
+      <div class="col-md-4">
+        <div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0">
+            <div class="card-body">
+              <h5 class="card-title mb-4 col-md">{{ .title }}</h5>
+              <p class="card-text">
+                <ul class="ul-edu fa-ul">
+                <li>
+                    <i class="fa-li fas fa-icon"></i>
+                    <div class="description">
+                        {{ with .first_25h }}<p class="content"> <span class="font-weight-bold">{{ T "first_25h" }}:</span>{{ . | markdownify }}</p>{{end}}
+                        {{ with .post_25h }}<p class="content"> <span class="font-weight-bold">{{ T "post_25h" }}:</span>{{ . | markdownify }}</p>{{end}}
+                        {{ with .comment }} <p class="institution">{{ . | markdownify }}</p>{{end}}
+                    </div>
+                </li>
+                </ul>
+              </p>
+            </div>
+        </div>
+
+    </div>
+    {{ end }}
+    {{ end }}
+
+</div>
+<div class="content">{{ .Content }}</div>
+</div>
+</section>
+<!-- /scholarship -->
+
+
+
+{{ end }}

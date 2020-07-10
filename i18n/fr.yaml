@@ -148,7 +148,7 @@
   translation: Votre nom
 
 - id: your_message
-  translation: Votre message  
+  translation: Votre message
 
 - id: subject
   translation: Sujet
@@ -158,3 +158,12 @@
 
 - id: your_email
   translation: Votre courriel
+
+- id: participate
+  translation: Participer
+
+- id: first_25h
+  translation: 25 premières heures
+
+- id: post_25h
+  translation: Heures suivantes
