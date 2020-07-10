@@ -155,3 +155,6 @@
 
 - id: your_message
   translation: Votre message
+
+- id: your_email
+  translation: Votre courriel
