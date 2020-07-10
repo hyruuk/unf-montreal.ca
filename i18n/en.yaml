@@ -156,5 +156,8 @@
 - id: your_message
   translation: Your message
 
+- id: your_email
+  translation: Your email
+
 - id: participate
   translation: Participate
