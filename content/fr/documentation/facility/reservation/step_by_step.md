@@ -16,7 +16,7 @@ type: 'docs'
 
 ![calendrier](/images/documentation/fr/reservation_mri_1.png)
 
-- Vous devez selectionner avec votre souris la plage horaire que vous souhaitez reserver.
+- Vous devez selectionner avec votre souris la plage horaire que vous souhaitez reserver. Une seule réservation par 
 
 ![plage horaire](/images/documentation/fr/reservation_mri_2b.png)
 
@@ -28,17 +28,21 @@ Les champs obligatoires:
 - Libellé de la réservation
 - Session name
 - Accessoires
-- #person scanned | # personnes scannées
 
+# Après votre réservation
 
+Votre réservation sera alors visible en jaune (en attente) sur le calendrier. Vous recevrez un mail automatique lors de la réception de votre demande.
+Un administrateur devra manuellement approuver ou non votre demande. Vous recevrez alors un second email. Si votre demande a été acceptée vous trouverez dans l'email 2 liens qui correspondent aux formulaires à remplir avant votre venue.
 
+- **Link to screening/depistage**: depistage à faire remplir par le participant (peut rempli depuis une tablette ou un ordinateur)
+
+- **Link to requisition**: réquisition que vous devez remplir  
 
 ## Recommandations
-* La réservation n'apparaitra sur le calendrier web qu'après avoir été manuellement approuvée par un administrateur. Il est inutile de re-soumettre une demande à multiples reprises.
-* Un accusé de réception vous sera envoyé automatiquement lors de la réception de votre demande, puis un second courriel, vous confirmant l'acceptation ou le refus de celle-ci vous sera envoyé après le traitement de votre demande. Pour être certains de bien recevoir ces messages automatiques, assurez-vous d'entrer l'adresse courriel `reservationunf@criugm.qc.ca` dans la liste de vos expéditeurs approuvés
 * Faites attention d’inscrire la bonne date et heure *(horloge 24h)* dans le formulaire de réservation.
 * Faites attention de soumettre votre demande de réservation sur le bon calendrier (IRM ou salle de simulation). Le titre en gros caractères en haut de page indique le calendrier actif.
-* book the reservation under the name of the project you are planning to scan, this will permit the MRI operators to prepare the MRI equipment required for your scanning session.
+* Faites votre reservation sous le nom du projet qui sera utilisé pour scanner. Cela permettra au staff UNF de se préparer à l'avance.
+
 
 ## Annulation d'une réservation
  Si vous souhaitez effectuer une annulation, veuillez consulter la [__politique d’annulation__](http://www.unf-montreal.ca/fr/taux_horaire) sur le site de l’UNF pour éviter des coûts inutiles.

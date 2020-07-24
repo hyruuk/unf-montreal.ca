@@ -9,7 +9,7 @@ description: >
 ---
 
 L'UNF met à diposition des chercheurs du matériel et des logiciels.
-Certains matériels doivent être reservé via le protocole de reservation des différentes installations de l'UNF pour pouvoir les utiliser.
+Certains matériels doivent être reservés via le protocole de reservation des différentes installations de l'UNF pour pouvoir les utiliser.
 
 
 Si un chercheur souhaite utiliser du matériel personnel il doit suivre les consignes dictées dans la section [__matériel extérieur__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/hardware_ext).
@@ -33,8 +33,8 @@ Afin d'utiliser du matériel partagé par un groupe de recherche il vous sera de
 
 ### Matériel UNF
 
-- Ordinateurs:
-  - Présentation de stimuli: Dell precision 3620, 7th gen i5-7500 3.4 GHz, 8GB DDR4 (Windows 10)
+- Ordinateurs
+  - Présentation de stimuli - Dell precision 3620, 7th gen i5-7500 3.4 GHz, 8GB DDR4 (Windows 10)
 
 - Matériel
   - Projecteur PowerLite L615U (Epson)
@@ -69,7 +69,7 @@ Afin d'utiliser du matériel partagé par un groupe de recherche il vous sera de
 
 ### Matériel mis à disposition par d'autres groupes
 
-Aucun matériel n'est partagé par d'autres groupes. Soyez le premier.
+Aucun matériel n'est partagé par d'autres groupes. Soyez le premier!
 
 ## Salle de test
 
@@ -80,3 +80,5 @@ Aucun matériel n'est partagé par d'autres groupes. Soyez le premier.
 - Un écran (cable d'alimentation + cable VGA + cable HDMI)
 
 ### Matériel mis à disposition par d'autres groupes
+
+Aucun matériel n'est partagé par d'autres groupes. Soyez le premier!
