@@ -161,3 +161,6 @@
 
 - id: participate
   translation: Participate
+
+- id: minute_read
+  translation: minute read

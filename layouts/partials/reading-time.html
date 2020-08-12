@@ -1,1 +1,1 @@
-<p class="reading-time"><i class="fa fa-clock" aria-hidden="true"></i> {{ .ReadingTime }} minute read</p>
+<p class="reading-time"><i class="fa fa-clock" aria-hidden="true"></i>{{ if eq .ReadingTime 1 }} {{ .ReadingTime }} {{ T "minute_read"}} {{else}} {{ .ReadingTime }} {{ T "minute_reads"}} {{end}}</p>
