@@ -167,3 +167,9 @@
 
 - id: post_25h
   translation: Heures suivantes
+
+- id: minute_read
+  translation: minute à lire
+
+- id: minute_reads
+  translation: minutes à lire
