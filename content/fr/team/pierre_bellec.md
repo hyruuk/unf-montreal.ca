@@ -9,6 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/team/pierre_bellec.png"
 # course
 course: "Direction"
+weight: 1
 # biography
 bio: "Pierre Bellec, Ph.D., est Directeur scientifique de l'Unité de neuroimagerie fonctionnelle, Centre de recherche de l'Institut de gériatrie de Montréal, chercheur principal du laboratoire SIMEXP et Professeur agrégé au département de psychologie de l'Université de Montréal."
 # interest

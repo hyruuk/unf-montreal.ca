@@ -32,8 +32,6 @@ contact:
 
 # type
 type: "teacher"
-
-weight: 1
 ---
 
 ### À propos de moi
