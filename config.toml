@@ -111,7 +111,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "EEG (bientôt)"
-  URL = "documentation/facility/EEG"
+  URL = "documentation/facility/eeg"
   weight = 5
 
   [[Languages.fr.menu.main]]
@@ -151,7 +151,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Consignes de sécurité"
-  URL = "documentation/your_study/safety_guidelines"
+  URL = "documentation/welcome/safety_guidelines"
   weight = 2
 
   [[Languages.fr.menu.main]]
@@ -193,7 +193,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Découvertes fortuites"
-  URL = "findings"
+  URL = "documentation/your_study/finding"
   weight = 9
 
   [[Languages.fr.menu.main]]
