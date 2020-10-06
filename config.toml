@@ -370,7 +370,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Reservation"
-  URL = "reservation"
+  URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
   weight = 5
 
   [[menu.main]]
@@ -382,19 +382,19 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Data download"
-  URL = "documentation/your_study/download_data"
+  URL = "documentation/your_data/download_data"
   weight = 7
 
   [[menu.main]]
   parent = "Your study"
   name = "Data preprocessing"
-  URL = "documentation/your_study/preproc_data"
+  URL = "documentation/your_data/preproc_data"
   weight = 8
 
   [[menu.main]]
   parent = "Your study"
   name = "Incidental findings"
-  URL = "findings"
+  URL = "documentation/your_study/finding"
   weight = 9
 
   [[menu.main]]
@@ -411,37 +411,37 @@ weight = 5
   [[menu.main]]
   parent = "Training"
   name = "MRI safety training"
-  URL = "safety_training"
+  URL = "course/safety_training"
   weight = 1
 
   [[menu.main]]
   parent = "Training"
   name = "Data storage"
-  URL = "documentation/your_study/storage_data"
+  URL = "documentation/your_data/storage_data"
   weight = 2
 
   [[menu.main]]
   parent = "Training"
   name = "Data analysis"
-  URL = "documentation/your_study/analysis_data"
+  URL = "documentation/your_data/analysis_data"
   weight = 3
 
   [[menu.main]]
   parent = "Training"
   name = "Compute Canada"
-  URL = "compute_canada"
+  URL = "course/compute_canada"
   weight = 4
 
   [[menu.main]]
   parent = "Training"
   name = "Globus"
-  URL = "globus"
+  URL = "course/globus"
   weight = 5
 
   [[menu.main]]
   parent = "Training"
   name = "Documentation"
-  URL = "docs"
+  URL = "documentation"
   weight = 6
 
 
