@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://vigorous-euclid-bbf6f9.netlify.com/"
+baseURL = "https://unf-montreal.ca/"
 title = "unf-montreal.ca"
 theme = "educenter"
 # post pagination
