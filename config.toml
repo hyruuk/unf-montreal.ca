@@ -370,7 +370,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Reservation"
-  URL = "https://reservation.unf-montreal.ca/Web/schedule.php""
+  URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
   weight = 5
 
   [[menu.main]]
