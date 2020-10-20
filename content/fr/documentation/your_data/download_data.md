@@ -21,7 +21,7 @@ Vous avez deux façons différentes pour récupérer vos données IRM:
 
 ### Installation
 
-Filezilla est un logiciel que nous recommandons et qui est disponible sur tous les OS (Windows, Mac, Linux). Vous pouvez le télécharger en suivant le lien suivant [Filezilla](​https://filezilla-project.org/​)
+Filezilla est un logiciel que nous recommandons et qui est disponible sur tous les OS (Windows, Mac, Linux). Vous pouvez le télécharger en suivant le lien suivant __[Filezilla](​https://filezilla-project.org/​)__
 
 ![Menu](/images/documentation/fr/download_mri/filezilla-menu.png)
 
@@ -50,7 +50,7 @@ Vous devriez voir apparaitre la fenêtre suivante:
 
 Cliquez sur `Always trust` et cliquez sur OK.
 
-Finalement Filezilla vous demandera votre mot de passe UNF comme présenter dans la fenêtre suivante:
+Finalement Filezilla vous demandera votre mot de passe UNF comme présenté dans la fenêtre suivante:
 
 ![password](/images/documentation/fr/download_mri/filezilla-password.png)
 
