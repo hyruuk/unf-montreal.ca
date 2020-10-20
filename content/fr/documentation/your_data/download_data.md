@@ -40,7 +40,7 @@ Créez un nouveau site que vous pouvez nommer __unf-dicom__ par exemple et rempl
 
 **Login Type**: Ask for password
 
-**User**: c'est le nom d'usager UNF qui vous a été créé lorsque vous avez fait votre demande [ici]()
+**User**: c'est le nom d'usager UNF qui vous a été créé lorsque vous avez fait [votre demande de compte](https://unf-montreal.ca/fr/documentation/welcome/account/).
 
 Ensuite cliquer sur le bouton *Connect*.
 
