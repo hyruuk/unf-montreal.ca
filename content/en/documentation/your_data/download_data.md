@@ -10,7 +10,7 @@ description: >
 
 ## Requirements
 
-In order to download your data you need a UNF account.
+In order to download your data you need a __[UNF account](../../../en/documentation/welcome/account/)__.
 You also need to know your group.
 
 You have two different ways to get your MRI data:

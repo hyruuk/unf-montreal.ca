@@ -10,7 +10,7 @@ description: >
 
 ## Requis
 
-Pour télécharger vos données il vous faut un compte sur les serveurs de l'UNF.
+Pour télécharger vos données il vous faut __[un compte](https://unf-montreal.ca/fr/documentation/welcome/account/)__ sur les serveurs de l'UNF.
 Vous devez aussi connaitre le groupe auquel vous appartenez.
 
 Vous avez deux façons différentes pour récupérer vos données IRM:
@@ -40,11 +40,11 @@ Créez un nouveau site que vous pouvez nommer __unf-dicom__ par exemple et rempl
 
 **Login Type**: Ask for password
 
-**User**: c'est le nom d'usager UNF qui vous a été créé lorsque vous avez fait [votre demande de compte](https://unf-montreal.ca/fr/documentation/welcome/account/).
+**User**: c'est le nom d'usager UNF qui vous a été créé lorsque vous avez fait __[votre demande de compte](https://unf-montreal.ca/fr/documentation/welcome/account/)__.
 
 Ensuite cliquer sur le bouton *Connect*.
 
-Vous devriez voir apparaitre la fenêtre suivante:
+Vous pourriez voir apparaitre la fenêtre suivante:
 
 ![Certificate](/images/documentation/fr/download_mri/filezilla-trust.png)
 

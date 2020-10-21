@@ -180,7 +180,7 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Téléchargement de vos données"
+  name = "Téléchargement de vos données IRM"
   URL = "documentation/your_data/download_data"
   weight = 7
 
@@ -381,7 +381,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Your study"
-  name = "Data download"
+  name = "MRI data download"
   URL = "documentation/your_data/download_data"
   weight = 7
 
