@@ -1,5 +1,5 @@
 ---
-title: "Analyse de vos données"
+title: "Data analysis"
 linkTitle: "Analyse de vos données"
 date: 2020-03-06
 weight: 4
