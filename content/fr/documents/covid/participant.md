@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Safety mea"
 # notice download link
-download_link : "static/documents/fr/covid/Participant_à_quoi_s'attendre.pdf"
+download_link : "static/fr/documents/covid/Participant_à_quoi_sattendre.pdf"
 # type
 type: "notice"
 
