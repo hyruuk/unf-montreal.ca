@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "Read the documentation"
-        link : "docs"
+        link : "documentation"
 
 
 ############################### Banner feature ###############################

@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "Lire la documentation"
-        link : "docs"
+        link : "documentation"
 
 ############################# event ################################
 event:

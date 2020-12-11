@@ -1,8 +1,9 @@
 ---
-title: "COVID19"
-linkTitle: "COVID"
+title: "COVID-19"
+linkTitle: "COVID-19"
 description: >
-  Toutes les informations concernant l'organisation de l'UNF en temps de COVID
+  Informations concernant l'organisation de l'UNF dans le contexte la pandémie COVID-19
 type: "docs"  
 weight: 0
 ---
+trdtdfcgfc
