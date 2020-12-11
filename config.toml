@@ -175,7 +175,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Formulaires et documents"
-  URL = "document"
+  URL = "documents"
   weight = 6
 
   [[Languages.fr.menu.main]]
@@ -376,7 +376,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Forms and documents"
-  URL = "document"
+  URL = "documents"
   weight = 6
 
   [[menu.main]]
