@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 #description : "Participant"
 # notice download link
-download_link : "static/documents/en/covid/Participant_what_to_expect.pdf"
+download_link : "documents/en/covid/Participant_what_to_expect.pdf"
 # type
 type: "notice"
 

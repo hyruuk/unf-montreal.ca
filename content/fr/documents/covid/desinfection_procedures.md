@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 #description : "Safety mea"
 # notice download link
-download_link : "static/fr/documents/covid/UNF_procédure_de_désinfection.pdf"
+download_link : "documents/fr/covid/UNF_procedure_de_desinfection.pdf"
 # type
 type: "notice"
 
