@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 #description : "SummarySafety mea"
 # notice download link
-download_link : "static/documents/en/covid/Summary_Safety_measures_put_in_place_at_UNF.pdf"
+download_link : "documents/en/covid/Summary_Safety_measures_put_in_place_at_UNF.pdf"
 # type
 type: "notice"
 
