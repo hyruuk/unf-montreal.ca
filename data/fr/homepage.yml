@@ -4,6 +4,16 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
+    - title : "Vacances"
+      content : "L’unité de neuroimagerie fonctionnelle est réouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Appliquer maintenant"
+        link : "documentation/covid"
+    # slider item loop
     - title : "COVID-19"
       content : "L’unité de neuroimagerie fonctionnelle est réouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités."
       animation_in : "left"
