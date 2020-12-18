@@ -10,6 +10,8 @@ type: 'docs'
 
 Si ce n’est pas déjà fait, nous vous invitons à prendre connaissance de la __[documentation COVID-19](https://unf-montreal.ca/fr/documents/covid)__.
 
+{{< youtube TypYZYp-m2k >}}
+
 ## Formations
 
 Une fois que votre demande d’accès de reprise des activités de recherche en Phase 3 a été approuvée par la DEUR du CCSMTL, les membres de votre équipe doivent prendre rendez-vous avec Émilie Dessureault en suivant le courriel __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Formation_désinfection-ÉPI)__ pour la **formation désinfection COVID-19** et la **formation sur le port et retrait des Équipements de protection individuels (ÉPI)**. Ces formations se font en présentiel, en un rendez-vous d'environ 45 minutes.
