@@ -4,6 +4,14 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
+    - title : "Dates de fermeture"
+      content : "Suite aux recommandations du gouvernement du Québec, <br/>
+                 l'UNF sera fermée du __19 décembre au 10 janvier__. <br/> Au plaisir de vous voir en 2021!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+
+    # slider item loop
     - title : "COVID-19"
       content : "L’unité de neuroimagerie fonctionnelle est réouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités."
       animation_in : "left"

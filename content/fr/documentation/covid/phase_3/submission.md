@@ -10,6 +10,8 @@ Pour poursuivre votre étude à l'UNF, vous devez présenter une demande d'accè
 
 Si ce n’est pas déjà fait, nous vous invitons à prendre connaissance de la __[documentation COVID-19](https://unf-montreal.ca/fr/documents/covid)__.
 
+{{< youtube TypYZYp-m2k >}}
+
 ## Avant votre soumission
 
 Avant de soumettre votre demande d’accès, vous et les membres de votre équipe qui viendront à l’UNF doivent:

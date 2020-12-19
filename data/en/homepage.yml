@@ -4,15 +4,23 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
+    - title : "Closing dates"
+      content : "Following the Quebec Government's recommendations, <br/>
+                 UNF will be close from __December 19th to January 10th__. <br/> Looking forward to see you in 2021 !"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+
+    # slider item loop
     - title : "COVID-19"
-      content : "The UNF is closed until further notice. The UNF team is monitoring the situation, and we will let you know as soon as the conditions allow us to re-open the platform."
+      content : "The Unité de neuroimagerie fonctionnelle is reopened.<br/> You can apply for a research resumption request."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : false
+        enable : true
         label : "Apply now"
-        link : "contact"
+        link : "documentation/covid"
 
     # slider item loop
     - title : "WELCOME TO THE UNF"
