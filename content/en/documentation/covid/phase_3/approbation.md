@@ -8,7 +8,7 @@ type: 'docs'
 ---
 
 
-If not already done, we invite you to read the __[COVID-19 documentation](https://unf-montreal.ca/en/documents/covid)__.
+If not already done, we invite you to read the __[COVID-19 documentation](https://unf-montreal.ca/documents/covid)__.
 
 ## Training
 
