@@ -5,7 +5,8 @@ slider:
   slider_item:
     # slider item loop
     - title : "Closing dates"
-      content : "Following the Quebec Government's recommendations, UNF will be close from December 19th to January 10th. <br/> Looking forward to see you in 2021"
+      content : "Following the Quebec Government's recommendations, <br/>
+                 UNF will be close from __December 19th to January 10th__. <br/> Looking forward to see you in 2021 !"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
