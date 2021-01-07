@@ -199,7 +199,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Logos"
-  URL = "document/logos"
+  URL = "documents/logos"
   weight = 10
 
   [[Languages.fr.menu.main]]
@@ -400,7 +400,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Logos"
-  URL = "document/logos"
+  URL = "documents/logos"
   weight = 10
 
 [[menu.main]]
