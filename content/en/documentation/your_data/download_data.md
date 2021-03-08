@@ -38,7 +38,7 @@ Create a new site that you can name __unf-dicom__ for instance and fill the foll
 
 **Protocol**: SFTP-SSH File Transfer Protocol
 
-**Login Type**: Ask for password
+**Login Type**: Interactive
 
 **User**: this is the UNF username we've created when you asked for an [account](https://unf-montreal.ca/en/documentation/welcome/account/).
 

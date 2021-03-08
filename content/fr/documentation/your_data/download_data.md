@@ -38,7 +38,7 @@ Créez un nouveau site que vous pouvez nommer __unf-dicom__ par exemple et rempl
 
 **Protocol**: SFTP-SSH File Transfer Protocol
 
-**Login Type**: Ask for password
+**Login Type**: Interactive
 
 **User**: c'est le nom d'usager UNF qui vous a été créé lorsque vous avez fait __[votre demande de compte](https://unf-montreal.ca/fr/documentation/welcome/account/)__.
 
