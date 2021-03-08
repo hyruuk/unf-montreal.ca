@@ -1,6 +1,6 @@
 ---
-title: "IRM"
-linkTitle: "IRM"
+title: "MRI"
+linkTitle: "MRI"
 date: 2017-01-05
 weight: 1
 type: "docs"

@@ -14,8 +14,20 @@ Pour télécharger vos données il vous faut __[un compte](https://unf-montreal.
 Vous devez aussi connaitre le groupe auquel vous appartenez.
 
 Vous avez deux façons différentes pour récupérer vos données IRM:
-- Utiliser un client SFTP (Windows, Mac, Linux)
 - Utiliser un terminal (Linux, Mac)
+- Utiliser un client SFTP (Windows, Mac, Linux)
+
+## Utilisation du terminal (Mac, Linux, Windows usagers avancés)
+
+Ouvrez un terminal et utilisez la commande ssh pour récupérer vos données IRM dans une archive tar.gz. Remplassez les champs unf_login et le chemin vers vos dicoms ainsi que le fichier tar.gz de destination
+
+- Télécharger un dossier et créer une archive tar.gz
+
+`ssh unf_login@elm.criugm.qc.ca tar czf - /path/vers/vos/dicom/ > fichier_destination_sur_votre_ordinateur.tar.gz`
+
+- Télécharger une archive tar.gz
+
+`rsync -azv unf_login@elm.criugm.qc.ca:/unf/dicoms/by_groups_tar/chemin_vers_vos_dicoms dossier_destination_sur_votre_ordinateur`
 
 ## Utilisation d'un client SFTP
 
@@ -38,7 +50,7 @@ Créez un nouveau site que vous pouvez nommer __unf-dicom__ par exemple et rempl
 
 **Protocol**: SFTP-SSH File Transfer Protocol
 
-**Login Type**: Ask for password
+**Login Type**: Interactive
 
 **User**: c'est le nom d'usager UNF qui vous a été créé lorsque vous avez fait __[votre demande de compte](https://unf-montreal.ca/fr/documentation/welcome/account/)__.
 
@@ -64,17 +76,6 @@ Vous êtes maintenant connecté sur les serveurs de l'UNF et vous devriez avoir 
 
 Vous pouvez déplacer des fichiers de droite à gauche ou inversement pour télécharger et/ou envoyer des données sur le serveur.
 
-## Utilisation du terminal (Mac, Linux, Windows usagers avancés)
-
-Ouvrez un terminal et utilisez la commande ssh pour récupérer vos données IRM dans une archive tar.gz. Remplassez les champs unf_login et le chemin vers vos dicoms ainsi que le fichier tar.gz de destination
-
-- Télécharger un dossier et créer une archive tar.gz
-
-`ssh unf_login@elm.criugm.qc.ca tar czf - /path/vers/vos/dicom/ > fichier_destination_sur_votre_ordinateur.tar.gz`
-
-- Télécharger une archive tar.gz
-
-`rsync -azv unf_login@elm.criugm.qc.ca:/unf/dicoms/by_groups_tar/chemin_vers_vos_dicoms dossier_destination_sur_votre_ordinateur`
 
 ## Accès à vos données IRM
 
