@@ -14,8 +14,21 @@ In order to download your data you need a __[UNF account](../../../en/documentat
 You also need to know your group.
 
 You have two different ways to get your MRI data:
-- Use a SFTP client (Windows, Mac, Linux)
 - Use a terminal (Linux, Mac)
+- Use a SFTP client (Windows, Mac, Linux)
+
+## Using the terminal (Mac, Linux, Windows advanced users)
+
+Open a terminal and use the ssh command to get your MRI data into a tar.gz archive. Don't forget to use your own unf_login and change the path to your data and the destination.
+
+- Download a folder and put everything into a tar.gz archive
+
+`ssh unf_login@elm.criugm.qc.ca tar czf - /path/to/your/dicom/ > destination_file_on_your_computer.tar.gz`
+
+- Download a tar.gz archive
+
+`rsync -azv unf_login@elm.criugm.qc.ca:/unf/dicoms/by_groups_tar/path_to_your_data destination_folder_on_your_computer`
+
 
 ## How to use a SFTP client
 
@@ -63,18 +76,6 @@ Enter it, click OK, you are now connected.
 - Vert: path used for the server
 
 You can move data from left to right or right to left to download or upload data on the server.
-
-## Using the terminal (Mac, Linux, Windows advanced users)
-
-Open a terminal and use the ssh command to get your MRI data into a tar.gz archive. Don't forget to use your own unf_login and change the path to your data and the destination.
-
-- Download a folder and put everything into a tar.gz archive
-
-`ssh unf_login@elm.criugm.qc.ca tar czf - /path/to/your/dicom/ > destination_file_on_your_computer.tar.gz`
-
-- Download a tar.gz archive
-
-`rsync -azv unf_login@elm.criugm.qc.ca:/unf/dicoms/by_groups_tar/path_to_your_data destination_folder_on_your_computer`
 
 ## Access to your MRI data
 

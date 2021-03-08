@@ -288,7 +288,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Facility"
   name = "MRI"
-  URL = "documentation/facility/MRI"
+  URL = "documentation/facility/mri"
   weight = 1
 
   [[menu.main]]
@@ -312,7 +312,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Facility"
   name = "EEG (coming soon)"
-  URL = "documentation/facility/EEG"
+  URL = "documentation/facility/eeg"
   weight = 5
 
   [[menu.main]]
@@ -346,13 +346,13 @@ hasChildren = true
   [[menu.main]]
   parent = "Your study"
   name = "Ethics"
-  URL = "documnentation/welcome/ethic"
+  URL = "documentation/welcome/ethic"
   weight = 1
 
   [[menu.main]]
   parent = "Your study"
   name = "Safety guidelines"
-  URL = "Safety guidelines"
+  URL = "documentation/welcome/safety_guidelines"
   weight = 2
 
   [[menu.main]]
@@ -417,13 +417,13 @@ weight = 5
   [[menu.main]]
   parent = "Training"
   name = "Data storage"
-  URL = "documentation/your_data/storage_data"
+  URL = "documentation/your_data/data_storage"
   weight = 2
 
   [[menu.main]]
   parent = "Training"
   name = "Data analysis"
-  URL = "documentation/your_data/analysis_data"
+  URL = "documentation/your_data/data_analysis"
   weight = 3
 
   [[menu.main]]
