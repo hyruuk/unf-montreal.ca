@@ -33,7 +33,7 @@ Ouvrez un terminal et utilisez la commande ssh pour récupérer vos données IRM
 
 ### Installation
 
-Filezilla est un logiciel que nous recommandons et qui est disponible sur tous les OS (Windows, Mac, Linux). Vous pouvez le télécharger en suivant le lien suivant __[Filezilla](​https://filezilla-project.org/​)__
+Filezilla est un logiciel que nous recommandons et qui est disponible sur tous les OS (Windows, Mac, Linux). Vous pouvez le télécharger en suivant le lien suivant __[Filezilla](​https://filezilla-project.org​)__
 
 ![Menu](/images/documentation/fr/download_mri/filezilla-menu.png)
 

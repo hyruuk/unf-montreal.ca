@@ -34,7 +34,7 @@ Open a terminal and use the ssh command to get your MRI data into a tar.gz archi
 
 ### Installation
 
-Filezilla client is a multiplatform software (Windows, Mac, Linux) that we recommand. You can download it using the following link __[Filezilla](​https://filezilla-project.org/​)__
+Filezilla client is a multiplatform software (Windows, Mac, Linux) that we recommand. You can download it using the following link __[Filezilla](​https://filezilla-project.org​)__
 
 ![Menu](/images/documentation/fr/download_mri/filezilla-menu.png)
 
