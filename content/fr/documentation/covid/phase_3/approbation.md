@@ -2,7 +2,7 @@
 title: "Une fois votre demande approuvée"
 linkTitle: "Une fois votre demande approuvée"
 date: 2020-12-11
-weight: 1
+weight: 2
 description: "Une fois votre demande approuvée par la DEUR du CCSMTL"
 type: 'docs'
 ---

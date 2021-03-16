@@ -2,7 +2,7 @@
 title: "Once your request is approved"
 linkTitle: "Once your request is approved"
 date: 2020-12-11
-weight: 1
+weight: 2
 description: "Once your request has been approved by the DEUR of the CCSMTL"
 type: 'docs'
 ---
