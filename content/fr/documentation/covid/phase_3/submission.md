@@ -17,6 +17,7 @@ Si ce n’est pas déjà fait, nous vous invitons à prendre connaissance de la 
 **Avant de soumettre votre demande d’accès**, vous et les membres de votre équipe qui viendront à l’UNF doivent:
 
 **1-** Avoir suivi la formation _COVID-19 - Conduite de la recherche en présentiel_ de l’UdeM, disponible sur StudiuM.
+
 Accéder ou créer votre __[compte](https://studiumfc.umontreal.ca/login/index.php)__  
 Accédez à la __[formation](https://studiumfc.umontreal.ca/course/view.php?id=61608)__
 
@@ -27,7 +28,7 @@ Accédez à la __[formation](https://studiumfc.umontreal.ca/course/view.php?id=6
 
 ## Soumettre votre demande d'accès
 
-**A-** Pour les projets qui utilisent **uniquement** la plateforme UNF (incluant le mock scanner et la salle de testing R0743), veuillez remplir le __[Formulaire UNF COVID-19 Phase 3] (COMING SOON)__
+**A-** Pour les projets qui utilisent **uniquement** la plateforme UNF (incluant le mock scanner et la salle de testing R0743), veuillez remplir le __[Formulaire UNF COVID-19 Phase 3](https://limesurvey.criugm.qc.ca/index.php/714835?newtest=Y&lang=fr)__
 
 **B-** Pour les projets qui utilisent la plateforme UNF ainsi que tout autre bureau ou plateforme du CRIUGM, veuillez remplir le __[Formulaire CRIUGM COVID-19 Phase 3](https://limesurvey.criugm.qc.ca/index.php/752182?newtest=Y&lang=fr)__ en prenant soin d’identifier tous les membres de votre équipe qui devront accéder à l’UNF.
 
