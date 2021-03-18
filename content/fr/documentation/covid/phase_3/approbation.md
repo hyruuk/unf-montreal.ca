@@ -24,7 +24,7 @@ Afin de planifier votre session d’IRM ainsi que la **séance d’évaluation**
 
 Le **questionnaire de dépistage IRM** et le **formulaire de réquisition** se font maintenant en ligne. Une fois la réservation de votre IRM confirmée, vous recevrez les liens des formulaires. Ces formulaires doivent être complétés au plus tard 24h avant votre réservation. N'oubliez pas de vous assurer que votre participant est compatible IRM lors de votre recrutement. Vous devez présenter le **formulaire de consentement**, dûment signé, lors de votre réservation afin que l’opérateur IRM puisse le prendre en photo pour le joindre au dossier du participant. Tous les documents et signatures électroniques sont sauvegardés sur les serveurs de l’UNF au CRIUGM.
 
-Modalités d’accès au CRIUGM - UNF
+## Modalités d’accès au CRIUGM - UNF
 
 **Accès au Centre de recherche-UNF**: Tous les membres de votre équipe ainsi que les participants doivent se présenter à l’entrée principale du Centre de recherche au 4545, chemin Queen-Mary.  
 
@@ -33,7 +33,7 @@ Modalités d’accès au CRIUGM - UNF
 **Procédures et mesures de prévention**: Lavage des mains obligatoire - Il y a des distributeurs de solution hydroalcoolique à l’entrée principale.
 Le port du masque de procédure (bleu, jetable) est obligatoire dans les installations du CCSMTL. L’UNF met à votre disposition les masques de procédures.
 
-**Procédure visite d’un participant**: La veille du rendez-vous avec votre participant, vous devez passer en revue les [questions relatives à la COVID-19](documents/fr/covid/Procedure_Visite_participant_CCSMTL.pdf). Vous devez aussi obtenir le [consentement de votre participant](documents/fr/covid/Autorisation_participant_recherche-DEUR_CCSMTL.pdf) concernant la reprise de la recherche dans le contexte COVID-19 actuel. Ce document signé doit être conservé dans votre dossier du participant.
+**Procédure visite d’un participant**: La veille du rendez-vous avec votre participant, vous devez passer en revue les [questions relatives à la COVID-19](https://unf-montreal.ca/fr/documents/covid/procedure_visite_participant_CCSMTL/). Vous devez aussi obtenir le [consentement de votre participant](https://unf-montreal.ca/fr/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL) concernant la reprise de la recherche dans le contexte COVID-19 actuel. Ce document signé doit être conservé dans votre dossier du participant.
 
 
 --
