@@ -28,7 +28,7 @@ Le **questionnaire de dépistage IRM** et le **formulaire de réquisition** se f
 
 **Accès au Centre de recherche-UNF**: Tous les membres de votre équipe ainsi que les participants doivent se présenter à l’entrée principale du Centre de recherche au 4545, chemin Queen-Mary.  
 
-**Registre des accès**: Afin d’assurer la traçabilité en cas d’éclosion ou de risque de contamination, vous devez remplir un simple relevé de présence en ligne à chaque visite au CRIUGM soit en allant au http://criugm.qc.ca/pr ou en utilisant le kiosque électronique (grande tablette/écran tactile) à l’entrée principale.
+**Registre des accès**: Afin d’assurer la traçabilité en cas d’éclosion ou de risque de contamination, vous devez remplir un simple relevé de présence en ligne à chaque visite au CRIUGM soit en allant au **http://criugm.qc.ca/pr** ou en utilisant le kiosque électronique (grande tablette/écran tactile) à l’entrée principale.
 
 **Procédures et mesures de prévention**: Lavage des mains obligatoire - Il y a des distributeurs de solution hydroalcoolique à l’entrée principale.
 Le port du masque de procédure (bleu, jetable) est obligatoire dans les installations du CCSMTL. L’UNF met à votre disposition les masques de procédures.
@@ -36,6 +36,6 @@ Le port du masque de procédure (bleu, jetable) est obligatoire dans les install
 **Procédure visite d’un participant**: La veille du rendez-vous avec votre participant, vous devez passer en revue les [questions relatives à la COVID-19](https://unf-montreal.ca/fr/documents/covid/procedure_visite_participant_CCSMTL/). Vous devez aussi obtenir le [consentement de votre participant](https://unf-montreal.ca/fr/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL) concernant la reprise de la recherche dans le contexte COVID-19 actuel. Ce document signé doit être conservé dans votre dossier du participant.
 
 
---
+### **RAPPEL**
 
-**Rappel!** Si vous avez des nouveaux membres dans votre équipe, ces derniers doivent suivre la formation obligatoire sur les mesures de sécurité dans un environnement comprenant un haut champ magnétique. Vous pouvez contacter Émilie Dessureault via le courriel __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Formation_sécurité)__.
+Si vous avez des nouveaux membres dans votre équipe, ces derniers doivent suivre la formation obligatoire sur les mesures de sécurité dans un environnement comprenant un haut champ magnétique. Vous pouvez contacter Émilie Dessureault via le courriel __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Formation_sécurité)__.

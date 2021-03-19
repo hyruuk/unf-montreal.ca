@@ -28,13 +28,13 @@ The **MRI screening questionnaire** and the **requisition form** are now done on
 
 **Access to the Research Center-UNF**: All members of your team and participants must enter by the main entrance of the Research Center at 4545, chemin Queen-Mary.  
 
-**Access register**: In order to ensure traceability in the event of an outbreak or risk of contamination, you must complete a simple online attendance record at each visit to CRIUGM either by going to http://criugm.qc.ca/pr or by using the electronic kiosk (large tablet / touch screen) at the main entrance.
+**Access register**: In order to ensure traceability in the event of an outbreak or risk of contamination, you must complete a simple online attendance record at each visit to CRIUGM either by going to **http://criugm.qc.ca/pr** or by using the electronic kiosk (large tablet / touch screen) at the main entrance.
 
 **Procedures and preventive measures**: Mandatory hand washing - There are hydroalcoholic solution dispensers at the main entrance.
 Wearing a procedural mask (blue, disposable) is mandatory in CCSMTL facilities. The UNF provides you with the procedural masks.
 
 **Procedure for a participant visit**: The day before the meeting with your participant, you must review the [questions relating to COVID-19](https://unf-montreal.ca/documents/covid/procedure_visite_participant_CCSMTL/). You must also obtain your [participant's consent](https://unf-montreal.ca/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL/) to resume research in the current COVID-19 context. This signed document must be kept in your participant file.
 
---
 
-**Reminder!** If you have new members on your team, they must complete the mandatory training security and safety in an environment with a high magnetic field. You can contact Émilie Dessureault at following the email __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Formation_sécurité)__.
+## **Reminder**
+If you have new members on your team, they must complete the mandatory training security and safety in an environment with a high magnetic field. You can contact Émilie Dessureault at following the email __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Formation_sécurité)__.
