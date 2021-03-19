@@ -33,7 +33,7 @@ Le **questionnaire de dépistage IRM** et le **formulaire de réquisition** se f
 **Procédures et mesures de prévention**: Lavage des mains obligatoire - Il y a des distributeurs de solution hydroalcoolique à l’entrée principale.
 Le port du masque de procédure (bleu, jetable) est obligatoire dans les installations du CCSMTL. L’UNF met à votre disposition les masques de procédures.
 
-**Procédure visite d’un participant**: La veille du rendez-vous avec votre participant, vous devez passer en revue les [questions relatives à la COVID-19](https://unf-montreal.ca/fr/documents/covid/procedure_visite_participant_CCSMTL/). Vous devez aussi obtenir le [consentement de votre participant](https://unf-montreal.ca/fr/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL) concernant la reprise de la recherche dans le contexte COVID-19 actuel. Ce document signé doit être conservé dans votre dossier du participant.
+**Procédure visite d’un participant**: La veille du rendez-vous avec votre participant, vous devez passer en revue les **[questions relatives à la COVID-19](https://unf-montreal.ca/fr/documents/covid/procedure_visite_participant_CCSMTL/)**. Vous devez aussi obtenir le **[consentement de votre participant](https://unf-montreal.ca/fr/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL)** concernant la reprise de la recherche dans le contexte COVID-19 actuel. Ce document signé doit être conservé dans votre dossier du participant.
 
 
 ### **RAPPEL**
