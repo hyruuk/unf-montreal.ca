@@ -12,4 +12,5 @@ download_link : "documents/en/covid/Autorisation_participant_recherche-DEUR_CCSM
 type: "notice"
 
 weight: 7
+
 ---
