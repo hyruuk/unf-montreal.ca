@@ -8,7 +8,7 @@ description: >
   Environnement, accès et sécurité
 ---
 
-> Jusqu'à nouvel ordre l'accès à la salle de simulation est fermé.
+> Jusqu'à nouvel ordre l'accès à la salle de simulation est restreint, veuillez faire la demande en communiquant avec __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Salle_de_simulation)__.
 
 La salle de simulation se trouve au sein de l’Institut Universitaire de Gériatrie (IUGM). Les déplacements dans les installations de l’UNF sont donc soumis à des consignes de sécurité et de distanciation afin de protéger au mieux les résidents et l’ensemble des employés.
 

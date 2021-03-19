@@ -8,7 +8,6 @@ description: >
  Environnement, accès et sécurité
 ---
 
-> Jusqu'à nouvel ordre l'accès à la salle de test est fermé.
 
 La salle de test (R0743) se trouve au sein de l'Institut Universitaire de Gériatrie (IUGM). Les
 déplacements dans les installations de l'UNF sont donc soumis à des consignes
