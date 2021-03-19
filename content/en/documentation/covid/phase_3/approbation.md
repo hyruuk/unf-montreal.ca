@@ -33,7 +33,7 @@ The **MRI screening questionnaire** and the **requisition form** are now done on
 **Procedures and preventive measures**: Mandatory hand washing - There are hydroalcoholic solution dispensers at the main entrance.
 Wearing a procedural mask (blue, disposable) is mandatory in CCSMTL facilities. The UNF provides you with the procedural masks.
 
-**Procedure for a participant visit**: The day before the meeting with your participant, you must review the [questions relating to COVID-19](https://unf-montreal.ca/documents/covid/procedure_visite_participant_CCSMTL/). You must also obtain your [participant's consent](https://unf-montreal.ca/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL/) to resume research in the current COVID-19 context. This signed document must be kept in your participant file.
+**Procedure for a participant visit**: The day before the meeting with your participant, you must review the **[questions relating to COVID-19](https://unf-montreal.ca/documents/covid/procedure_visite_participant_CCSMTL/)**. You must also obtain your **[participant's consent](https://unf-montreal.ca/documents/covid/autorisation_participant_recherche-DEUR_CCSMTL/)** to resume research in the current COVID-19 context. This signed document must be kept in your participant file.
 
 
 ## **Reminder**
