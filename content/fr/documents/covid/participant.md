@@ -11,5 +11,5 @@ download_link : "documents/fr/covid/Participant_a_quoi_sattendre.pdf"
 # type
 type: "notice"
 
-weight: 1
+weight: 3
 ---

@@ -11,5 +11,5 @@ download_link : "documents/en/covid/Participant_what_to_expect.pdf"
 # type
 type: "notice"
 
-weight: 1
+weight: 3
 ---
