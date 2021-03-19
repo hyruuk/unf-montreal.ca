@@ -11,5 +11,5 @@ download_link : "documents/en/covid/Summary_Safety_measures_put_in_place_at_UNF.
 # type
 type: "notice"
 
-weight: 0
+weight: 1
 ---

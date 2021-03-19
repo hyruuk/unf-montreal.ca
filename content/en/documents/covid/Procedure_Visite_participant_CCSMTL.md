@@ -11,5 +11,5 @@ download_link : "documents/en/covid/Procedure_Visite_participant_CCSMTL.pdf"
 # type
 type: "notice"
 
-weight: 5
+weight: 6
 ---

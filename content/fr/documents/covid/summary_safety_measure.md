@@ -11,5 +11,5 @@ download_link : "documents/fr/covid/Resume_Mesures_de_securite_mises_en_place_a_
 # type
 type: "notice"
 
-weight: 0
+weight: 1
 ---

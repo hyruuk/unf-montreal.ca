@@ -11,5 +11,5 @@ download_link : "documents/en/covid/UNF_disinfection_procedures.pdf"
 # type
 type: "notice"
 
-weight: 3
+weight: 4
 ---
