@@ -162,11 +162,11 @@
 - id: participate
   translation: Participer
 
-- id: first_25h
-  translation: 25 premières heures
+- id: unf_hourly_rate
+  translation: Tarif horaire UNF
 
-- id: post_25h
-  translation: Heures suivantes
+- id: cer_vn_rate
+  translation: Tarif CER-VN
 
 - id: minute_read
   translation: minute à lire
