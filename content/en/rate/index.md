@@ -22,7 +22,7 @@ rate:
     * After 5 p.m.: $750"
 
     cer_vn_rate: "
-    Signatory institution (CIUSSS-CSMTL - IUGM)
+    Signatory institution (CIUSSS-CSMTL - IUGM)"
 
   - title: RNQ non-signatory member
     comment: ''
@@ -32,7 +32,7 @@ rate:
     * After 5 p.m.: $750"
 
     cer_vn_rate: "
-    $50/hour (first 25 hours, to a maximum of $1 250)
+    $50/hour (first 25 hours, to a maximum of $1 250)"
 
   - title: Non RNQ member
     comment: ''
@@ -42,7 +42,7 @@ rate:
     * After 5 p.m.: $825"
 
     cer_vn_rate: "
-    $50/hour (first 25 hours, to a maximum of $1 250)
+    $50/hour (first 25 hours, to a maximum of $1 250)"
 
 
 ---

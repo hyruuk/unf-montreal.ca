@@ -163,10 +163,10 @@
   translation: Participate
 
 - id: unf_hourly_rate
-translation: UNF hourly rate
+  translation: UNF hourly rate
 
 - id: cer_vn_rate
-translation: CER-VN rate
+  translation: CER-VN rate
 
 - id: minute_read
   translation: minute to read
