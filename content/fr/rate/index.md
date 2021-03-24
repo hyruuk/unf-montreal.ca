@@ -22,7 +22,7 @@ rate:
     * Après 17h: $750"
 
     cer_vn_rate: "
-    Établissement signataire (CIUSSS-CSMTL - IUGM)"
+    * Établissement signataire (CIUSSS-CSMTL - IUGM)"
 
   - title: Membre RNQ non-signataire
     comment: ''
@@ -32,7 +32,7 @@ rate:
     * Après 17h: $750"
 
     cer_vn_rate: "
-    $50/heure (25 premières heures, pour un maximum de $1 250)"
+    * $50/heure (25 premières heures, pour un maximum de $1 250)"
 
   - title: Non-membre RNQ
     comment: ''
@@ -42,7 +42,7 @@ rate:
     * Après 17h: $825"
 
     cer_vn_rate: "
-    $50/heure (25 premières heures, pour un maximum de $1 250)"
+    * $50/heure (25 premières heures, pour un maximum de $1 250)"
 
 
 
