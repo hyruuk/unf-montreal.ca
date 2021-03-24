@@ -14,44 +14,37 @@ type: "rate"
 
 rate:
   type:
-  - title: Non membre RNQ
+  - title: RNQ signatory member
     comment: ''
-    first_25h: "
-    * IRM: $500
+    unf_hourly_rate: "
+    * Before 5 p.m.: $500
 
-    * Portion éthique: $50
+    * After 5 p.m.: $750"
 
-    * Taux horaire: $550"
-    post_25h: "
-      * Avant 17h: $500
+    cer_vn_rate: "
+    Signatory institution (CIUSSS-CSMTL - IUGM)"
 
-      * Après 17h: $750"
-
-  - title: Membre RNQ signataire
+  - title: RNQ non-signatory member
     comment: ''
-    first_25h: "
-    * IRM: $500
+    unf_hourly_rate: "
+    * Before 5 p.m.: $500
 
-    * Portion éthique: $50
+    * After 5 p.m.: $750"
 
-    * Taux horaire: $550"
-    post_25h: "
-      * Avant 17h: $500
+    cer_vn_rate: "
+    $50/hour (first 25 hours, to a maximum of $1 250)"
 
-      * Après 17h: $750"
-
-  - title: Membre RNQ non signataire
+  - title: Non RNQ member
     comment: ''
-    first_25h: "
-    * IRM: $500
+    unf_hourly_rate: "
+    * Before 5 p.m.: $550
 
-    * Portion éthique: $50
+    * After 5 p.m.: $825"
 
-    * Taux horaire: $550"
-    post_25h: "
-      * Avant 17h: $500
+    cer_vn_rate: "
+    $50/hour (first 25 hours, to a maximum of $1 250)"
 
-      * Après 17h: $750"
+
 ---
 
 [1] Pour chaque étude, les chercheurs du secteur privé doivent débourser en totalité les frais d’évaluation du projet par le comité mixte d’éthique de la recherche du RNQ.

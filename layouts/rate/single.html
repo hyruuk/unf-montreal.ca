@@ -27,8 +27,8 @@
                 <li>
                     <i class="fa-li fas fa-icon"></i>
                     <div class="description">
-                        {{ with .first_25h }}<p class="content"> <span class="font-weight-bold">{{ T "first_25h" }}:</span>{{ . | markdownify }}</p>{{end}}
-                        {{ with .post_25h }}<p class="content"> <span class="font-weight-bold">{{ T "post_25h" }}:</span>{{ . | markdownify }}</p>{{end}}
+                        {{ with .unf_hourly_rate }}<p class="content"> <span class="font-weight-bold">{{ T "unf_hourly_rate" }}:</span>{{ . | markdownify }}</p>{{end}}
+                        {{ with .cer_vn_rate }}<p class="content"> <span class="font-weight-bold">{{ T "cer_vn_rate" }}:</span>{{ . | markdownify }}</p>{{end}}
                         {{ with .comment }} <p class="institution">{{ . | markdownify }}</p>{{end}}
                     </div>
                 </li>
