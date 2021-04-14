@@ -34,17 +34,17 @@ Si vous réservez l'IRM afin de scanner un fantôme veuillez cocher le champs Fa
 
 # Message de validation
 
-Si votre reservation est validée par le système, le message de réservation devrait être le suivant:
+Si votre réservation est validée par le système, le message de réservation devrait être le suivant:
 
 ![validation](/images/documentation/fr/reservation_mri_4.png)
 
-Vous pouvez cliquer sur "Screening" directement si vous êtes en mesure de remplir le formulaire de dépistage IRM. Dans le cas contraire, vous aurez accès à ce lien depuis votre reservation.
+Vous pouvez cliquer sur "Screening" directement si vous êtes en mesure de remplir le formulaire de dépistage IRM. Dans le cas contraire, vous aurez accès à ce lien depuis votre réservation.
 
-Si votre reservation n'est pas validée, vous aurez alors un message d'erreur ainsi que la possibilité de nous envoyer un courriel à l'adresse suivante __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Reservation_MRI)__.
+Si votre réservation n'est pas validée par le système, vous aurez alors un message d'erreur ainsi que la possibilité de nous envoyer un courriel à l'adresse suivante __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Reservation_MRI)__.
 
 # Après votre réservation
 
-Votre réservation sera alors visible en jaune (en attente) sur le calendrier. Vous avez accès au formulaire depuis votre reservation. Le formulaire pour le dépistage devra être rempli avant votre venue, le plus tôt possible.
+Votre réservation sera alors visible en jaune (en attente) sur le calendrier. Vous avez accès au formulaire depuis votre réservation. Le formulaire pour le dépistage devra être rempli le plus tôt possible, au minimum 24h avant le scan.
 
 - **Link to screening/depistage**: dépistage à faire remplir par le participant (peut être rempli depuis une tablette ou un ordinateur)
 
@@ -57,7 +57,7 @@ Finalement, une fois que le formulaire de dépistage IRM aura été revu et vali
 ## Recommandations
 
 * Faites attention de soumettre votre demande de réservation sur la bonne ligne (MRI Prisma-fit 3T scanner, salle de testing (R0743) ou salle de simulation).
-* Faites votre reservation sous le nom du projet qui sera utilisé pour scanner. Cela permettra au staff UNF de se préparer à l'avance.
+* Faites votre réservation sous le nom du projet qui sera utilisé pour scanner. Cela permettra au staff UNF de se préparer à l'avance.
 * Faites remplir ou remplissez avec le participant le formulaire de dépistage IRM le plus rapidement possible.
 
 ## Annulation d'une réservation

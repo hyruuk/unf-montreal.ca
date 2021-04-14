@@ -40,7 +40,7 @@ If your reservation is valid, you see the following window:
 
 Then, if you are able to fill the survey, you can click on the link "Screening". Otherwise, you will still have access to this link through your reservation.
 
-If you reservation is not valid, you should see an error message and the possibility to send us an email to this email address __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Reservation_MRI)__.
+If you reservation is not validated by our system, you should see an error message and the possibility to send us an email to this email address __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Reservation_MRI)__.
 
 # After your reservation
 
