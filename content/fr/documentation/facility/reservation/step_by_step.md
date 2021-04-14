@@ -34,7 +34,7 @@ Si vous réservez l'IRM afin de scanner un fantôme veuillez cocher le champs Fa
 
 # Message de validation
 
-Si votre reservation est validée par le système, le message de réservation devrait être le suivant:
+Si votre réservation est validée par le système, le message de réservation devrait être le suivant:
 
 ![validation](/images/documentation/fr/reservation_mri_4.png)
 
