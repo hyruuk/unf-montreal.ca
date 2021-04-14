@@ -44,7 +44,7 @@ Si votre réservation n'est pas validée par le système, vous aurez alors un me
 
 # Après votre réservation
 
-Votre réservation sera alors visible en jaune (en attente) sur le calendrier. Vous avez accès au formulaire depuis votre reservation. Le formulaire pour le dépistage devra être rempli avant votre venue, le plus tôt possible.
+Votre réservation sera alors visible en jaune (en attente) sur le calendrier. Vous avez accès au formulaire depuis votre réservation. Le formulaire pour le dépistage devra être rempli le plus tôt possible, au minimum 24h avant le scan.
 
 - **Link to screening/depistage**: dépistage à faire remplir par le participant (peut être rempli depuis une tablette ou un ordinateur)
 
