@@ -12,11 +12,11 @@ type: 'docs'
 
 # Faire votre reservation.
 
-- Une fois connecté vous vous retrouver sur cette page.
+- Une fois connecté vous vous retrouvez sur cette page.
 
 ![calendrier](/images/documentation/fr/reservation_mri_1.png)
 
-- Vous devez selectionner avec votre souris la plage horaire que vous souhaitez reserver. Une reservation doit être faites par participant.
+- Vous devez selectionner avec votre souris la plage horaire que vous souhaitez réserver. Une réservation doit être faites par participant.
 
 ![plage horaire](/images/documentation/fr/reservation_mri_2b.png)
 
@@ -50,9 +50,9 @@ Votre réservation sera alors visible en jaune (en attente) sur le calendrier. V
 
 Vous recevrez un mail par jour durant les sept jours précendants votre reservation afin de vous rappeler de remplir le dépistage.
 
-Quelques minutes après avoir complêté le formulaire de dépistage votre reservation sera alors de couleur bleu.
+Quelques minutes après avoir complêté le formulaire de dépistage votre reservation sera alors de couleur **bleu**.
 
-Finalement, une fois que le formulaire de dépistage IRM aura été revu et validé par notre équipe votre reservation sera alors verte.
+Finalement, une fois que le formulaire de dépistage IRM aura été revu et validé par notre équipe votre reservation sera alors **verte**.
 
 ## Recommandations
 
@@ -64,6 +64,6 @@ Finalement, une fois que le formulaire de dépistage IRM aura été revu et vali
 
  Si vous souhaitez effectuer une annulation, veuillez consulter la [__politique d’annulation__](http://www.unf-montreal.ca/fr/rate) sur le site de l’UNF pour éviter des coûts inutiles.
 
- Pour annuler la session, il vous faut vous connecter, cliquer sur votre réservation et ensuite à droite Plus > Effacer.
+ Pour annuler la session, il vous faut vous connecter, cliquer sur votre réservation et ensuite à droite Plus > Effacer. Dépendamment de plusieurs conditions vous pourriez ne pas pouvoir supprimer votre réservation. Si vous avez un problème pour supprimer une réservation veuillez contacter __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Delete_reservation)__.
 
  ![Annulation d'une plage horaire](/images/documentation/fr/reservation_mri_cancel.png)

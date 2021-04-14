@@ -13,7 +13,7 @@ description: >
 The Fonctional neurominaging unit is equiped with a MRI Siemens 3T Prisma fit. The MRI is located within the Institut Universitaire de Gériatrie (IUGM). Movement in and around the UNF facilities is therefore subject to safety and distancing instructions in order to best protect residents and employees.
 
 
-## Openning hours
+## Opening hours
 
 **Regular opening hours**
 

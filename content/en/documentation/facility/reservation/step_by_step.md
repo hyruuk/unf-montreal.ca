@@ -50,20 +50,20 @@ On the calendar, your reservation will be yellow (pending). You have access to t
 
 You will receive an email per day during the 7 days prior to your reservation to remind you to fill the MRI screening.
 
-After few minutes, following the completion of the survey your reservation will turn blue.
+After few minutes, following the completion of the survey your reservation will turn **blue**.
 
-Finaly, once your MRI screening reviewed and validated by our team, your reservation will turn green.
+Finaly, once your MRI screening reviewed and validated by our team, your reservation will turn **green**.
 
 ## Recommandations
 
-* Be carefull when you submit a reservation to choose the correct row (MRI Prisma-fit 3T scanner, salle de testing (R0743) ou salle de simulation).
+* Be careful when you submit a reservation to choose the correct row (MRI Prisma-fit 3T scanner, salle de testing (R0743) ou salle de simulation).
 * When you make a reservation please use your project name as *Title of reservation*. This will allow UNF staff to be ready when you arrive.
 * Make sure to ask your participant to fill the screening as soon as possible.
 
 ## Cancel a reservation
 
- Before canceling a reservation, please check the [__politique d’annulation__](http://www.unf-montreal.ca/rate) on our website to avoid extra billing.
+ Before cancelling a reservation, please check the [__politique d’annulation__](http://www.unf-montreal.ca/rate) on our website to avoid extra billing.
 
- To cancel a reservation, you need to log in, click on your reservation then on the top right: More -> Delete
+ To cancel a reservation, you need to log in, click on your reservation then on the top right: More -> Delete. Depending on many conditions you may be allowed or not to delete your reservation. If you have any issue please contact __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Delete_reservation)__.
 
  ![Annulation d'une plage horaire](/images/documentation/fr/reservation_mri_cancel.png)

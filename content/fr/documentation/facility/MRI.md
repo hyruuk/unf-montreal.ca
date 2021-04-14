@@ -46,13 +46,11 @@ Les réservations pour l'IRM sont assujetties aux règles suivantes:
 
 ## Taux horaire
 
-Les taux horaires sont présentés dans cette [__section__](https://unf-montreal.ca/fr/rate)
-
+Les taux horaires sont présentés dans cette [__section__](https://unf-montreal.ca/fr/rate).
 
 ## Formulaires
 
-Les formulaires à remplir sont détaillés dans la section [__formulaires__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
-
+Afin de réserver l'IRM, le participant devra complété un [__formulaires__](https://unf-montreal.ca/fr/documents/screening) en ligne pour le dépistage IRM.
 
 ## Accès et sécurité
 
