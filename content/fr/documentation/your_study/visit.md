@@ -19,7 +19,7 @@ Il est utile d’avoir une liste de vérification pour réduire le risque d’er
      * Donnez les formulaires à un membre du personnel UNF disponible
      * Préparez les lentilles compatibles IRM si besoin
 3. Un membre du personnel UNF se rendra dans la salle d'attente pour réviser le formulaire de dépistage IRM avec votre participant dès qu'il sera disponible.
-4. Lorsque l'équipe vous précédant aura terminé et aura libéré la salle d'IRM ainsi que la salle de contrôle, vous serez invités à aller préparer le matériel pour votre étude si besoin.
+4. Lorsque l'équipe vous précédant aura terminée et aura libérée la salle d'IRM ainsi que la salle de contrôle, vous serez invités à aller préparer le matériel pour votre étude si besoin.
 
 ## Déplacements
 
