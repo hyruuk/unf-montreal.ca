@@ -40,7 +40,7 @@ Si votre réservation est validée par le système, le message de réservation d
 
 Vous pouvez cliquer sur "Screening" directement si vous êtes en mesure de remplir le formulaire de dépistage IRM. Dans le cas contraire, vous aurez accès à ce lien depuis votre réservation.
 
-Si votre reservation n'est pas validée, vous aurez alors un message d'erreur ainsi que la possibilité de nous envoyer un courriel à l'adresse suivante __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Reservation_MRI)__.
+Si votre réservation n'est pas validée par le système, vous aurez alors un message d'erreur ainsi que la possibilité de nous envoyer un courriel à l'adresse suivante __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Reservation_MRI)__.
 
 # Après votre réservation
 
