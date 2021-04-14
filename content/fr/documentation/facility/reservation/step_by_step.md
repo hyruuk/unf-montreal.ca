@@ -57,7 +57,7 @@ Finalement, une fois que le formulaire de dépistage IRM aura été revu et vali
 ## Recommandations
 
 * Faites attention de soumettre votre demande de réservation sur la bonne ligne (MRI Prisma-fit 3T scanner, salle de testing (R0743) ou salle de simulation).
-* Faites votre reservation sous le nom du projet qui sera utilisé pour scanner. Cela permettra au staff UNF de se préparer à l'avance.
+* Faites votre réservation sous le nom du projet qui sera utilisé pour scanner. Cela permettra au staff UNF de se préparer à l'avance.
 * Faites remplir ou remplissez avec le participant le formulaire de dépistage IRM le plus rapidement possible.
 
 ## Annulation d'une réservation
