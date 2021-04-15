@@ -42,17 +42,15 @@ Les réservations pour l'IRM sont assujetties aux règles suivantes:
 * La durée des réservations augmente par incréments de 15 minutes
 * Le temps d’installation pour l’IRM et la salle de contrôle et le temps de nettoyage doivent être pris en considération lors de la réservation des plages horaires.
 * Les réservations doivent être pendant les heures normales d'ouvertures (i.e. du lundi au vendredi, de 9h00 à 12h00 et de 13h00 à 17h00).
-* Il est possible de réserver l'IRM hors de ces périodes. Veuillez prendre connaissance des [__taux horaires__](http://www.unf-montreal.ca/fr/taux_horaire).
+* Il est possible de réserver l'IRM hors de ces périodes. Veuillez prendre connaissance des [__taux horaires__](http://www.unf-montreal.ca/fr/rate).
 
 ## Taux horaire
 
-Les taux horaires sont présentés dans cette [__section__](https://unf-montreal.ca/fr/rate)
-
+Les taux horaires sont présentés dans cette [__section__](https://unf-montreal.ca/fr/rate).
 
 ## Formulaires
 
-Les formulaires à remplir sont détaillés dans la section [__formulaires__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
-
+Afin de réserver l'IRM, le participant devra complété un [__formulaires__](https://unf-montreal.ca/fr/documents/screening) en ligne pour le dépistage IRM.
 
 ## Accès et sécurité
 
