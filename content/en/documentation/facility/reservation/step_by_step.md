@@ -14,21 +14,20 @@ type: 'docs'
 
 - Once your are connected, you should see this page.
 
-![calendrier](/images/documentation/fr/reservation_mri_1.png)
+![calendrier](/images/documentation/en/reservation_mri_1.png)
 
 - With your mouse, you need to selected the time slot you wish to reserve. You should make a reservation per participant.
 
-![plage horaire](/images/documentation/fr/reservation_mri_2b.png)
+![plage horaire](/images/documentation/en/reservation_mri_2.png)
 
 - You can fill the following form:
 
-![fiche reservation](/images/documentation/fr/reservation_mri_3.png)
+![fiche reservation](/images/documentation/en/reservation_mri_3.png)
 
 Mandatory fields:
 - Title of reservation
 - Session name
 - Research assistant (RA)
-- Accessories
 
 If you are making a reservation to scan a Phantom please check the corresponding box (Phantom).
 

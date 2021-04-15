@@ -18,7 +18,7 @@ type: 'docs'
 
 - Vous devez selectionner avec votre souris la plage horaire que vous souhaitez réserver. Une réservation doit être faites par participant.
 
-![plage horaire](/images/documentation/fr/reservation_mri_2b.png)
+![plage horaire](/images/documentation/fr/reservation_mri_2.png)
 
 - Vous pouvez maintenant remplir la fiche de réservation suivante:
 
