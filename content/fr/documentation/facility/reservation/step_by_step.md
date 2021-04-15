@@ -48,7 +48,7 @@ Votre réservation sera alors visible en jaune (en attente) sur le calendrier. V
 
 - **Link to screening/depistage**: dépistage à faire remplir par le participant (peut être rempli depuis une tablette ou un ordinateur)
 
-Vous recevrez un mail par jour durant les sept jours précédant votre reservation afin de vous rappeler de remplir le dépistage.
+Vous recevrez un mail par jour durant les douze jours précédant votre reservation afin de vous rappeler de remplir le dépistage.
 
 Quelques minutes après avoir complêté le formulaire de dépistage votre reservation sera alors de couleur **bleu**.
 

@@ -47,7 +47,7 @@ On the calendar, your reservation will be yellow (pending). You have access to t
 
 - **Link to screening/depistage**: screening survey to fill by the participant (available from a tablet or a computer)
 
-You will receive an email per day during the 7 days prior to your reservation to remind you to fill the MRI screening.
+You will receive an email per day during the 12 days prior to your reservation to remind you to fill the MRI screening.
 
 After few minutes, following the completion of the survey your reservation will turn **blue**.
 
