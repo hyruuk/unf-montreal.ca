@@ -1,7 +1,7 @@
 ---
 title: "Une fois votre demande approuvée"
 linkTitle: "Une fois votre demande approuvée"
-date: 2020-12-11
+date: 2021-06-08
 weight: 2
 description: "Une fois votre demande approuvée par l'UNF ou par la DEUR du CCSMTL"
 type: 'docs'
@@ -20,15 +20,13 @@ Les équipes de recherche doivent **obligatoirement aider à la procédure de d�
 
 Afin de planifier votre session d’IRM ainsi que la **séance d’évaluation** qui vise à valider l’implémentation des mesures de sécurité COVID-19, vous devez contacter Émilie Dessureault en suivant le courriel __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Séance_évaluation)__. Vous pouvez consulter le calendrier de réservation tel qu'auparavant pour visualiser les disponibilités, mais vous ne pouvez pas faire de réservation avant votre séance d’évaluation.
 
-## Formulaire de réquisition et de dépistage en ligne
+## Formulaire de dépistage en ligne
 
-Le **questionnaire de dépistage IRM** et le **formulaire de réquisition** se font maintenant en ligne. Une fois la réservation de votre IRM confirmée, vous recevrez les liens des formulaires. Ces formulaires doivent être complétés au plus tard 24h avant votre réservation. N'oubliez pas de vous assurer que votre participant est compatible IRM lors de votre recrutement. Vous devez présenter le **formulaire de consentement**, dûment signé, lors de votre réservation afin que l’opérateur IRM puisse le prendre en photo pour le joindre au dossier du participant. Tous les documents et signatures électroniques sont sauvegardés sur les serveurs de l’UNF au CRIUGM.
+Le **questionnaire de dépistage IRM** se fait maintenant en ligne. Lorsque votre réservation d'IRM est soumise, le lien pour le formulaire de dépistage sera disponible à même votre réservation. Le formulaire de dépistage doit être complété au plus tard 24h avant votre réservation. N'oubliez pas de vous assurer que votre participant est compatible IRM lors de votre recrutement. Vous devez présenter le **formulaire de consentement**, dûment signé, lors de votre réservation afin que l’opérateur IRM puisse le prendre en photo pour le joindre au dossier du participant. Tous les documents et signatures électroniques sont sauvegardés sur les serveurs de l’UNF au CRIUGM.
 
 ## Modalités d’accès au CRIUGM - UNF
 
 **Accès au Centre de recherche-UNF**: Tous les membres de votre équipe ainsi que les participants doivent se présenter à l’entrée principale du Centre de recherche au 4545, chemin Queen-Mary.  
-
-**Registre des accès**: Afin d’assurer la traçabilité en cas d’éclosion ou de risque de contamination, vous devez remplir un simple relevé de présence en ligne à chaque visite au CRIUGM soit en allant au **http://criugm.qc.ca/pr** ou en utilisant le kiosque électronique (grande tablette/écran tactile) à l’entrée principale.
 
 **Procédures et mesures de prévention**: Lavage des mains obligatoire - Il y a des distributeurs de solution hydroalcoolique à l’entrée principale.
 Le port du masque de procédure (bleu, jetable) est obligatoire dans les installations du CCSMTL. L’UNF met à votre disposition les masques de procédures.
@@ -38,4 +36,4 @@ Le port du masque de procédure (bleu, jetable) est obligatoire dans les install
 
 ### **RAPPEL**
 
-Si vous avez des nouveaux membres dans votre équipe, ces derniers doivent suivre la formation obligatoire sur les mesures de sécurité dans un environnement comprenant un haut champ magnétique. Vous pouvez contacter Émilie Dessureault via le courriel __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Formation_sécurité)__.
+Si vous avez des nouveaux membres dans votre équipe, ces derniers doivent suivre la formation obligatoire sur les **mesures de sécurité dans un environnement comprenant un haut champ magnétique**. Vous pouvez vous inscrire en remplissant le  **[formulaire](https://limesurvey.criugm.qc.ca/index.php/158719?lang=fr)**.
