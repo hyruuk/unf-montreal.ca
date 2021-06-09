@@ -11,7 +11,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
-
+defaultContentLanguage = "fr"
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -660,7 +660,7 @@ weight = 1
 home = "Home"
 about= "About"
 # copyright
-copyright = "Copyright &copy; 2020 UNF"
+copyright = "Copyright &copy; 2021 UNF"
 
 
 ################################### French language #####################################
@@ -672,7 +672,7 @@ weight = 2
 home = "Accueil"
 about= "À propos de nous"
 # copyright
-copyright = "Copyright &copy; 2020 UNF"
+copyright = "Copyright &copy; 2021 UNF"
 
 
 [markup]
