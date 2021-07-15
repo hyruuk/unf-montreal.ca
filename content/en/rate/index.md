@@ -1,77 +1,35 @@
 ---
-title: "Taux horaire de l’IRM"
-subtitle : "Le tableau suivant donne les taux horaires de l’utilisation de l’IRM
-en fonction du statut du chercheur principal. La portion éthique du taux horaire
-correspond au coût pour l’évaluation de votre projet par le CMER-RNQ, amorti sur
-les 25 premières heures d’utilisation."
+title: "MRI hourly rate"
+date: 2021-07-14
+weight: 1
+type: 'docs'
 
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# image
-image: "images/about/about-page.jpg"
-type: "rate"
+---
+###### The following table gives the hourly rates for the use of MRI based on the status of the principal investigator. The ethical portion of the hourly rate corresponds to the cost for the evaluation of your project by the CER VN, amortized over the first 25 hours of use.
+---
+|Statutes       |Hourly rates - regular hours (9 a.m. to 5 p.m.) [1]|Hourly rates - After 5 p.m. and weekends [2] [3]|CER VN (Comité d'éthique de la recherche-Vieillissement et Neuroimagerie)rate |
+|-------|---------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------|
+| **RNQ member** - Signatory members [4] | $500 | $550 | The signatory institution (CIUSSS-CSMTL-IUGM) assumes the ethics review fees. |
+| **RNQ member** - Non-signatory members [5] | $500 | $550 | The researcher pays the ethics review fee which is billed at $50/hour for the first 25 hours of scanner use ($1250). |
+| **RNQ non-member** - Non-signatory members | $550 | $600 | The researcher pays the ethics review fee which is billed at $50/hour for the first 25 hours of scanner use ($1250). After the first 25 hours, the regular rate applies. |
+| **RNQ member** - Private sector [6] | $800 (+ 30% indirect costs) | $850 (+ 30% indirect costs) | $2,500. |
 
-rate:
-  type:
-  - title: RNQ signatory member
-    comment: ''
-    unf_hourly_rate: "
-    * Before 5 p.m.: $500
+[1]: Monday to Friday, 9 am to 5 pm, except on statutory holidays. <br/> [2]: $550/hour for evenings, a minimum block of 3 hours is required after 8 p.m. and $550/hour on weekends, for a minimum block of 3 hours. <br/> [3 ]: If a member of the research team is trained and authorized by the UNF team to operate the MRI scanner, then the regular hourly rate applies. <br/> [4]: ​​Signatory members (researcher's affiliation) : IUGM, CHUM, Hôpital Louis-H. Lafontaine and Sacré-Coeur Hospital. <br/> [5]: Non-signatory members(researcher's affiliation): CHU Ste-Justine, University of Montreal campus. <br/> [6]: The cost of using the scanner can be negotiated with the scientific director of the UNF. A formal agreement is signed to this effect. For each study, private sector researchers must pay the full ethics review fees of the CER VN.
 
-    * After 5 p.m.: $750"
-
-    cer_vn_rate: "
-    Signatory institution (CIUSSS-CSMTL - IUGM)"
-
-  - title: RNQ non-signatory member
-    comment: ''
-    unf_hourly_rate: "
-    * Before 5 p.m.: $500
-
-    * After 5 p.m.: $750"
-
-    cer_vn_rate: "
-    $50/hour (first 25 hours, to a maximum of $1 250)"
-
-  - title: Non RNQ member
-    comment: ''
-    unf_hourly_rate: "
-    * Before 5 p.m.: $550
-
-    * After 5 p.m.: $825"
-
-    cer_vn_rate: "
-    $50/hour (first 25 hours, to a maximum of $1 250)"
 
 
 ---
 
-[1] Pour chaque étude, les chercheurs du secteur privé doivent débourser en totalité les frais d’évaluation du projet par le comité mixte d’éthique de la recherche du RNQ.
 
-Notes:
+__Additional information__
 
-- Toute annulation doit être faite au moins sept (7) jours d’avance. À défaut de quoi le temps réservé sera quand même facturé.
-
-- Tout dépassement de l’utilisation de la salle d’IRM ou de la salle de contrôle sur votre temps réservé sera facturé par incréments de 15 minutes.
-
-- Tout nouveau projet a droit à 1 heure gratuite pour permettre la configuration/installation des paramètres de l’étude. Les heures subséquentes sont chargées selon le taux en vigueur.
-
-
-- Tous besoins particuliers doivent être discutés avec le directeur scientifique de l’UNF, Dr Pierre Bellec.
+- All cancellations must be made at least seven (7) days in advance. Otherwise the reserved time will be invoiced.
+- Any excess of the use of the MRI room or the control room over your reserved time will be billed in 15 minute increments.
+- Any new project is entitled to one (1) free hour to allow configuration/installation of study parameters. Subsequent hours are charged at the prevailing rate.
+- The use of the platform outside normal hours will only be allowed for projects unable to perform analyzes during normal hours due to the nature of the experiments or the population, requires higher user fees as well as a formal agreement with the director of the UNF.
+- Any special needs should be discussed with the scientific director of the UNF, Dr Pierre Bellec.
 
 
-__Réservations d’exception__
 
-
-Les réservations de plages-horaire en dehors des heures normales (réservations d’exception) d’activité (9h à 17h00 du lundi au vendredi, sauf lors des congés fériés) sont possibles après discussion avec les opérateurs réguliers de l’UNF (Carollyn Hurst et André Cyr).
-
-
-Les réservations d’exception seront comptabilisées comme suit:
-
-* Tarif régulier + 100$/heure (p. ex. 500$ (tarif régulier) + 100$ = 600$/heure
-
-* Les soirs et fins de semaines : tarif régulier + 100$/heure pour un minimum de 3 heures.
-
-
-Les dépassements du temps réservé dans l’horaire régulier seront facturés par incréments de 15 minutes et selon la politique des tarifs en vigueur, soit à taux et demi.
+__Exceptional reservations__
+Reservations outside regular hours (Monday to Friday, 9 a.m. to 5 p.m.) of activity are possible after making a request to support.unf@criugm.qc.ca
