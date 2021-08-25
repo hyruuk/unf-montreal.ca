@@ -30,29 +30,29 @@ Lunch hour, week-ends, evenings, nights and holydays
 If you wish to access the MRI scanning room outside of normal working hours, please send an email to **[support.unf](mailto:support.unf@criugm.qc.ca?subject=Demande_Accès_MRI_Off-Hours)**.
 
 
-## Reservations
+## Booking the MRI
 
-The [__section for reservation__](https://unf-montreal.ca/documentation/facility/reservation/) show you step by step how to make a reservation.  
+The [__section for booking ](https://unf-montreal.ca/documentation/facility/reservation/) shows you step by step how to book the MRI.  
 
-Les réservations pour l'IRM sont assujetties aux règles suivantes:
+Booking the MRI follows these rules:
 
-* Les réservations doivent être pour un minumum de 30 minutes
-* La durée des réservations augmente par incréments de 15 minutes
-* Le temps d’installation pour l’IRM et la salle de contrôle et le temps de nettoyage doivent être pris en considération lors de la réservation des plages horaires.
-* Les réservations doivent être pendant les heures normales d'ouvertures (i.e. du lundi au vendredi, de 9h00 à 12h00 et de 13h00 à 17h00).
-* It is possible to book the MRI outside of these periods. Please read the [__taux horaires__](http://www.unf-montreal.ca/fr/rate).
+* Reservations must be for a minimum of 30 minutes
+* The duration of reservations increases in 15 minute increments
+* Installation time for MRI and control room and cleaning time should be taken into consideration when booking time slots.
+* Booking must be made during normal opening hours (i.e. Monday to Friday, 9:00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00 p.m.).
+* It is possible to book the MRI outside of these periods. Please read the [__hourly rate__] (http://www.unf-montreal.ca/fr/rate).
 
 ## Rate
 
-Les taux horaires sont présentés dans cette [__section__](https://unf-montreal.ca/fr/rate)
+Hourly rates are presented in this [__section__] (https://unf-montreal.ca/fr/rate)
 
+## Forms
 
-## Formulaires
+Forms to fill are detailed in section [__forms__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
 
-Les formulaires à remplir sont détaillés dans la section [__formulaires__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
+## Access and security
 
-
-## Accès et sécurité
+The MRI is located at 4545 Queen Mary. More details [here](https://unf-montreal.ca/documentation/facility/).
 
 L'accès à l'IRM est controlé par les opérateurs de l'IRM. Ce sont les seuls à pouvoir vous laisser entrer dans l'UNF.
 Vous n'aurez accès à l'IRM qu'àprès avoir participé à la [__formation__](https://unf-montreal.ca/fr/documentation/welcome/security) sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.
