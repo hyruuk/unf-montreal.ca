@@ -52,7 +52,7 @@ Forms to fill are detailed in section [__forms__](https://unf-montreal.ca/fr/doc
 
 ## Access and security
 
-The MRI is located at 4545 Queen Mary. More details [here](https://unf-montreal.ca/documentation/facility/).
+The MRI is located at 4545 Queen Mary. More details [here](https://unf-montreal.ca/en/documentation/facility/).
 
 L'accès à l'IRM est controlé par les opérateurs de l'IRM. Ce sont les seuls à pouvoir vous laisser entrer dans l'UNF.
 Vous n'aurez accès à l'IRM qu'àprès avoir participé à la [__formation__](https://unf-montreal.ca/fr/documentation/welcome/security) sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.
