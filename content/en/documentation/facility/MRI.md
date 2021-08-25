@@ -32,7 +32,7 @@ If you wish to access the MRI scanning room outside of normal working hours, ple
 
 ## Booking the MRI
 
-The [__section for booking ](https://unf-montreal.ca/documentation/facility/reservation/) shows you step by step how to book the MRI.  
+The **[section for booking](https://unf-montreal.ca/documentation/facility/reservation/)** shows you step by step how to book the MRI.  
 
 Booking the MRI follows these rules:
 
@@ -40,22 +40,22 @@ Booking the MRI follows these rules:
 * The duration of reservations increases in 15 minute increments
 * Installation time for MRI and control room and cleaning time should be taken into consideration when booking time slots.
 * Booking must be made during normal opening hours (i.e. Monday to Friday, 9:00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00 p.m.).
-* It is possible to book the MRI outside of these periods. Please read the [__hourly rate__] (http://www.unf-montreal.ca/fr/rate).
+* It is possible to book the MRI outside of these periods. Please read the **[hourly rate](http://www.unf-montreal.ca/fr/rate)**.
 
 ## Rate
 
-Hourly rates are presented in this [__section__] (https://unf-montreal.ca/fr/rate)
+Hourly rates are presented in this **[section](https://unf-montreal.ca/fr/rate)**.
 
 ## Forms
 
-Forms to fill are detailed in section [__forms__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms).
+Forms to fill are detailed in section **[forms](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/forms)**.
 
 ## Access and security
 
-The MRI is located at 4545 Queen Mary. More details [here](https://unf-montreal.ca/en/documentation/facility/).
+The MRI is located at 4545 Queen Mary. More details **[here](https://unf-montreal.ca/en/documentation/facility/)**.
 
 L'accès à l'IRM est controlé par les opérateurs de l'IRM. Ce sont les seuls à pouvoir vous laisser entrer dans l'UNF.
-Vous n'aurez accès à l'IRM qu'àprès avoir participé à la [__formation__](https://unf-montreal.ca/fr/documentation/welcome/security) sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.
+Vous n'aurez accès à l'IRM qu'àprès avoir participé à la **[formation](https://unf-montreal.ca/fr/documentation/welcome/security)** sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.
 
 Une fois l'IRM réservé, présentez vous le jour de votre acquisition à l'entrée de l'UNF. Vous ne serez autorisé à entrer que sous certaines conditions:
 
@@ -76,4 +76,4 @@ Une fois l'IRM réservé, présentez vous le jour de votre acquisition à l'entr
 
 ## Matériel disponible
 
-L'ensemble du matériel disponible pour l'IRM se trouve dans la section [__matériel__](https://unf-montreal.ca/fr/documentation/facility/hardware_software).
+L'ensemble du matériel disponible pour l'IRM se trouve dans la section **[matériel](https://unf-montreal.ca/fr/documentation/facility/hardware_software)**.
