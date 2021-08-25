@@ -7,8 +7,9 @@ description: >
 type: "docs"  
 ---
 
-L'UNF se trouve au sein de l'Institut Universitaire de Gériatrie (IUGM). Les
-déplacements dans les installations de l'UNF sont donc soumis à des consignes
+L'UNF se trouve au sein de l'Institut Universitaire de Gériatrie (IUGM). L'adresse est : 4545 Queen Mary Rd, Montreal, Quebec H3W 1W5.
+
+Les déplacements dans les installations de l'UNF sont donc soumis à des consignes
 de sécurité et de distanciation afin de protéger au mieux les résidents et
 l'ensemble des employés.  
 
