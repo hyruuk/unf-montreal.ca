@@ -15,7 +15,7 @@ If not already done, we invite you to read the __[COVID-19 documentation](https:
 
 ## Submit your access request
 
-**A-** For projects that **only** use the UNF platform (including the mock scanner and the R0743 testing room), please complete the __[UNF COVID-19 Phase 3 form](https://limesurvey.criugm.qc.ca/index.php/714835?newtest=Y&lang=fr)__
+**A-** For projects that **only** use the UNF platform (including the mock scanner and the R0743 testing room), please complete the __[UNF COVID-19 Phase 3 form](https://limesurvey.unf-montreal.ca/index.php/714835?newtest=Y&lang=fr)__
 
 **B-** For projects that use the UNF platform as well as any other CRIUGM office or platform, please complete the __[CRIUGM COVID-19 Phase 3 Form](https://limesurvey.criugm.qc.ca/index.php/917526?newtest=Y&lang=fr)__ while taking care to identify all the members of your team who will need to access the UNF.
 
