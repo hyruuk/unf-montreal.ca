@@ -8,7 +8,7 @@ type: 'docs'
 ---
 To continue your study at UNF, you must submit an access request to resume research activities in Phase 3.
 
-If not already done, we invite you to read the __[COVID-19 documentation](https://unf-montreal.ca/documents/covid)__.
+If not already done, we invite you to read the __[COVID-19 documentation](https://unf-montreal.ca/en/documents/covid)__.
 
 {{< youtube cBjQvkG7W9w >}}
 

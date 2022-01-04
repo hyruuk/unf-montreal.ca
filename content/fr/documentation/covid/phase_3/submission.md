@@ -8,7 +8,7 @@ type: 'docs'
 ---
 Pour poursuivre votre étude à l'UNF, vous devez présenter une demande d'accès de reprise des activités de recherche en Phase 3.
 
-Si ce n’est pas déjà fait, nous vous invitons à prendre connaissance de la __[documentation COVID-19](https://unf-montreal.ca/fr/documents/covid)__.
+Si ce n’est pas déjà fait, nous vous invitons à prendre connaissance de la __[documentation COVID-19](https://unf-montreal.ca/documents/covid)__.
 
 {{< youtube TypYZYp-m2k >}}
 
