@@ -76,4 +76,4 @@ Une fois l'IRM réservé, présentez vous le jour de votre acquisition à l'entr
 
 ## Matériel disponible
 
-L'ensemble du matériel disponible pour l'IRM se trouve dans la section **[matériel](https://unf-montreal.ca/fr/documentation/facility/hardware_software)**.
+L'ensemble du matériel disponible pour l'IRM se trouve dans la section **[matériel](https://unf-montreal.ca/en/documentation/facility/hardware_software)**.

@@ -54,7 +54,7 @@ Afin de réserver l'IRM, le participant devra compléter un [__formulaires__](ht
 
 ## Accès et sécurité
 
-L'IRM est située au 4545 Queen Mary. Plus de détails [ici](https://unf-montreal.ca/documentation/facility/). 
+L'IRM est située au 4545 Queen Mary. Plus de détails [ici](https://unf-montreal.ca/documentation/facility/).
 
 L'autorisation d'accès à l'IRM est controlé par les opérateurs de l'IRM. Ce sont les seuls à pouvoir vous laisser entrer dans l'UNF.
 Vous n'aurez accès à l'IRM qu'àprès avoir participé à la [__formation__](https://unf-montreal.ca/documentation/welcome/safety_guidelines/) sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.
@@ -78,4 +78,4 @@ Une fois l'IRM réservé, présentez vous le jour de votre acquisition à l'entr
 
 ## Matériel disponible
 
-L'ensemble du matériel disponible pour l'IRM se trouve dans la section [__matériel__](https://unf-montreal.ca/fr/documentation/facility/hardware_software).
+L'ensemble du matériel disponible pour l'IRM se trouve dans la section [__matériel__](https://unf-montreal.ca/documentation/facility/hardware_software).
