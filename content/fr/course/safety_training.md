@@ -22,7 +22,7 @@ icon_duration: "fa fa-clock"
 #fee: "Gratuit"
 #icon_fee: "fa fa-money-bill-alt"
 # apply url
-Apply_url : "mailto:support.unf@criugm.qc.ca?subject=Inscription-Formation Safety Training"
+Apply_url : "https://limesurvey.unf-montreal.ca/index.php/158719 Safety Training"
 # type
 type: "course"
 
@@ -41,8 +41,3 @@ Une formation quant aux mesures de sécurité à suivre dans un environnement co
 - Visite de l’UNF
 - Formulaire de dépistage des facteurs de risque associés à une exposition à haut champ magnétique
 - Période de questions
-
-Voici les prochaines dates ou la formation sur les mesures de sécurité est offerte:
-
-- Mardi, le 18 février 2020 à 13h30, M-4804
-- Mardi, le 10 mars 2020 à 13h30, M-4804

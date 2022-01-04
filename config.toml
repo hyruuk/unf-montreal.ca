@@ -234,13 +234,13 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Formations"
   name = "Compute Canada"
-  URL = "course/compute_canada"
+  URL = "https://www.computecanada.ca/page-daccueil-du-portail-de-recherche/research-support/training/?lang=fr"
   weight = 4
 
   [[Languages.fr.menu.main]]
   parent = "Formations"
-  name = "Globus"
-  URL = "course/globus"
+  name = "Calcul Quebec"
+  URL = "https://www.calculquebec.ca/services-aux-chercheurs/formation/"
   weight = 5
 
   [[Languages.fr.menu.main]]
@@ -429,13 +429,13 @@ weight = 5
   [[menu.main]]
   parent = "Training"
   name = "Compute Canada"
-  URL = "course/compute_canada"
+  URL = "https://www.computecanada.ca/research-portal/technical-support/training/"
   weight = 4
 
   [[menu.main]]
   parent = "Training"
-  name = "Globus"
-  URL = "course/globus"
+  name = "Calcul Quebec"
+  URL = "https://www.calculquebec.ca/en/academic-research-services/procedures/"
   weight = 5
 
   [[menu.main]]
