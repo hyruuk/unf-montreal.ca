@@ -12,8 +12,19 @@ slider:
       # available animation : left, right, up, down
 
     # slider item loop
+    - title : "Bonne année 2022!"
+      content : "L'équipe UNF vous souhaitent une merveilleuse année 2022: que la santé et la réussite vous accompagnent dans tous vos projets!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
+        label : "Lire la documentation"
+        link : "documentation"
+
+    # slider item loop
     - title : "COVID-19"
-      content : "L’unité de neuroimagerie fonctionnelle est réouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités."
+      content : "L’unité de neuroimagerie fonctionnelle est ouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
