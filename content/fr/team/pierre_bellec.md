@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/pierre_bellec.png"
+# image: "images/team/pierre_bellec.png"
 # course
 course: "Direction"
 weight: 1

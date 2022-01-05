@@ -2,11 +2,11 @@
 title: "Karim Jerbi, Ph.D."
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
+# description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/empty.jpg"
+# image: "images/team/empty.jpg"
 # course
 course: "Direction"
 # biography

@@ -2,11 +2,11 @@
 title: "Julien Cohen-Adad, Ph.D."
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/julien_cohenadad.jpg"
+# image: "images/team/julien_cohenadad.jpg"
 # course
 course: "Direction"
 # biography
@@ -24,6 +24,11 @@ contact:
   - name : "+1 514 340 5121, ext. 2264"
     icon : "fas fa-phone-alt" # icon pack : https://themify.me/themify-icons
     link : "tel:+15143405121"
+
+  # contact item loop
+  - name : "Julien Cohen-Adad"
+    icon : "fab fa-twitter" # icon pack : https://themify.me/themify-icons
+    link : "https://twitter.com/jcohenadad"
 
   # contact item loop
   - name : "neuro.polymtl.ca"

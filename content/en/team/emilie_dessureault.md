@@ -2,11 +2,11 @@
 title: "Émilie Dessureault"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # teacher portrait
-image: "images/team/empty.jpg"
+# image: "images/team/empty.jpg"
 # course
-course: "Staff"
+course: "Coordinator"
 # contact info
 contact:
   # contact item loop

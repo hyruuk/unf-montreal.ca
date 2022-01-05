@@ -6,13 +6,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/arnaud_bore.jpg"
+# image: "images/team/arnaud_bore.jpg"
 # course
 course: "Neuroinformatics"
 # biography
-bio: "Delete bio for staff?"
+# bio: "Delete bio for staff?"
 # interest
-interest: ["Delete interest for staff?"]
+# interest: ["Delete interest for staff?"]
 # contact info
 contact:
   # contact item loop
@@ -33,7 +33,3 @@ contact:
 # type
 type: "teacher"
 ---
-
-### À propos de moi
-
-Delete for staff?.

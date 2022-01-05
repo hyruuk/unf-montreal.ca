@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/pierre_bellec.png"
+# image: "images/team/pierre_bellec.png"
 # course
 course: "Direction"
 # biography
@@ -44,6 +44,6 @@ contact:
 type: "teacher"
 ---
 
-### À propos de moi
+### About me
 
 Pierre Bellec is also co-leading the *Discovering new biomarkers* team of the Canadian Consortium on Neurodegeneration in Aging, together with Dr Roger Dixon, from University of Alberta. Finally, Dr Bellec is the scientific director of the Courtois Project on Neuronal Modelling (NeuroMod), which uses human neuroimaging data to help train large artificial neural networks on a variety of cognitive tasks. Dr Bellec is a fellow (chercheur boursier 1&2) of the *Fonds de Recherche du Québec-Santé*.

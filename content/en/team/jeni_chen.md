@@ -2,17 +2,17 @@
 title: "Jeni Chen"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/empty.jpg"
+# image: "images/team/empty.jpg"
 # course
 course: "MRI"
 # biography
-bio: "Delete bio for staff?"
+# bio: "Delete bio for staff?"
 # interest
-interest: ["Delete interest for staff?"]
+# interest: ["Delete interest for staff?"]
 # contact info
 contact:
   # contact item loop
@@ -28,7 +28,3 @@ contact:
 # type
 type: "teacher"
 ---
-
-### À propos de moi
-
-Delete for staff?.

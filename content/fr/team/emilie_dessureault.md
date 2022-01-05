@@ -2,11 +2,11 @@
 title: "Émilie Dessureault"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # teacher portrait
-image: "images/team/empty.jpg"
+# image: "images/team/empty.jpg"
 # course
-course: "Staff"
+course: "Coordination"
 # contact info
 contact:
   # contact item loop
@@ -15,12 +15,12 @@ contact:
     link : "mailto:emilie.dessureault@criugm.qc.ca"
 
   # contact item loop
-  - name : "+1 514 340 3540, poste 3369"
+  - name : "+1 514 340 3540, ext. 3369"
     icon : "fas fa-phone-alt" # icon pack : https://themify.me/themify-icons
     link : "tel:+15143403540"
 
   # contact item loop
-  - name : "4545 rue Queen-Mary, Montréal"
+  - name : "4545 Queen-Mary Road, Montreal"
     icon : "fas fa-map-marker-alt" # icon pack : https://themify.me/themify-icons
     link : "https://goo.gl/maps/oJZVQeq7Hm3DqYsKA"
 

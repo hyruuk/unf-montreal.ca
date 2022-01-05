@@ -2,11 +2,11 @@
 title: "Karim Jerbi, PhD"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-image: "images/team/empty.jpg"
+# image: "images/team/empty.jpg"
 # course
 course: "Direction"
 # biography
@@ -44,6 +44,6 @@ contact:
 type: "teacher"
 ---
 
-### À propos de moi
+### About me
 
 Karim Jerbi is the chairholder of the Canada Research Chair in computational neuroscience and cognitive neuroimaging.

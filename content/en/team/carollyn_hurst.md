@@ -2,9 +2,9 @@
 title: "Carollyn Hurst, R.T.R. (MR)"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # teacher portrait
-image: "images/team/carollyn_hurst.jpg"
+# image: "images/team/carollyn_hurst.jpg"
 # course
 course: "MRI"
 # contact info
