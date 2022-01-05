@@ -8,7 +8,7 @@ draft: false
 # teacher portrait
 # image: "images/team/empty.jpg"
 # course
-course: "Direction"
+course: "Co-Direction"
 # biography
 bio: "Karim Jerbi, PhD, is an Associate director of the Fonctional Neuroimaging Unit, Research Center of the Institut universitaire de gériatrie de Montréal, director of the Computational and Cognitive Neuroscience lab and an Associate professor at the psychology department at University of Montreal."
 # interest

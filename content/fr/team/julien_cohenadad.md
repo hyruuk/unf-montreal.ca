@@ -8,7 +8,7 @@ draft: false
 # teacher portrait
 # image: "images/team/julien_cohenadad.jpg"
 # course
-course: "Direction"
+course: "Co-Direction"
 # biography
 bio: "Julien Cohen-Adad, Ph.D., est directeur adjoint de l'Unité de neuroimagerie fonctionnelle, Centre de recherche de l'Institut universitaire de gériatrie de Montréal, co-directeur du laboratoire NeuroPoly avec Prof. Nikola Stikov et professeur agrégé à la Polytechnique Montréal"
 # interest

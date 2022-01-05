@@ -8,7 +8,7 @@ draft: false
 # teacher portrait
 # image: "images/team/empty.jpg"
 # course
-course: "Direction"
+course: "Co-Direction"
 # biography
 bio: "Karim Jerbi, Ph.D., est Directeur adjoint de l'Unité de neuroimagerie fonctionnelle, Centre de recherche de l'Institut de gériatrie de Montréal, directeur du laboratoire *Computational and Cognitive Neuroscience* et professeur agrégé au département de psychologie de l'Université de Montréal."
 # interest

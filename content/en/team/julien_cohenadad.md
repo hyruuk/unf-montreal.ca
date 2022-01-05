@@ -8,7 +8,7 @@ draft: false
 # teacher portrait
 # image: "images/team/julien_cohenadad.jpg"
 # course
-course: "Direction"
+course: "Co-Direction"
 # biography
 bio: "Julien Cohen-Adad, PhD, is an Associate director of the Fonctional Neuroimaging Unit, Research Center of the Institut universitaire de gériatrie de Montréal, the co-investigator, along with Prof. Nikola Stikov, of the NeuroPoly Lab and an associate professor at the Polytechnique Montreal"
 # interest
