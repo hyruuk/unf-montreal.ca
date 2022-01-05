@@ -22,7 +22,7 @@ icon_duration: "fa fa-clock"
 #fee: "Gratuit"
 #icon_fee: "fa fa-money-bill-alt"
 # apply url
-Apply_url : "https://limesurvey.unf-montreal.ca/index.php/158719 Safety Training"
+Apply_url : "https://limesurvey.unf-montreal.ca/index.php/158719"
 # type
 type: "course"
 
