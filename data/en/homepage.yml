@@ -20,7 +20,7 @@ slider:
 
     # slider item loop
     - title : "COVID-19"
-      content : "The Unité de neuroimagerie fonctionnelle is opened.<br/> You can apply for a research resumption request."
+      content : "The Unité de neuroimagerie fonctionnelle is closed. Stay tuned on our slack for the latest update." # "The Unité de neuroimagerie fonctionnelle is opened.<br/> You can apply for a research resumption request."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
