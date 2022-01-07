@@ -28,10 +28,10 @@ slider:
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Appliquer maintenant"
-        link : "documentation/covid"
+      #button:
+      #  enable : true
+      #  label : "Appliquer maintenant"
+      #  link : "documentation/covid"
 
     # slider item loop
     - title : "Bienvenue à l’UNF"
