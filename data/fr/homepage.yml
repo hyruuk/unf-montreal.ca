@@ -17,10 +17,10 @@ slider:
     #  animation_in : "left"
     #  animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : false
-        label : "Lire la documentation"
-        link : "documentation"
+    #  button:
+    #    enable : false
+    #    label : "Lire la documentation"
+    #    link : "documentation"
 
     # slider item loop
     - title : "COVID-19"
