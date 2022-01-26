@@ -24,14 +24,14 @@ slider:
 
     # slider item loop
     - title : "COVID-19"
-      content : "L’unité de neuroimagerie fonctionnelle est fermée jusqu'à nouvel ordre. Restez connecté à slack pour connaitre les dernières nouvelles." # L’unité de neuroimagerie fonctionnelle est ouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités."
+      content : L’unité de neuroimagerie fonctionnelle est ouverte.<br/> Vous pouvez appliquer pour une demande de reprise des activités." #"L’unité de neuroimagerie fonctionnelle est fermée jusqu'à nouvel ordre. Restez connecté à slack pour connaitre les dernières nouvelles." #
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
-      #button:
-      #  enable : true
-      #  label : "Appliquer maintenant"
-      #  link : "documentation/covid"
+      button:
+        enable : true
+        label : "Appliquer maintenant"
+        link : "documentation/covid"
 
     # slider item loop
     - title : "Bienvenue à l’UNF"
