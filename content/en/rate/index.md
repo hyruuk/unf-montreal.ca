@@ -5,6 +5,17 @@ weight: 1
 type: 'docs'
 
 ---
+### <span style="color:red"> New rates that will be in effect as of June 2022.</span>
+Due to increased operating costs we will need to increase our user fees (see details below). This increase will help ensure the viability of the platform. These new rates will not apply to projects currently in progress, but only for new projects starting from June 2022.
+
+|Statutes       |Hourly rates - regular hours (9 a.m. to 5 p.m.) [1]|Hourly rates - After 5 p.m. and weekends [2] [3]|CER VN (Comité d'éthique de la recherche-Vieillissement et Neuroimagerie)rate |
+|-------|---------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------|
+| **RNQ member** - Signatory members [4] | <span style="color:red"> 550$| <span style="color:red"> 600$ </span>| The signatory institution (CIUSSS-CSMTL-IUGM) assumes the ethics review fees. |
+| **RNQ member** - Non-signatory members [5] | <span style="color:red"> 550$| <span style="color:red"> 600$ </span> | The researcher pays the ethics review fee which is billed at $50/hour for the first 25 hours of scanner use ($1250). |
+| **RNQ non-member** - Non-signatory members | <span style="color:red"> 600$| <span style="color:red"> 650$ </span> | The researcher pays the ethics review fee which is billed at $50/hour for the first 25 hours of scanner use ($1250). After the first 25 hours, the regular rate applies. |
+| **RNQ member** - Private sector [6] | <span style="color:red"> 850$ </span> (+ 30% indirect costs) | <span style="color:red"> 900$ </span> (+ 30% indirect costs) | $2,500. |
+
+### Rates currently in effect.
 ###### The following table gives the hourly rates for the use of MRI based on the status of the principal investigator. The ethical portion of the hourly rate corresponds to the cost for the evaluation of your project by the CER VN, amortized over the first 25 hours of use.
 ---
 |Statutes       |Hourly rates - regular hours (9 a.m. to 5 p.m.) [1]|Hourly rates - After 5 p.m. and weekends [2] [3]|CER VN (Comité d'éthique de la recherche-Vieillissement et Neuroimagerie)rate |
