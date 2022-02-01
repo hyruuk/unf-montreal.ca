@@ -2,7 +2,7 @@
 title: "MRI hourly rate"
 date: 2021-07-14
 weight: 1
-type: 'docs'
+type: 'rate'
 
 ---
 ### <span style="color:red"> New rates that will be in effect as of June 2022.</span>

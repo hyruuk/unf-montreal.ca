@@ -2,7 +2,7 @@
 title: "Taux horaire de l'IRM"
 date: 2021-07-14
 weight: 1
-type: 'docs'
+type: 'rate'
 
 ---
 ### <span style="color:red"> Nouveaux taux qui seront en vigueur à compter de juin 2022.</span>
