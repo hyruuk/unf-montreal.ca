@@ -2,9 +2,21 @@
 title: "Taux horaire de l'IRM"
 date: 2021-07-14
 weight: 1
-type: 'docs'
+type: 'rate'
 
 ---
+### <span style="color:red"> Nouveaux taux qui seront en vigueur à compter de juin 2022.</span>
+En raison de l’augmentation des coûts d’opération de la plateforme nous devons augmenter nos frais d’utilisation (voir les détails ci-dessous). Cette augmentation contribuera à assurer la viabilité de la plateforme.
+Ces nouveaux tarifs ne s’appliqueront pas sur les projets en cours, mais uniquement pour les nouveaux projets démarrant à compter de juin 2022.
+
+|Statuts       |Tarifs horaire - heures régulières (9h à 17h) [1]|Tarifs horaire - Après 17h et les fins de semaines [2] [3]|Tarif du CER VN (Comité d'éthique de la recherche-Vieillissement et Neuroimagerie)|
+|-------|---------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------|
+|**Membre RNQ**-Partenaires signataires [4]|<span style="color:red"> 550$| <span style="color:red"> 600$ </span>|L'établissement signataire (CIUSSS-CSMTL-IUGM)assume les frais d'évaluation éthique.|
+|**Membre RNQ**-Partenaires non-signataires [5]|<span style="color:red"> 550$| <span style="color:red"> 600$ </span>|Le chercheur assume les frais d’évaluation éthique qui sont facturés à raison de 50$/heure pour les 25 premières heures d’utilisation du scanner (1250$).|
+|**Non-membre RNQ**-Partenaires non-signataires|<span style="color:red"> 600$| <span style="color:red"> 650$ </span>|Le chercheur assume les frais d’évaluation éthique qui sont facturés à raison de 50$/heure pour les 25 premières heures d’utilisation du scanner (1250$). Après les 25 premières heures, le tarif régulier s’applique.|
+|**Membre RNQ**-Secteur privé [6]|<span style="color:red"> 850$ </span> (+30% frais indirects)| <span style="color:red"> 900$ </span> (+30% frais indirects)|2 500$.|
+
+### Tarifs actuellement en vigueur.
 ###### Le tableau suivant donne les taux horaires de l’utilisation de l’IRM en fonction du statut du chercheur principal. La portion éthique du taux horaire correspond au coût pour l’évaluation de votre projet par le CER VN, amorti sur les 25 premières heures d’utilisation.
 ---
 |Statuts       |Tarifs horaire - heures régulières (9h à 17h) [1]|Tarifs horaire - Après 17h et les fins de semaines [2] [3]|Tarif du CER VN (Comité d'éthique de la recherche-Vieillissement et Neuroimagerie)|
