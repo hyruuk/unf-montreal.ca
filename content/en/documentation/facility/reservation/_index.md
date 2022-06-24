@@ -8,7 +8,9 @@ description: >
 type: 'docs'
 ---
 
-Pour réserver le scanneur IRM, la salle de simulation ou la salle de testing vous devez avoir un [__compte de réservation__](https://unf-montreal.ca/fr/documentation/welcome/account), une fois votre compte obtenu, vous pouvez soumettre des demandes de réservation via le [__calendrier web__](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F).
+Pour réserver l'IRM, la salle de simulation ou la salle de testing vous devez avoir un [__compte de réservation__](https://unf-montreal.ca/fr/documentation/welcome/account), une fois votre compte obtenu, vous pouvez soumettre des demandes de réservation via le [__calendrier web__](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F).
+
+Note: Under the `session name` you will need to enter a study suffix that is listed in this [JSON file]([url](https://github.com/UNFmontreal/bids_configs/blob/master/studies.json)). Look for the fields that start with your group name. 
 
 
 ## Les différentes installations
