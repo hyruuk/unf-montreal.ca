@@ -4,22 +4,22 @@ linkTitle: "Réservation"
 date: 2017-01-05
 weight: 3
 description: >
-  Reservation de l'IRM, salle de simulation ou salle de testing
+  Reservation of the MRI, simulation room or testing room
 type: 'docs'
 ---
 
-Pour réserver le scanneur IRM, vous devez avoir un __[compte de réservation](https://unf-montreal.ca/fr/documentation/welcome/account)__, une fois votre compte obtenu, vous pouvez soumettre des demandes de réservation via le __[calendrier web](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F)__.
+To reserve the MRI scanner, you must have a __[reservation account](https://unf-montreal.ca/en/documentation/welcome/account)__, once you have obtained your account, you can submit reservation requests via the __[web calendar](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F)__.
 
-La section __[reservation](http://www.unf-montreal.ca/documentation/fr/facility/reservation/)__ vous montre pas à pas comment réserver le scanneur IRM.
+The __[reservation](http://www.unf-montreal.ca/en/documentation/facility/reservation/)__ section shows you step by step how to reserve the MRI scanner.
 
-## Rappels: règles de réservation
-Les réservations pour l'IRM sont assujetties aux règles suivantes:
+## Reminders: reservation rules
+MRI reservations are subject to the following rules:
 
-* Les réservations doivent être pour un minumum de 30 minutes
-* La durée des réservations augmente par incréments de 15 minutes
-* Le temps d’installation pour l’IRM et la salle de contrôle et le temps de nettoyage doivent être pris en considération lors de la réservation des plages horaires.
-* Les réservations doivent être faites selon le calendrier UNF Heures ouvertures (i.e. du lundi au vendredi, de 9h00 à 12h00 et de 13h00 à 17h00).
-* Il est possible de réserver l'IRM hors de ces périodes. Les conditions suivantes s'appliquent alors:
-* Taux horaire majoré (voir les __[taux horaires et politiques de facturation](http://www.unf-montreal.ca/fr/rate)__ sur le site de l'UNF).
-* Entre deux groupes de recherche, un créneau horaire de 30 minutes sera réservé sur le calendrier de l'UNF pour garantir que le personnel et les chercheurs aient le temps de parcourir leur liste de désinfection post-analyse.
-* Si vous souhaitez effectuer une annulation, veuillez consulter la __[politique d’annulation](http://www.unf-montreal.ca/fr/rate)__ pour éviter des coûts inutiles.
+* Reservations must be for a minimum of 30 minutes
+* Reservations increase in 15 minute increments
+* MRI and control room set-up and clean-up time must be taken into consideration when booking time slots.
+* Reservations must be made according to the UNF Hours of Operation (i.e. Monday through Friday, 9:00 a.m. to 12:00 p.m. and 1:00 to 5:00 p.m.).
+* It is possible to book the MRI outside of these times. The following conditions apply:
+  * Increased hourly rate (see the __[hourly rates and billing policies](http://www.unf-montreal.ca/en/rate)__ on the UNF website).
+* Between research groups, a 15-minute time slot will be reserved on the UNF calendar to ensure that staff and researchers have time to go through their post-analysis disinfection list.
+* If you wish to make a cancellation, please see the __[cancellation policy](http://www.unf-montreal.ca/en/rate)__ to avoid unnecessary costs.
