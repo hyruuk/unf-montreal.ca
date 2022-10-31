@@ -1,6 +1,6 @@
 ---
-title: "Réservation"
-linkTitle: "Réservation"
+title: "Reservation"
+linkTitle: "Reservation"
 date: 2017-01-05
 weight: 3
 description: >
