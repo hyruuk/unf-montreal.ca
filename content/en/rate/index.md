@@ -36,7 +36,7 @@ __Additional information__
 
 - All cancellations must be made at least seven (7) days in advance. Otherwise the reserved time will be invoiced.
 - Any excess of the use of the MRI room or the control room over your reserved time will be billed in 15 minute increments.
-- Any new project is entitled to one (1) free hour to allow configuration/installation of study parameters. Subsequent hours are charged at the prevailing rate.
+- All new projects are entitled to a free "pilot" period of 1 to 3 hours (maximum) in order to test and optimize your acquisition parameters and sequences and adapt them to the UNF environment. No participants in your study can be involved in the "pilot" stage and the "pilot" data will not be stored on our servers. If your project requires more pilot testing time, you must refer to the UNF Scientific Director, Dr. Pierre Bellec.
 - The use of the platform outside normal hours will only be allowed for projects unable to perform analyzes during normal hours due to the nature of the experiments or the population, requires higher user fees as well as a formal agreement with the director of the UNF.
 - Any special needs should be discussed with the scientific director of the UNF, Dr Pierre Bellec.
 

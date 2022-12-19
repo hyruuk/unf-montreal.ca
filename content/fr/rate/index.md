@@ -37,7 +37,7 @@ __Information additionnelle__
 
 - Toute annulation doit être faite au moins sept (7) jours d’avance. À défaut de quoi le temps réservé sera facturé.
 - Tout dépassement de l’utilisation de la salle d’IRM ou de la salle de contrôle sur votre temps réservé sera facturé par incréments de 15 minutes.
-- Tout nouveau projet a droit à une (1) heure gratuite pour permettre la configuration/installation des paramètres de l’étude. Les heures subséquentes sont chargées selon le taux en vigueur.
+- Tout nouveau projet a droit à une période « pilote » gratuite de 1 à 3 heures (maximum) afin de tester et d’optimiser vos paramètres et séquences d’acquisition et d’adaptation à l’environnement de l’UNF. Aucun participant à votre étude ne peut être impliqué à l’étape « pilote » et les données « pilotes » ne seront pas conservées sur nos serveurs. Si votre projet requiert plus de temps d’essais pilotes, vous devez en référer au directeur scientifique de l’UNF, le Dr Pierre Bellec.
 - L'utilisation de la plateforme en dehors des heures normales ne sera autorisée que pour les projets incapables d'effectuer des analyses aux heures normales en raison de la nature des expériences ou de la population, nécessite des frais d'utilisation plus élevés ainsi qu'un accord formel avec le directeur de l'UNF.
 - Tous besoins particuliers doivent être discutés avec le directeur scientifique de l’UNF, Dr Pierre Bellec.
 
