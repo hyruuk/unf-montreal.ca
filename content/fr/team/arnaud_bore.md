@@ -18,7 +18,7 @@ contact:
   # contact item loop
   - name : "support.unf@criugm.qc.ca"
     icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
-    link : "mailto:arnaud.bore@criugm.qc.ca"
+    link : "mailto:support.unf@criugm.qc.ca"
 
   # contact item loop
   - name : "+1 514 340 2800, ext. 3044"

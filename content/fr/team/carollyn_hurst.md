@@ -12,7 +12,7 @@ contact:
   # contact item loop
   - name : "support.unf@criugm.qc.ca"
     icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
-    link : "mailto:carollyn.hurst@criugm.qc.ca"
+    link : "mailto:support.unf@criugm.qc.ca"
 
   # contact item loop
   - name : "+1 514 340 3540, ext. 4722"

@@ -18,7 +18,7 @@ contact:
   # contact item loop
   - name : "support.unf@criugm.qc.ca"
     icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
-    link : "mailto:jen-i.chen@umontreal.ca"
+    link : "mailto:support.unf@criugm.qc.ca"
 
   # contact item loop
   - name : "4545 rue Queen-Mary, Montréal"
