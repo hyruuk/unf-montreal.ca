@@ -10,7 +10,7 @@ course: "MRI"
 # contact info
 contact:
   # contact item loop
-  - name : "carollyn.hurst@criugm.qc.ca"
+  - name : "support.unf@criugm.qc.ca"
     icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
     link : "mailto:carollyn.hurst@criugm.qc.ca"
 

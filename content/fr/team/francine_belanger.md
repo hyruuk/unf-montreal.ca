@@ -1,5 +1,5 @@
 ---
-title: "Émilie Dessureault"
+title: "Francine Bélanger"
 draft: false
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
@@ -10,7 +10,7 @@ course: "Coordination"
 # contact info
 contact:
   # contact item loop
-  - name : "emilie.dessureault@criugm.qc.ca"
+  - name : "support.unf@criugm.qc.ca"
     icon : "fas fa-at" # icon pack : https://themify.me/themify-icons
     link : "mailto:emilie.dessureault@criugm.qc.ca"
 
