@@ -27,7 +27,7 @@ Ouvrez un terminal et utilisez la commande ssh pour récupérer vos données IRM
 
 - Télécharger une archive tar.gz
 
-`rsync -azv unf_login@elm.criugm.qc.ca:/unf/dicoms/by_groups_tar/chemin_vers_vos_dicoms dossier_destination_sur_votre_ordinateur`
+`rsync -azvL unf_login@elm.criugm.qc.ca:/unf/dicoms/by_groups_tar/chemin_vers_vos_dicoms dossier_destination_sur_votre_ordinateur`
 
 ## Utilisation d'un client SFTP
 
