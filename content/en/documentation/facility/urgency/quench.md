@@ -4,80 +4,80 @@ linkTitle: "Quench"
 date: 2020-01-05
 weight: 4
 description: >
-  Protocole d'urgence Quench
+  Quench Emergency Protocol
 type: "docs"
 ---
 
-## Définition: QUENCH
+## Definition: QUENCH
 
-**‘**Quenching’ est un terme se référant aux événements qui se produisent lorsque les liquides cryogéniques, servant à refroidir les bobines magnétiques bouillent rapidement, ce qui entraîne un échappement d’hélium très rapide en provenance du bain de cryogène. Cela signifie que les bobines supraconductrices cessent de l'être et redeviennent en état de résistance. Un ‘Quench’ sera en général accompagné d'une forte détonation s’apparentant à un bruit d’éclair,un sifflement ou à un son abrupt avec l'expulsion de gaz froid.
+**Quenching' is a term referring to the events that occur when the cryogenic liquids used to cool the magnetic coils boil rapidly, resulting in a very rapid escape of helium from the cryogen bath. This means that the superconducting coils cease to be superconducting and return to a resistive state. A 'Quench' will usually be accompanied by a loud detonation resembling a lightning sound, a hissing sound or an abrupt sound with the expulsion of cold gas.
 
-Un ‘Quenching’ peut se produire par l'activation du bouton d'arrêt de l'aimant, ou encore spontanément, suivant un défaut dans l'aimant lui-même. Le bouton d'arrêt d'urgence de l'aimant doit être utilisé que
-dans le cas où le champ magnétique provoque des blessures chez le patient ou le personnel, alors un arrêt du champ statique est nécessaire, ou si un incendie ou un autre événement imprévu nécessite
-l'accès rapide du personnel d'urgence à l'examen de la chambre. Notez cependant que lancer un ‘ Quench’ ne peut pas entraîner la suppression totale du champ magnétique, et un danger peut encore exister. Certains aimants étanchent que partiellement et le champ magnétique n’est donc pas totalement éliminé. Dans de tels cas, les mesures appropriées de sécurité doivent encore être prises lors de la manipulation d'objets ferromagnétiques près de l'aimant.
+Quenching can occur by activation of the magnet's stop button, or spontaneously, following a defect in the magnet itself. The emergency stop button of the magnet should only be used
+in the event that the magnetic field causes injury to the patient or staff, then a static field shutdown is required, or if a fire or other unforeseen event requires
+rapid access of emergency personnel to examine the chamber. Note, however, that initiating a 'Quench' may not result in total magnetic field suppression, and a hazard may still exist. Some magnets seal only partially and the magnetic field is therefore not completely eliminated. In such cases, appropriate safety measures must still be taken when handling ferromagnetic objects near the magnet.
 
-Un de nos manuels d'aimants suggère que l'intensité du champ est susceptible d'être réduite à \~ 20 mT après environ 20 secondes suivant l’initiation d'un Quench.
+One of our magnet manuals suggests that the field strength is likely to be reduced to \~ 20 mT after about 20 seconds following the initiation of a Quench.
 
-Kanal, MR Safety (traduction de version anglaise)
+Kanal, MR Safety
 
 [*http://www.revisemri.com/questions/safety/quenching*](http://www.revisemri.com/questions/safety/quenching)
 
-## Cas d’urgence: Quench
+## Emergency case: Quench
 
--   *Dans le cas d'un Quench dans l'unité d'IRM, le personnel de l’IRM doit évacuer la salle de l'aimant si possible, et le département de l’ UNF.*
+- In the case of a Quench in the MRI unit, the MRI staff should evacuate the magnet room if possible, and the UNF department.
 
-> *• Si quelqu'un est dans la salle d’IRM (dans l'aimant) ou dans la salle de l’IRM pendant le QUENCH, il faut sortir de la personne / les personnes hors de la salle d'IRM, puis aider l'individu (s) à l'aide des principes de répondant premiers soins.*
+> If someone is in the MRI room (in the magnet) or in the MRI room during the QUENCH, get the person(s) out of the MRI room, and then assist the individual(s) using first aid responder principles.
 
-• appeler **5555** pour toutes les urgences; identifier:
+- call **5555** for all emergencies; identify:
 
--   Quelle est la situation d'urgence :
+- What is the emergency situation :
 
-    Il y a un Magnet Quench dans la salle d'IRM C-0674
+    There is a Magnet Quench in MRI room C-0674
 
--   Où vous êtes :
+- Where you are:
 
-    Unité de Neuroimagerie Fonctionnelle
+    Functional Neuroimaging Unit
 
--   Qui êtes-vous :
+- Who are you :
 
-    Votre nom
+    Your name
 
-*• Une fois que tout le monde est sorti de la salle de l'aimant, il faut verrouiller la porte.*
+*- Once everyone is out of the magnet room, the door must be locked.
 
-> *• Si l'équipe d'intervention d'urgence est présente, il faut s’assurer qu'ils sont conscients de l’existence d'un champ magnétique résiduel.*
+> If the emergency response team is present, make sure they are aware of the residual magnetic field.
 >
-> *• Informer le personnel Unité de Neuroimagerie Fonctionnelle des événements.*
+> Inform the Functional Neuroimaging Unit staff of events.
 >
-> *• Le personnel de l’UNF informera la gestion, les Siemens service Uptime, etc.*
+> UNF staff will inform management, Siemens service Uptime, etc.
 >
-> *Siemens Uptime Service 1-800-359-6709 Site \#8010*
+> Siemens Uptime Service 1-800-359-6709 Site #8010
 >
-> *• if faudra également faire un résumé écrit de l'incident (rapport d'incident)*
+> You will also need to make a written summary of the incident (incident report).
 
-## Le bouton STOP
+## The STOP button
 
-**Ce bouton dé-énergise l’aimant supraconducteur** (Quench).
+**This button de-energizes the superconducting magnet** (Quench).
 
 ![](../../Pictures/quenchphoto.png)
 
-*• Appuyer sur ce bouton en cas d’urgence dans le champ magnétique et notifier cela immédiatement au service Siemens *
+*- Press this button in case of emergency in the magnetic field and notify Siemens service immediately *- Only superconducting magnets are used.
 
-*• Seuls les aimants supraconducteurs ont un commutateur d'aimant d'arrêt - les aimants permanents ne peuvent pas être éteints. *
+*- Only superconducting magnets have a shut-off magnet switch - permanent magnets cannot be switched off. *
 
 ## Quench
 
-Un Quench apparaît quand il y a une perte soudaine de la supraconductivité dans l’antenne magnétique résultant de l’augmentation de la température dans l’aimant.
+A Quench occurs when there is a sudden loss of superconductivity in the magnetic antenna as a result of the temperature increase in the magnet.
 
-Les substances cryogènes utilisées pour la supraconductivité se sont évaporées soudainement causant un changement
+The cryogenic substances used for superconductivity have suddenly evaporated causing a change in the temperature of the magnet.
 
-Les cryogènes utilisés pour la supraconductivité s’évaporent brusquement provoquant un changement du champ magnétique du en moins de 20 secondes.
+The cryogens used for superconductivity evaporate suddenly causing a change in the magnetic field of the magnet in less than 20 seconds.
 
-Un Quench peut se produire suivant les événements suivants:
+A Quench can occur following the following events:
 
--   Mise en place du système de MR (montée en puissance ou en remplissant l'aimant)
+- Setting up the MR system (powering up or filling the magnet)
 
--   Accident (tremblement de terre, incendie, etc.)
+- Accident (earthquake, fire, etc.)
 
-Un Quench peut être libéré par l'utilisateur d'une manière contrôlée en activant le bouton Magnet Stop.
+A Quench can be released by the user in a controlled manner by activating the Magnet Stop button.
 
-*Siemens Healthcare\_ Safety\_Guide\_AE\_4c.pdf* p.15
+*Siemens Healthcare_ Safety_Guide_AE\_4c.pdf* p.15

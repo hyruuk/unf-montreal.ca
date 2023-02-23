@@ -1,8 +1,8 @@
 ---
-title: "Préparer votre étude IRM"
-linkTitle: "Votre étude IRM"
+title: "Prepare your MRI study"
+linkTitle: "Prepare your MRI study"
 description: >
-  Toutes les informations pour faire votre étude IRM
+  All the information to make your MRI study
 type: "docs"
 weight: 1
 ---

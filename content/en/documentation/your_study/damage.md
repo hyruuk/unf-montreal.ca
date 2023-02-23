@@ -1,21 +1,22 @@
 ---
-title: "Dommages aux équipements"
-linkTitle: "Dommages aux équipements"
+title: "Damage to equipment"
+linkTitle: "Damage to equipment"
 date: 2020-01-05
 weight: 5
 description: >
-  Protocole lors d'un bris d'équipement
+  Protocol in case of equipment failure
 type: 'docs'
 ---
 
-1.  La direction de l’UNF est informée, en tout temps, de tout
-équipement qui doit se trouver dans la salle du scanneur, qu’il soit ferromagnétique ou non.
+1.  UNF management is informed at all times of any equipment that is to be
+equipment to be in the scanner room, whether ferromagnetic or not.
 
-2.  Sauf exception, tout équipement devant être introduit dans la salle du scanneur doit obligatoirement être vérifié par un membre formé du personnel de l’UNF.
+2.  With few exceptions, it is mandatory that all equipment to be brought into the scanner room be checked by a trained UNF staff member.
 
-3.  Outre le participant à une étude, le nombre de personnes admis dans la salle IRM est limité à deux. Lorsqu’un besoin est démontré, le personnel de l’UNF peut autoriser la présence de plus de deux personnes.
+3.  In addition to the study participant, the number of persons allowed in the MRI room is limited to two. When a need is demonstrated, UNF staff may allow more than two persons to be present.
 
-4.  Il doit y avoir en tout temps au moins une personne présente lorsque le participant est dans la salle IRM.
+4.  There must be at least one person present at all times when the participant is in the MRI room.
 
-5.  Le non-respect des règles et consignes énumérées ci-dessus pourrait entraîner des dommages à l’équipement de l’UNF ainsi qu’aux personnes présentes dans la salle. Le chercheur principal de l’étude sera tenu responsable des bris et des coûts de remplacement du matériel endommagé.
-6. Damage to equipment also applies to the simulator room and the accessories.
+5.  Failure to follow the rules and guidelines listed above could result in damage to the UNF equipment as well as to the people in the room. The principal investigator of the study will be held responsible for breakage and replacement costs of damaged equipment.
+
+6.  Damage to equipment also applies to the simulator room and the accessories.

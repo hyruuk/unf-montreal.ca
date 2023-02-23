@@ -1,8 +1,8 @@
 ---
-title: "Urgence"
-linkTitle: "Urgence"
+title: "Emergency"
+linkTitle: "Emergency"
 weight: 7
 description: >
-  Ensemble des protocoles d'urgence
+  Set of emergency protocols
 type: "docs"
 ---

@@ -5,7 +5,7 @@ date: 2020-10-18
 weight: 2
 type: "docs"
 description: >
-  Récupération de vos données IRM
+  Recovery of your MRI data
 ---
 
 ## Requirements

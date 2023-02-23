@@ -19,7 +19,7 @@ The Fonctional neuroimaging unit is equiped with a MRI Siemens 3T Prisma fit. Th
 
 ```
 From Monday to Friday, except holidays
-9h00-12h00 et 13h00-17h00
+9h00-12h00 and 13h00-17h00
 ```
 
 **Off-hours**

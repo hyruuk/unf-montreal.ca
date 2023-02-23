@@ -1,32 +1,33 @@
 ---
-title: "Feu"
-linkTitle: "Feu"
+title: "Fire"
+linkTitle: "Fire"
 date: 2020-01-05
 weight: 3
 description: >
-  Protocole d'urgence incendie
+  Fire emergency protocol
 type: "docs"  
 ---
-# Protocole Incendie
 
--   *En cas d’incendie dans la zone de l’UNF, la brigade d’intervention interne suit le protocole approprié à la situation, déterminé par l’hôpital. *
+# Fire protocol
 
--   *Une fois la situation identifiée et confirmée, des mesures d’urgence seront suivies selon les directives déterminées par l’hôpital et le manuel de procédures. *
+- *In the event of a fire in the UNF area, the in-house response team follows the appropriate protocol for the situation as determined by the hospital. *
 
--   *Dans l’enceinte de l’UNF, des précautions exceptionnelles peuvent être prises tenant compte du haut champ magnétique, le personnel de l’hôpital n’étant pas familier avec les procédures d’urgence dans une unité d’imagerie. *
+- *Once the situation is identified and confirmed, emergency procedures will be followed as determined by the hospital and the procedures manual. *
 
-1\. Évacuer la salle de l’IRM et fermer les portes :
+- *Within the UNF facility, exceptional precautions may be taken to account for the high magnetic field, as hospital personnel are not familiar with emergency procedures in an imaging unit. *
 
-Cela évitera à quiconque n’étant pas prévenu du danger d’un haut champ magnétique d’entrer dans la pièce.
+1\. Evacuate the MRI room and close the doors:
 
-2\. Évacuer la zone de l’UNF.
+This will prevent anyone who is not warned of the danger of a high magnetic field from entering the room.
 
-Les participants, visiteurs et personnel doivent quitter les lieux pour gagner une zone non affectée par la situation d’urgence.
+2\. Evacuate the UNF area.
 
-3\. Assister le personnel d’urgence :
+Participants, visitors, and staff should leave the area and move to an area not affected by the emergency.
 
-Dépendamment du type d’urgence, soyez disponible pour aider selon les besoins.
+3\. Assist emergency personnel:
 
-4\. Diriger les intervenants d'urgence à la zone nécessaire :
+Depending on the type of emergency, be available to assist as needed.
 
-L’équipe de l’UNF connaît mieux la zone UNF que le répondant des urgences, soyez disponible pour aider selon les besoins
+4\. Direct emergency responders to the needed area:
+
+The UNF team knows the UNF area better than the emergency responder, be available to assist as needed.

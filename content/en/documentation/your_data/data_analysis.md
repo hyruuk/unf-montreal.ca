@@ -1,10 +1,10 @@
 ---
-title: "Analyse de vos données"
-linkTitle: "Analyse de vos données"
+title: "Analysis of your data"
+linkTitle: "Analysis of your data"
 date: 2020-03-06
 weight: 4
 type: "docs"
 description: >
-  Présentation du parc informatique
+  Presentation of the computer equipment
 ---
-Analyse de vos données
+Analysis of your data

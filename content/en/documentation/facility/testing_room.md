@@ -1,46 +1,53 @@
 ---
-title: "Salle de test"
-linkTitle: "Salle de test"
+title: "Testing room"
+linkTitle: "Testing room"
 date: 2020-01-05
 weight: 3
 type: "docs"
 description: >
- Environnement, accès et sécurité
+  Environment, access and security
 ---
 
 
-La salle de test (R0743) se trouve au sein de l'Institut Universitaire de Gériatrie (IUGM). Les
-déplacements dans les installations de l'UNF sont donc soumis à des consignes
-de sécurité et de distanciation afin de protéger au mieux les résidents et
-l'ensemble des employés.
+The test room (R0743) is located in the University Institute of Geriatrics (IUGM). The
+UNF facilities are therefore subject to safety and distancing instructions in order to
+security and distancing instructions in order to best protect the residents and all
+and all employees.
 
-## Heures d’ouverture
+## Opening hours
 
-**Heures d’ouverture régulières**
+**Regular opening hours**
 
-  Lundi au vendredi, sauf jours fériés
-
-```
-9h00-12h00 et 13h00-17h00
-
-si vous avez besoin d'une aide technique du personnel de l’UNF
- OU
-si vous n’avez pas de carte d’accès pour entrer à l’UNF
-```
-
-**En dehors des heures régulières**
+  Monday to Friday, except holidays
 
 ```
-7 jours par semaine, 24h sur 24
-
-si vous n'avez pas besoin d'une aide technique du personnel de l’UNF
+From Monday to Friday, except holidays
+9h00-12h00 and 13h00-17h00
+If you require technical assistance from UNF staff
 ```
 
-## Réservation
 
-La reservation de la salle de test se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/fr/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
+**Off-hours**
+
+```
+7 days a week, 24 hours a day
+
+if you do not require technical assistance from UNF staff
+```
+
+## Reservation
+
+The reservation of the test room is done via the reservation calendar and the [__reservation section__](https://unf-montreal.ca/en/documentation/facility/reservation/) from the documentation shows you step by step how to do it.
 
 
-## Taux horaire
+## Rate
 
-Il n'y a aucun frais pour l'utilisation de la salle de test. Celle-ci doit toutefois être utilisée en lien avec des projets en cours à l'UNF ou en préparation de ceux-ci.
+There is no charge for the use of the simulation room. However, it must be used in conjunction with or in preparation for ongoing projects at UNF.
+
+## Forms
+
+Unlike MRI reservations, no forms are required to use the simulation room.
+
+## Available material
+
+All the equipment available for MRI can be found in the section  [__material__](https://unf-montreal.ca/documentation/facility/hardware_software).

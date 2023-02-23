@@ -1,6 +1,6 @@
 ---
-title: "Réservation"
-linkTitle: "Réservation"
+title: "Reservation"
+linkTitle: "Reservation"
 date: 2020-01-05
 weight: 6
 description: >

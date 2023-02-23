@@ -1,8 +1,8 @@
 ---
-title: "Votre étude"
-linkTitle: "Votre étude"
+title: "Your study"
+linkTitle: "Your study"
 description: >
-  Toutes les informations pour faire votre étude à l'UNF
+  All the information you need to do your study at UNF
 type: "docs"  
 weight: 3
 ---

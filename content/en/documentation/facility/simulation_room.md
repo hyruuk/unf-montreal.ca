@@ -1,67 +1,50 @@
 ---
-title: "Salle de simulation"
-linkTitle: "Salle de simulation"
+title: "Simulation room"
+linkTitle: "Simulation room"
 date: 2020-01-05
 weight: 2
 type: "docs"
 description: >
-  Environnement, accès et sécurité
+  Environment, access and security
 ---
 
-> Jusqu'à nouvel ordre l'accès à la salle de simulation est restreint, veuillez faire la demande en communiquant avec __[support.unf@criugm.qc.ca](mailto:support.unf@criugm.qc.ca?subject=Salle_de_simulation)__.
+The simulation room is located within the University Institute of Geriatrics (IUGM). Movement in the UNF facilities is therefore subject to safety and distancing instructions in order to protect the residents and all employees as much as possible.
 
-La salle de simulation se trouve au sein de l’Institut Universitaire de Gériatrie (IUGM). Les déplacements dans les installations de l’UNF sont donc soumis à des consignes de sécurité et de distanciation afin de protéger au mieux les résidents et l’ensemble des employés.
+## Opening hours
 
-## Heures d’ouverture
-
-**Heures d’ouverture régulières**
-
-  Lundi au vendredi, sauf jours fériés
+**Regular opening hours**
 
 ```
-9h00-12h00 et 13h00-17h00
-
-si vous avez besoin d'une aide technique du personnel de l’UNF
- OU
-si vous n’avez pas de carte d’accès pour entrer à l’UNF
+From Monday to Friday, except holidays
+9h00-12h00 and 13h00-17h00
+If you require technical assistance from UNF staff
 ```
 
-**En dehors des heures régulières**
+## Reservation
 
-```
-7 jours par semaine, 24h sur 24
+The reservation of the simulation room is done via the reservation calendar and the [__reservation section__](https://unf-montreal.ca/en/documentation/facility/reservation/) from the documentation shows you step by step how to do it.  
 
-si vous n'avez pas besoin d'une aide technique du personnel de l’UNF
- ET
-si vous avez une carte d’accès pour entrer à l’UNF
-```
+If you need assistance, you must book during normal business hours.
 
-## Réservation
+## Rate
 
-La reservation de la salle de simulation se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/fr/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
+There is no charge for the use of the simulation room. However, it must be used in conjunction with or in preparation for ongoing projects at UNF.
 
-Si vous avez besoin d'assistance, vous devez reserver durant les heures normales d'ouverture.
+## Forms
 
-## Taux horaire
+Unlike MRI reservations, no forms are required to use the simulation room.
 
-Il n'y a aucun frais pour l'utilisation de la salle de simulation. Celle-ci doit toutefois être utilisée en lien avec des projets en cours à l'UNF ou en préparation de ceux-ci.
+## Available material
 
-## Formulaires
-
-Contrairement aux réservations pour l'IRM, aucun formulaire n'est requis pour l'utilisation de la salle de simulation.
+All the equipment available for MRI can be found in the section  [__material__](https://unf-montreal.ca/documentation/facility/hardware_software).
 
 
-## Matériel disponible
+## Access and security
 
-L'ensemble du matériel disponible pour l'IRM se trouve dans la section [__matériel__](https://unf-montreal.ca/fr/documentation/facility/hardware_software).
+When using the simulation room, it is important to ask the person how they feel, as some people are claustrophobic.
 
+- Researchers must be present during the MRI simulation session to respond to the needs and requests of their participants.
 
-## Accès et sécurité
+- Researchers are responsible for the operation and preparation of the simulator, as well as the equipment needed for each session.
 
-Lors de l'utilisation de la salle de simulation, il est important de demander à la personne comment elle se sent, car certaines personnes sont claustrophobes.
-
-- Les chercheurs doivent être présents au cours de la session de simulation de l’IRM pour répondre aux besoins et aux demandes de leurs participants.
-
-- Les chercheurs sont responsables de l'opération et de la préparation du simulateur, ainsi que de l'équipement nécessaire pour chaque séance.
-
-- Informer le personnel de l’UNF si quelconque problème est noté avec tout équipement.
+- Inform UNF staff if any problems are noted with any equipment.

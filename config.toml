@@ -233,8 +233,8 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Formations"
-  name = "Compute Canada"
-  URL = "https://www.computecanada.ca/page-daccueil-du-portail-de-recherche/research-support/training/?lang=fr"
+  name = "Alliance Canada"
+  URL = "https://alliancecan.ca/fr/services/calcul-informatique-de-pointe/soutien-la-recherche/calendrier-de-formation"
   weight = 4
 
   [[Languages.fr.menu.main]]
@@ -428,14 +428,14 @@ weight = 5
 
   [[menu.main]]
   parent = "Training"
-  name = "Compute Canada"
-  URL = "https://www.computecanada.ca/research-portal/technical-support/training/"
+  name = "Alliance Canada"
+  URL = "https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar"
   weight = 4
 
   [[menu.main]]
   parent = "Training"
   name = "Calcul Quebec"
-  URL = "https://www.calculquebec.ca/en/academic-research-services/procedures/"
+  URL = "https://www.calculquebec.ca/en/academic-research-services/training/"
   weight = 5
 
   [[menu.main]]

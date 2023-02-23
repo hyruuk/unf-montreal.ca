@@ -1,35 +1,35 @@
 ---
-title: "Urgence médicale"
-linkTitle: "Urgence médicale"
+title: "Medical emergency"
+linkTitle: "Medical emergency"
 date: 2020-01-05
 weight: 2
 description: >
-  Protocole d'urgence médicale
+  Medical Emergency Protocol
 type: "docs"
 ---
 
-## Urgence médicale
+## Medical Emergency Protocol
 
-* Dans le cas d’une urgence dans l’unité médicale au sein de l’UNF, appelez le 5555.
-* Identifier:
-      * Quelle est l’urgence
-      * Où est l’urgence
-      * Qui vous êtes
-* La sécurité suivra le protocole déterminé par l’hôpital dans de
-    telles situations.
-* Généralement, l’infirmière coordinatrice et le chef des opérations mécaniques répondront initialement.
-* Une fois la situation identifiée et confirmée, des mesures d’urgence seront suivies selon les directives déterminées par l’hôpital et le manuel de procédures.
-* Dans l’enceinte de l’UNF, des précautions exceptionnelles peuvent être prises tenant compte du haut champ magnétique, le personnel de l’hôpital n’étant pas familier avec les procédures d’urgence dans une unité d’imagerie.
+* In the event of an emergency in the medical unit at UNF, call 5555.
+* Identify:
+      * What is the emergency
+      * Where is the emergency
+      * Who you are
+* Security will follow the protocol determined by the hospital in such
+    such situations.
+* Typically, the nurse coordinator and the head of mechanical operations will initially respond.
+* Once the situation is identified and confirmed, emergency measures will be followed as determined by the hospital and the procedures manual.
+* Within the UNF compound, exceptional precautions may be taken taking into account the high magnetic field, as hospital personnel are not familiar with emergency procedures in an imaging unit.
 
-     1. Évacuer la salle de l’IRM et fermer les portes.  
-        Cela évitera à quiconque n’étant pas prévenu du danger d’entrer dans la pièce.
-     2. Évacuer la zone de l’UNF.  
-        Les participants, visiteurs et personnel doivent quitter les lieux pour gagner une zone non affectée par la situation d’urgence.
-     3. Assister le personnel d’urgence.  
-        Dépendamment du type d’urgence, soyez disponible pour aider selon les besoins.
-     4. Diriger les intervenants d'urgence à la zone nécessaire:
-        L’équipe de l’UNF connaît mieux la zone UNF que le répondant des urgences, soyez disponible pour aider selon les besoins.
+     1. Evacuate the MRI room and close the doors.  
+        This will prevent anyone who is not warned of the danger from entering the room.
+     2. Evacuate the UNF area.  
+        Participants, visitors, and staff should leave the area to an area not affected by the emergency.
+     3. Assist emergency personnel.  
+        Depending on the type of emergency, be available to assist as needed.
+     4. Direct emergency responders to the necessary area:
+        The UNF team knows the UNF area better than the emergency responder, be available to assist as needed.
 
-**L’équipement médical est dans le meuble dans la zone de préparation des participants. **
+**Medical equipment is in the cabinet in the participant preparation area. **
 
-**La pharmacie peut assurer la provision en médicaments au besoin. **
+**The pharmacy can provide medication as needed.**

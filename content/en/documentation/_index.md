@@ -8,18 +8,18 @@ title: "Documentation"
 type: "docs"
 ---
 
-## Informations générales
+## General information
 
-Pour toute information ne figurant pas dans le présent document, consultez le <a href="http://www.unf-montreal.ca" target="blank"><b>site web de l’UNF</b></a> ou envoyez un courriel à l'adresse suivante **[support.unf](mailto:support.unf@criugm.qc.ca?subject=Information)**.
+For information not contained in this document, please visit <a href="http://www.unf-montreal.ca" target="blank"><b>UNF website</b></a> ou send an email to the following adress **[support.unf](mailto:support.unf@criugm.qc.ca?subject=Information)**.
 
-Les réponses à la plupart de vos questions peuvent y être trouvées, que vous soyez en train de mettre en place un protocole, cherchiez à connaître les dates pour la soumission d'un projet, soyez à la recherche de formulaires ou de la procédure pour récupérer vos données d'imagerie. Les informations les plus à jour sont sur ce site internet.
+The answers to most of your questions can be found here, whether you are setting up a protocol, looking for project submission dates, looking for forms or how to retrieve your imaging data. The most up-to-date information is on this website.
 
-## Accès à l’UNF
+## Access to UNF
 
-L'accès aux installations se trouve dans la section __[installations](./facility)__.
+The access to the facilities is located in the section __[facillities](./facility)__.
 
-Les déplacements au sein de l'UNF sont soumis à des consignes détaillées dans la section __[déroulement de votre visite](./your_study/visit)__.  
+Movement within UNF is subject to guidelines detailed in the section __[course of your visit](./your_study/visit)__.  
 
 ## Contact
 
-Si vous souhaitez nous contacter vous trouverez toutes les informations dans la section <a href="http://www.unf-montreal.ca/fr/contact" target="blank"><b>Contact</b></a> du site web.
+If you wish to contact us you will find all the information in the section <a href="http://www.unf-montreal.ca/fr/contact" target="blank"><b>Contact</b></a>.

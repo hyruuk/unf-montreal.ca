@@ -1,84 +1,84 @@
 ---
-title: "Matériels et logiciels"
-linkTitle: "Matériels et logiciels"
+title: "Hardware and software"
+linkTitle: "Hardware and software"
 date: 2020-01-05
 weight: 4
 type: "docs"
 description: >
- Liste du matériel et des logiciels disponibles
+ List of available hardware and software
 ---
 
-L'UNF met à diposition des chercheurs du matériel et des logiciels.
-Certains matériels doivent être reservés via le protocole de reservation des différentes installations de l'UNF pour pouvoir les utiliser.
+UNF provides hardware and software to researchers.
+Some equipment must be reserved through the reservation protocol of the various UNF facilities in order to use it.
 
 
-Si un chercheur souhaite utiliser du matériel personnel il doit suivre les consignes dictées dans la section [__matériel extérieur__](https://unf-montreal.ca/fr/documentation/your_study/setup_mri/hardware_ext).
+If a researcher wishes to use personal material he/she should send an email to the following [__address__](mailto:support.unf@criugm.qc.ca).
 
 
-## Responsabilités et ententes
+## Responsibilities and agreements
 
-### Matériel UNF
+### UNF Material
 
-En utilisant le matériel mis à disposition par l'UNF le chercheur et son groupe s'engagent selon les termes suivants:
+By using the equipment provided by UNF the researcher and his/her group agree to the following terms:
 
--   Les chercheurs sont responsables de mettre en place, faire fonctionner et retourner l'équipement à sa place, et ce, pour tout le matériel nécessaire pour leurs expériences.
+- Researchers are responsible for setting up, operating, and returning equipment to its proper place for all materials needed for their experiments.
 
--   Le personnel UNF est disponible, pendant les heures de travail, lorsque l'aide est nécessaire ; cependant, les chercheurs sont responsables de l'équipement requis pour leurs expériences.
+- UNF staff is available, during working hours, when assistance is needed; however, the researchers are responsible for the equipment required for their experiments.
 
-### Matériel mis à disposition par un autre groupe de recherche
+### Material made available by another research group
 
-Afin d'utiliser du matériel partagé par un groupe de recherche il vous sera demandé lors de la reservation d'ajouter ce matériel ainsi que d'ajouter à votre demande un pdf détaillant l'accord entre vous et le groupe de recherche.
+In order to use material shared by a research group you will be asked at the time of reservation to add this material as well as to add to your request a pdf detailing the agreement between you and the research group.
 
-## IRM
+## MRI
 
-### Matériel UNF
+### UNF Material
 
-- Ordinateurs
-  - Présentation de stimuli - Dell precision 3620, 7th gen i5-7500 3.4 GHz, 8GB DDR4 (Windows 10)
+- Computers
+  - Presentation of stimuli - Dell precision 3620, 7th gen i5-7500 3.4 GHz, 8GB DDR4 (Windows 10)
 
-- Matériel
-  - Projecteur PowerLite L615U (Epson)
-  - Présentation de stimuli audio S15 (Sensimetrics)
-  - Microphone à fibre optique (MR Confon)
-  - Boîtes de réponse à fibres optiques:
+- Material
+  - Projector PowerLite L615U (Epson)
+  - Presentation of stimuli audio S15 (Sensimetrics)
+  - Fiber optic microphone (MR Confon)
+  - Fiber optic response boxes:
   - Lumina (Cedrus)
   - FOBRS (Pschology Software Tools)
-  - Contrôleur de jeu vidéo à fibres optiques
-  - Simulateur de triggers compatible TTL
+  - Fiber optic video game controller
+  - TTL compatible trigger simulator
 
-- Logiciels:
+- Softwares:
 	- Eprime 2 version standard, Eprime 3, AcqKnowledge v??
 
-### Matériel mis à disposition par d'autres groupes
+### Materials provided by other groups
 
 - Eye tracker (contact)
 - Biopac MP-160 (contact)
-	- Conductance électrodermale
-	- Pléthysmographe
+	- Electrodermal conductance
+	- Plethysmograph
 	- Respiration
 
-## Salle de simulation
+## Simulation room
 
-### Matériel UNF
+### UNF Material
 
-- Simulateur IRM (Psychology Software Tools)
-- Boîte de réponses à fibres optiques FOBRS (Pschology Software Tools)
+- MRI Simulator (Psychology Software Tools)
+- Fiber optic response box FOBRS (Pschology Software Tools)
 - PC windows 7
 - EPrime v2 standard, v3
-- Simulateur de triggers compatible TTL
+- TTL compatible trigger simulator
 
-### Matériel mis à disposition par d'autres groupes
+### Materials provided by other groups
 
-Aucun matériel n'est partagé par d'autres groupes. Soyez le premier!
+No material is shared by other groups. Be the first!
 
-## Salle de test
+## Testing room
 
-### Matériel UNF
+### UNF Material
 
-- Une table
-- Deux chaises
-- Un écran (cable d'alimentation + cable VGA + cable HDMI)
+- One table
+- Two chairs
+- One screen (power cable + VGA cable + HDMI cable)
 
-### Matériel mis à disposition par d'autres groupes
+### Materials provided by other groups
 
-Aucun matériel n'est partagé par d'autres groupes. Soyez le premier!
+No material is shared by other groups. Be the first!

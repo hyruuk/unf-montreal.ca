@@ -1,15 +1,13 @@
 ---
-title: "Découverte fortuite"
-linkTitle: "Découverte fortuite"
+title: "Accidental discovery"
+linkTitle: "Accidental discovery"
 date: 2017-01-05
 weight: 4
 description: >
-  Protocole suivant une découverte fortuite
+  Protocol following an incidental finding
 type: "docs"
 ---
 
-Si une région présentant des particularités inhabituelles est identifiée sur une image, l'UNF a établi une procédure à suivre lors de cas de découvertes fortuites.
+If a region with unusual features is identified in an image, UNF has established a procedure to follow in cases of incidental findings.
 
-Le protocole concernant les découvertes fortuites peut être téléchargé [ici](../../../document/).
-
-Si une région d'intérêt est remarquée lors d'une séance d'IRM, les images peuvent être transmises à un radiologue pour un rapport sommaire. Ce rapport indique si un suivi plus approfondi est indiqué mais **ne constitue pas** un rapport clinique.
+If a region of interest is noted during an MRI session, the images can be forwarded to a radiologist for a summary report. This report indicates whether further follow-up is indicated but **does not** constitute a clinical report.

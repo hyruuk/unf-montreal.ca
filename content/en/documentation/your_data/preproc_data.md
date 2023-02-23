@@ -1,10 +1,11 @@
 ---
-title: "Prétraitement de vos données"
-linkTitle: "Prétraitement de vos données"
+title: "Preprocessing of your data"
+linkTitle: "Preprocessing of your data"
 date: 2020-03-06
 weight: 3
 type: "docs"
 description: >
-  Prétraitement automatique de vos données
+  Automatic pre-processing of your data
 ---
-Prétraitement vos données
+
+Coming soon

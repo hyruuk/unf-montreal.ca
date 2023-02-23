@@ -1,35 +1,35 @@
 ---
-title: "Déroulement de votre visite"
-linkTitle: "Déroulement de votre visite"
+title: "Course of your visit"
+linkTitle: "Course of your visit"
 date: 2020-01-05
 weight: 3
 description: >
- Déplacement et sécurité
+ Safety
 type: 'docs'
 ---
 
 
-Il est utile d’avoir une liste de vérification pour réduire le risque d’erreur lors de la journée d’acquisition. Toutes les sections précédentes couvrent ce qui est important de savoir, mais il est facile d’en oublier.
+It is helpful to have a checklist to reduce the risk of error on acquisition day. All of the previous sections cover what is important to know, but it is easy to forget.
 
-## À votre arrivée
+## Upon arrival
 
-1. Ayez en main tous les formulaires requis, complétés et signés
-2. Demandez à votre participant de vous attendre dans la salle d'attente pendant que vous:
-     * Venez chercher un uniforme
-     * Donnez les formulaires à un membre du personnel UNF disponible
-     * Préparez les lentilles compatibles IRM si besoin
-3. Un membre du personnel UNF se rendra dans la salle d'attente pour réviser le formulaire de dépistage IRM avec votre participant dès qu'il sera disponible.
-4. Lorsque l'équipe vous précédant aura terminé et aura libéré la salle d'IRM ainsi que la salle de contrôle, vous serez invités à aller préparer le matériel pour votre étude si besoin.
+1. Have all required forms completed and signed
+2. Ask your participant to wait in the waiting room while you:
+     * Pick up a uniform
+     * Give the forms to an available UNF staff member
+     * Prepare MRI compatible lenses if needed
+3. A UNF staff member will come to the waiting room to review the MRI screening form with your participant as soon as they are available.
+4. When the team before you is finished and has cleared the MRI room as well as the control room, you will be asked to go and prepare materials for your study if needed.
 
-## Déplacements
+## Travel
 
-## Distanciation
+## Distancing
 
 ## Protection
 
-**Au moins un membre de l'équipe de recherche doit être présent au cours de la session d’acquisition pour pouvoir répondre aux besoins et aux demandes de leurs participants, et assister le personnel UNF en cas d'urgence.**
-**Dans le cas où le participant est membre de l'équipe de recherche (par exemple pour un pilot), il est nécessaire qu'un membre supplémentaire de l'équipe de recherche soit présent lors de la session d'acquisition.**
+**At least one member of the research team must be present during the acquisition session to respond to the needs and requests of their participants, and to assist UNF staff in case of emergency.
+**In the event that the participant is a member of the research team (e.g., for a pilot), it is necessary that an additional member of the research team be present during the acquisition session.**
 
-### Carte d'accès pour entrer à l’UNF
+### Access card to enter the UNF
 
-Pour entrer à l’UNF, il faut avoir une carte d’accès. La personne-ressource pour obtenir une carte d’accès est Mme [Émilie Dessureault](http://unf-montreal.ca/fr/team/emilie_dessureault/). Un dépôt de 20$ est requis pour obtenir une carte. De plus, vous devez avoir complété la [formation de sécurité en IRM](http://www.unf-montreal.ca//fr/course/safety_training) avant d'obtenir votre carte.
+To enter the UNF, you must have an access card. In order to get an access card you need to send an email to this [__address__](mailto:support.unf@criugm.qc.ca). A $20 deposit is required to obtain a card. In addition, you must have completed the [MRI safety training](http://www.unf-montreal.ca/en/course/safety_training) before you can obtain your card.

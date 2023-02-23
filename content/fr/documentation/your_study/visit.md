@@ -32,4 +32,4 @@ Il est utile d’avoir une liste de vérification pour réduire le risque d’er
 
 ### Carte d'accès pour entrer à l’UNF
 
-Pour entrer à l’UNF, il faut avoir une carte d’accès. La personne-ressource pour obtenir une carte d’accès est Mme [Émilie Dessureault](http://unf-montreal.ca/fr/team/emilie_dessureault/). Un dépôt de 20$ est requis pour obtenir une carte. De plus, vous devez avoir complété la [formation de sécurité en IRM](http://www.unf-montreal.ca//fr/course/safety_training) avant d'obtenir votre carte.
+Pour entrer à l’UNF, il faut avoir une carte d’accès. Afin d'obtenir une carte d'accès vous devez envoyer un email à l'adresse [__suivante__](mailto:support.unf@criugm.qc.ca). Un dépôt de 20$ est requis pour obtenir une carte. De plus, vous devez avoir complété la [formation de sécurité en IRM](http://www.unf-montreal.ca/course/safety_training) avant d'obtenir votre carte.

@@ -4,41 +4,42 @@ linkTitle: "Codes"
 date: 2020-01-05
 weight: 1
 description: >
-  Détails des codes d'urgence
+  Emergency code details
 type: "docs"
 ---
-## Codes d’urgence
 
-* En cas d’urgence à l’hôpital ou au centre de recherche, l’agent de sécurité responsable annoncera le code d’urgence approprié.
+## Emergency Codes
 
-* L’équipe d’urgence interne agira en suivant le protocole approprié à la situation, déterminé par l’hôpital.
+* In the event of an emergency at the hospital or research facility, the responsible security officer will announce the appropriate emergency code.
 
-* Une fois la situation identifiée et confirmée, des mesures d’urgence seront prises suivant les procédures déterminées par les directives de l’hôpital.
+* The internal emergency team will act according to the appropriate protocol for the situation, as determined by the hospital.
 
-* Dans l’enceinte de l’UNF, des précautions exceptionnelles peuvent être prises tenant compte du haut champ magnétique, le personnel de l’hôpital n’étant pas familier avec les procédures d’urgence dans une unité d’imagerie.
+* Once the situation is identified and confirmed, emergency measures will be taken according to procedures determined by hospital guidelines.
 
-> **Appelez le 5555 pour toute urgence**
+Once the situation has been identified and confirmed, emergency measures will be taken according to procedures determined by the hospital's guidelines. **Within the UNF facility, exceptional precautions may be taken due to the high magnetic field, as hospital personnel are not familiar with emergency procedures in an imaging unit.
 
-**Identifiez:**
+> Call 5555 for emergencies
 
-- *Quelle est l’urgence*
-- *Où est l’urgence*
-- *Qui vous êtes*
+**Identify:**
+
+- What is the emergency?
+- *Where is the emergency*
+- *Who you are*
 
 
-## Couleurs associées aux codes d’urgence:
+## Colors associated with emergency codes:
 
-Téléphone \# **5555**
+Phone \# **5555**
 
-|**Code**|**Urgence**|
+|**Code**|**Emergency**|
 |:--:|:-----:|
-|<p style="color: #FFFFFF; background-color: #0000FF">Bleu|Arrêt cardiaque</p>|
-|<p style="color: #000000; background-color: #FFC0CB">Rose|Arrêt cardiaque pédiatrique</p>
-|<p style="color: #000000; background-color: #FFFF00">Jaune|Usager manquant</p>|
-|<p style="color: #000000; background-color: #FFFFFF">Blanc|Personne violente</p>|
-|<p style="color: #FFFFFF; background-color: #FF0000">Rouge|Incendie</p>|
-|<p style="color: #FFFFFF; background-color: #000000">Noir|Colis suspect-menace</p>|
-|<p style="color: #FFFFFF; background-color: #A0522D">Brun|Déversement de matières dangereuses</p>|
-|<p style="color: #FFFFFF; background-color: #FFA500">Orange|Réception massive de sinistrés</p>|
-|<p style="color: #000000; background-color: #C0C0C0">Gris|Fuite toxique externe</p>|
-|<p style="color: #FFFFFF; background-color: #008000">Vert|Évacuation</p>|
+|<p style="color: #FFFFFF; background-color: #0000FF">Bleu|Cardiac arrest</p>|
+|<p style="color: #000000; background-color: #FFC0CB">Rose|Pediatric cardiac arrest</p>
+|<p style="color: #000000; background-color: #FFFF00">Jaune|Missing user</p>|
+|<p style="color: #000000; background-color: #FFFFFF">Blanc|Violent person</p>|
+|<p style="color: #FFFFFF; background-color: #FF0000">Rouge|Fire</p>|
+|<p style="color: #FFFFFF; background-color: #000000">Noir|Suspicious/threatening package</p>|
+|<p style="color: #FFFFFF; background-color: #A0522D">Brun|Hazardous Materials Spill</p>|
+|<p style="color: #FFFFFF; background-color: #FFA500">Orange|Massive reception of disaster victims</p>|
+|<p style="color: #000000; background-color: #C0C0C0">Gris|External toxic leak</p>|
+|<p style="color: #FFFFFF; background-color: #008000">Vert|Evacuation</p>|

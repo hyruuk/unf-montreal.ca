@@ -37,7 +37,7 @@ si vous n'avez pas besoin d'une aide technique du personnel de l’UNF
 
 ## Réservation
 
-La reservation de la salle de test se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/fr/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
+La reservation de la salle de test se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
 
 
 ## Taux horaire

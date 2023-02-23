@@ -38,7 +38,7 @@ si vous avez une carte d’accès pour entrer à l’UNF
 
 ## Réservation
 
-La reservation de la salle de simulation se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/fr/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
+La reservation de la salle de simulation se fait via le calendrier de reservation et la [__section reservation__](https://unf-montreal.ca/documentation/facility/reservation/) de la documentation vous montre pas à pas comment faire.  
 
 Si vous avez besoin d'assistance, vous devez reserver durant les heures normales d'ouverture.
 
@@ -53,7 +53,7 @@ Contrairement aux réservations pour l'IRM, aucun formulaire n'est requis pour l
 
 ## Matériel disponible
 
-L'ensemble du matériel disponible pour l'IRM se trouve dans la section [__matériel__](https://unf-montreal.ca/fr/documentation/facility/hardware_software).
+L'ensemble du matériel disponible pour l'IRM se trouve dans la section [__matériel__](https://unf-montreal.ca/documentation/facility/hardware_software).
 
 
 ## Accès et sécurité
