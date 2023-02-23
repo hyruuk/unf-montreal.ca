@@ -8,9 +8,9 @@ description: >
 type: 'docs'
 ---
 
-Pour réserver le scanneur IRM, vous devez avoir un __[compte de réservation](https://unf-montreal.ca/fr/documentation/welcome/account)__, une fois votre compte obtenu, vous pouvez soumettre des demandes de réservation via le __[calendrier web](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F)__.
+Pour réserver le scanner IRM, vous devez avoir un __[compte de réservation](https://unf-montreal.ca/documentation/welcome/account)__, une fois votre compte obtenu, vous pouvez soumettre des demandes de réservation via le __[calendrier web](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F)__.
 
-La section __[reservation](http://www.unf-montreal.ca/documentation/fr/facility/reservation/)__ vous montre pas à pas comment réserver le scanneur IRM.
+La section __[reservation](http://www.unf-montreal.ca/documentation/facility/reservation/)__ vous montre pas à pas comment réserver le scanner IRM.
 
 ## Rappels: règles de réservation
 Les réservations pour l'IRM sont assujetties aux règles suivantes:

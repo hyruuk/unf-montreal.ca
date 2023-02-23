@@ -1,48 +1,48 @@
 ---
-title: "Paramètres de séquence IRM"
-linkTitle: "Paramètres de séquence IRM"
+title: "MRI sequence parameters"
+linkTitle: "MRI sequence parameters"
 date: 2017-01-05
 weight: 1
 description: >
-  Préparation des séquences d'acquisition de votre projet
+  Preparation of the acquisition sequences of your project
 type: 'docs'
 ---
 
-Chaque projet IRM a un ensemble unique de paramètres d'acquisition qui varient selon le type des séquences et tâches qui seront incluses dans cette étude
-particulière.
+Each MRI project has a unique set of acquisition parameters that vary depending on the type of sequences and tasks that will be included in that particular study.
 
-Les séquences IRM à utiliser, ainsi que les paramètres d'acquisition de ces séquences doivent être communiqués au **[personnel de l'UNF](mailto:support.unf@criugm.qc.ca)** avant votre session d'acquisition pilote. Un délai minimum d'une semaine avant votre session pilote est fortement recommandé pour s'assurer que le protocole puisse être créé avec les bons paramètres avant votre arrivée.
+The MRI sequences to be used, as well as the acquisition parameters for these sequences, must be communicated to **[UNF staff](mailto:support.unf@criugm.qc.ca)** before your pilot acquisition session. A minimum delay of one week before your pilot session is strongly recommended to ensure that the protocol can be created with the right parameters before your arrival.
 
-Ce qui doit être fait:
+What must be done:
 
-## Sélection de l’antenne
+## Antenna Selection
 
--   Ceci dépend de la partie du corps que vous allez étudier dans votre expérience et quel type de séquences sont incluses dans votre projet, ainsi que de l'équipement périphérique que vous prévoyez utiliser (équipement de suivi des yeux, des stimuli auditifs, etc.).
+-   This depends on what part of the body you are going to study in your experiment and what type of sequences are included in your project, as well as the peripheral equipment you plan to use (eye tracking equipment, auditory stimuli, etc.).
 
--   Pour les acquisitions au niveau de la tête, il faut choisir entre une antenne à 20, 32 ou 64 canaux. Vous pouvez contacter le **[personnel de l'UNF](mailto:support.unf@criugm.qc.ca)** pour des informations pour toute information supplémentaire concernant le choix d'antenne pour votre étude.
-
-## Liste des séquences
-
-Les différentes séquences utilisées correspondent aux types d'images que vous voulez acquérir, par exemple imagerie fonctionnelle (BOLD), DWI, spectroscopie, imagerie anatomique, etc. Les types de séquences utilisées pour votre étude doivent faire partie du protocole qui a été approuvé par les comités scientifique et éthique pour votre projet.
-
-Pour configurer votre protocole, il est important de connaître le nombre de séquences IRM que vous allez utiliser, leur type, l'ordre dans lequel elles seront éxécutées, ainsi que leur durée.
-
-## Paramètres
-
-Chaque séquence IRM est définie par un ensemble de valeurs appelées _paramètres_. Les paramètres devant être configurés pour chaque séquence incluent, entre autres, TR/TE, délai dans le TR, FOV, le nombre de tranches, taille des voxels, etc.
-
-## Protocole
-
-Le choix de l'antenne, la liste des séquences IRM utilisées pour votre projet ainsi que les valeurs des paramètres associées à celles-ci constituent votre _protocole_. Une fois défini, celui-ci demeure normalement constant pour le reste de votre étude. Il est fortement recommandé qu'un document décrivant les détails du protocole et donnant la liste de ces choix (antenne, séquences et paramètres) soit signé par le technologue et le chercheur au début de l’étude pour s’assurer que tout le monde soit bien d’accord sur le protocole utilisé.
-
-## Nom du projet pour le scanneur IRM
+-   For head-level acquisitions, you have to choose between a 20, 32 or 64 channel antenna. You can contact the **[UNF staff](mailto:support.unf@criugm.qc.ca)** for information for any additional information regarding the choice of antenna for your study.
 
 
--   Les noms des participants ne sont pas utilisés pour les projets de recherche à l’UNF.
+## List of sequences
 
--   Chaque projet utilise un code spécifique à ce projet et un identificateur de participant.
+The different sequences used correspond to the types of images you want to acquire, for example functional imaging (BOLD), DWI, spectroscopy, anatomical imaging, etc. The types of sequences used for your study must be part of the protocol that has been approved by the scientific and ethics committees for your project.
 
--   Choisir quelque chose qui se rapporte à votre projet, au participant et au numéro de session.
+To configure your protocol, it is important to know the number of MRI sequences that you will use, their type, the order in which they will be executed, as well as their duration.
 
-Vous utiliserez ces informations pour télécharger vos données lorsque
-vous êtes prêt à commencer l'analyse des données. **Il est donc important de toujours garder le même nom pour faciliter la récupération et l’analyse des données plus tard dans le projet; par exemple: `WMT_sujxx` pour une étude avec une tâche de mémoire de travail (Working Memory Task).**
+## Settings
+
+Each MRI sequence is defined by a set of values called _parameters_. Parameters that need to be configured for each sequence include but are not limited to TR/TE, delay in TR, FOV, number of slices, voxel size, etc.
+
+## Protocol
+
+The choice of the antenna, the list of MRI sequences used for your project as well as the values of the parameters associated with them constitute your _protocol_. Once defined, it normally remains constant for the rest of your study. It is strongly recommended that a document describing the details of the protocol and listing these choices (antenna, sequences and parameters) be signed by the technologist and the researcher at the start of the study to ensure that everyone is agree on the protocol used.
+
+## Project name for the MRI scanner
+
+
+- The names of participants are not used for research projects at UNF.
+
+- Each project uses a project-specific code and participant identifier.
+
+- Choose something that relates to your project, participant and session number.
+
+
+You will use this information to download your data when you are ready to begin data analysis. **It is therefore important to always keep the same name to facilitate data retrieval and analysis later in the project; for example: `WMT_001` for a study with a Working Memory Task..**

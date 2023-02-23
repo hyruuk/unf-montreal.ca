@@ -12,5 +12,5 @@ download_link : "documents/fr/screening/exemple_depistage.pdf"
 type: "notice"
 ---
 
-Ce formulaire n'est pas présent qu'à des fins de formation et compréhension.
+Ce formulaire n'est présent qu'à des fins de formation et compréhension.
 Une version papier ou numérisée de ce document ne sera pas validée par l'équipe UNF pour scanner un pariticipant.

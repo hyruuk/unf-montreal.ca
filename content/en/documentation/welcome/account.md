@@ -1,27 +1,25 @@
 ---
-title: "Comptes"
-linkTitle: "Comptes"
+title: "Account"
+linkTitle: "Account"
 date: 2020-02-06
 weight: 2
 description: >
-  Creation d'un compte UNF
+  UNF account
 type: "docs"
 ---
 
-Pour pouvoir mener à bien votre étude à l'UNF, vous devez obtenir un compte d'usager.
-Ce compte va vous permettre de faire une réservation (IRM, salle de simulation ou salle de test) en utilisant le __[calendrier de réservation](https://reservation.unf-montreal.ca/Web/dashboard.php)__ et vous donnera accès aux serveurs de calculs.
+To be able to carry out your study at the UNF, you must obtain a user account. This account will allow you to make a reservation (MRI, simulation room or test room) using the reservation calendar __[calendrier de réservation](https://reservation.unf-montreal.ca/Web/dashboard.php)__ and will give you access to the calculation servers.
 
-Nous vous encourageons aussi à demander à être ajouté au __[slack de l'UNF](https://mic-unf.slack.com/)__. Il s'agit d'un chat où tout le monde peut poser des questions et s'entraider.
+We also encourage you to request to be added to the __[UNF slack](https://mic-unf.slack.com/)__. This is a chat where everyone can ask questions and help each other.
 
-Pour obtenir votre compte, envoyez un courriel à l'adresse suivante __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Inscription-Serveurs_UNF)__.
+To get your account, send an email to the following address __[support.unf](mailto:support.unf@criugm.qc.ca?subject=Inscription-Serveurs_UNF)__.
 
-Veuillez également inclure l'information suivante:
+Please also include the following information:
 
-* Votre nom complet, votre adresse et votre numéro de téléphone (jour).
+* Your full name, address and daytime telephone number.
 
-* Votre adresse de courriel (celle qui sera utilisée pour la confirmation des réservations)
+* Your email address (the one that will be used for booking confirmation)
 
-* Le nom complet, l'adresse et le numéro de téléphone de l'investigateur
-principal du projet de recherche (si différents de 1.)
+* The full name, address and telephone number of the principal investigator of the research project (if different from 1.)
 
-Le système de réservation génère des courriels envoyés automatiquement. Pour éviter que ceux-ci ne se retrouvent dans votre dossier pourriel, assurez-vous d'ajouter l'adresse reservationunf@criugm.qc.ca à la liste de vos expéditeurs approuvés.
+The reservation system generates emails sent automatically. To prevent them from ending up in your spam folder, be sure to add the address reservationunf@criugm.qc.ca to the list of your approved senders.

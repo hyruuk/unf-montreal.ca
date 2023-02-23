@@ -8,7 +8,7 @@ description: >
 type: 'docs'
 ---
 
-To reserve the MRI scanner, you must have a __[reservation account](https://unf-montreal.ca/en/documentation/welcome/account)__, once you have obtained your account, you can submit reservation requests via the __[web calendar](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F)__.
+To reserve the MRI scanner, you must have a __[account](https://unf-montreal.ca/en/documentation/welcome/account)__, once you have obtained your account, you can submit reservation requests via the __[web calendar](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F)__.
 
 The __[reservation](http://www.unf-montreal.ca/en/documentation/facility/reservation/)__ section shows you step by step how to reserve the MRI scanner.
 

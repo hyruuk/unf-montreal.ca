@@ -8,39 +8,32 @@ description: >
 type: "docs"
 ---
 
-Une formation portant sur les mesures de sécurité à suivre dans un
-environnement comprenant un haut champ magnétique est **obligatoire** pour tous
-les membres de l’UNF (i.e., opérateurs, équipe technique, chercheurs, étudiants
-  des cycles supérieurs et postdoctorants, et assistants de recherche) et le
-personnel associé à l’IUGM, ainsi que pour toute autre personne qui est, ou
-pourrait être, amenée à se rendre sur les lieux de l’UNF.
+Training in safety measures to be followed in an environment with a high magnetic field is **mandatory** for all UNF members (i.e., operators, technical team, researchers, graduate and post-doctoral students, and research assistants) and personnel associated with the IUGM, as well as for any other person who is, or may be, required to go to the UNF site.
 
-Cette formation est donnée par les responsables de l’UNF, et comprend :
+This training is given by the responsible staff of the UNF, and includes:
+- Basics of Magnetic Fields
 
-- Notions de base des champs magnétiques
+- Safety concepts to follow in an MRI room
 
-- Notions de sécurité à suivre dans une salle d’IRM
+- Safety concepts to follow (COVID-19)
 
-- Notions de sécurité à suivre (COVID-19)
+- Emergency Measures Training
 
-- Formation aux mesures d'urgence
+- Video excerpts on the safety measures to be observed in an MRI room
 
-- Extraits de vidéo sur les mesures de sécurité à respecter dans une salle d’IRM
+- Visit of the UNF
 
-- Visite de l’UNF
+- Screening form for risk factors associated with high magnetic field exposure
 
-- Formulaire de dépistage des facteurs de risque associés à une exposition à haut champ magnétique
+- Question period
 
-- Période de questions
 
-Visitez le site de l’UNF pour connaitre les prochaines dates auxquelles la formation sur les mesures de sécurité est offerte.
+Visit the [__MRI Safety Training__] page (https://unf-montreal.ca/en/course/safety_training/) to register. The training manager will let you know the next date for this training.
 
-- Tous les étudiants, les chercheurs, les employés, les assistants de recherche, etc. qui ont l'intention d'entrer dans le UNF pour leurs projets ou travaux doivent suivre le cours de formation de sécurité offert par l'UNF avant de commencer leurs projets / rotation de travail.
+- All students, researchers, employees, research assistants, etc. who intend to enter UNF for their projects or work must complete the safety training course offered by UNF prior to beginning their projects/work rotation.
 
-- Le cours est offert environ une fois par mois.
+- The course is offered approximately once a month.
 
-- Les dates futures peuvent être trouvées sur le site.
+- Future dates can be found on the website.
 
-- Le cours est gratuit et dure environ 1 heure.
-
-Consultez la page __[sécurité](http://www.unf-montreal.ca/fr/course/safety_training/)__ pour connaître la date des prochaines formations.
+- The course is free and lasts approximately 1 hour.

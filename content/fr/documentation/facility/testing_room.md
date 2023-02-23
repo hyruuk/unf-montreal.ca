@@ -8,8 +8,7 @@ description: >
  Environnement, accès et sécurité
 ---
 
-
-La salle de test (R0743) se trouve au sein de l'Institut Universitaire de Gériatrie (IUGM). Les
+La salle de test (R0743) se trouve au sein de l'Institut universitaire de gériatrie de Montréal (IUGM). Les
 déplacements dans les installations de l'UNF sont donc soumis à des consignes
 de sécurité et de distanciation afin de protéger au mieux les résidents et
 l'ensemble des employés.

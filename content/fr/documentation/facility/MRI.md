@@ -10,7 +10,7 @@ description: >
 
 ![IRM](/images/documentation/MRI_prisma.jpg)
 
-L'UNF est équipée d'un IRM Siemens 3T Prisma fit. Cet IRM se trouve au sein de l'Institut Universitaire de Gériatrie de montreal (IUGM). Les déplacements dans les installations de l'UNF sont donc soumis à des consignes
+L'UNF est équipée d'un IRM Siemens 3T Prisma fit. Cet IRM se trouve au sein de l'Institut universitaire de gériatrie de Montreal (IUGM). Les déplacements dans les installations de l'UNF sont donc soumis à des consignes
 de sécurité et de distanciation afin de protéger au mieux les résidents et l'ensemble des employés.  
 
 
@@ -46,7 +46,7 @@ Les réservations pour l'IRM sont assujetties aux règles suivantes:
 
 ## Taux horaire
 
-Les taux horaires sont présentés dans cette [__section__](https://unf-montreal.ca/rate/).
+Les taux horaires sont présentés dans la [__section__](https://unf-montreal.ca/rate/).
 
 ## Formulaires
 
@@ -54,7 +54,7 @@ Afin de réserver l'IRM, le participant devra compléter un [__formulaires__](ht
 
 ## Accès et sécurité
 
-L'IRM est située au 4545 Queen Mary. Plus de détails [ici](https://unf-montreal.ca/documentation/facility/).
+L'IRM est située au 4545 Queen Mary. Plus de détails en suivant [__ce lien__](https://unf-montreal.ca/documentation/facility/).
 
 L'autorisation d'accès à l'IRM est controlé par les opérateurs de l'IRM. Ce sont les seuls à pouvoir vous laisser entrer dans l'UNF.
 Vous n'aurez accès à l'IRM qu'àprès avoir participé à la [__formation__](https://unf-montreal.ca/documentation/welcome/safety_guidelines/) sur la sécurité en environnement comprenant un haut champ magnétique. Cette formation est __*obligatoire*__.

@@ -16,14 +16,14 @@ Cette section s'adresse aux étudiants ou aux membres du personnel de recherche 
 
 ## Préparation des stimuli
 
-Pour la préparation de votre expérience, il est important de prendre en considération quel équipement est disponible à l’UNF. Contactez le [coordonnateur technique de l'UNF](/fr/index.html#liste) pour toute question reliée à l'utilisation de matériel de présentation de stimuli, de collecte de données comportementales ou d'enregistrement physiologique.
+Pour la préparation de votre expérience, il est important de prendre en considération quel équipement est disponible à l’UNF. Contactez le [coordonnateur technique de l'UNF](mailto:support.unf@criugm.qc.ca) pour toute question reliée à l'utilisation de matériel de présentation de stimuli, de collecte de données comportementales ou d'enregistrement physiologique.
 
-Chaque nouveau projet bénéficiera d’une **heure gratuite** pour exécuter une acquisition pilote afin de vérifier que tous les systèmes fonctionnent correctement.  Les données d'imagerie devraient également être vérifiées.
+Chaque nouveau projet bénéficiera **AU MINIMUM d'une heure gratuite** pour exécuter une acquisition pilote afin de vérifier que tous les systèmes fonctionnent correctement.  Les données d'imagerie devraient également être vérifiées.
 
 ## Responsabilités concernant l'utilisation des équipements
-Le personnel de l'UNF est responsable de l'opération et la préparation du scanneur IRM pour chaque séance d’imagerie.
+Le personnel de l'UNF est responsable de l'opération et de la préparation du scanner IRM pour chaque séance d’imagerie.
 
-Les utilisateurs, c'est-à-dire les chercheurs, assistants de recherche ou étudiants sont responsables de mettre en place, tester, faire fonctionner et retourner l'équipement à sa place à la fin de la séance d'acquisition. Ceci concerne tous les équipements nécessaires pour leurs expériences, tant dans la salle d’IRM que dans la salle de contrôle. Le personnel de l'UNF est disponible pour assistance technique avec les équipements appartenant à l'UNF lorsque nécessaire, mais les utilisateurs doivent être en mesure de les utiliser de manière autonome. Les responsabilités des utilisateurs incluent:
+Les utilisateurs, c'est-à-dire les chercheurs, assistants de recherche ou étudiants sont responsables de mettre en place, tester, faire fonctionner et retourner les équipements à leur place à la fin de la séance d'acquisition. Ceci concerne tous les équipements nécessaires pour leur expérience, tant dans la salle d’IRM que dans la salle de contrôle. Le personnel de l'UNF est disponible pour assistance technique avec les équipements appartenant à l'UNF lorsque nécessaire, mais les utilisateurs doivent être en mesure de les utiliser de manière autonome. Les responsabilités des utilisateurs incluent:
 
 - La préparation, l'installation et la vérification de l'équipement requis dans la salle d'IRM pour chaque session d'imagerie. Ceci doit être effectué **avant** l'installation du participant inscrit au projet de recherche.
 
@@ -49,6 +49,6 @@ Les utilisateurs, c'est-à-dire les chercheurs, assistants de recherche ou étud
 * Microphone à fibre optique
 * Simulateur de trigger TTL
 * Caméra compatible IRM <a href="http://www.mrc-systems.de/en/products/mr-compatible-cameras#12m-camera" target="blank">modèle 12M</a> de MRC Systems
-* Système de eyetracking 
+* Système de eyetracking
 
 Les chercheurs peuvent utiliser d'autres programmes de présentation de stimuli à partir de leur ordinateur portable. Il suffit de brancher le portable au commutateur vidéo pour présenter vos stimuli sur le projecteur de la salle d'IRM. **Votre ordinateur portable doit être muni d'une sortie VGA ou vous devez avoir en main les adaptateurs requis pour vous brancher à une entrée de ce type**
