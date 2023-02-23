@@ -4,7 +4,7 @@
 # Default build settings
 [build]
   publish = "public"
-  command = "npm init ; npm install postcss-cli && hugo"
+  command = "npm i && npm install postcss-cli && hugo"
 
 # "production" environment specific build settings
 [context.production.environment]
