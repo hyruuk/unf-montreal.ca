@@ -4,7 +4,7 @@ linkTitle: "Stimuli"
 date: 2020-01-05
 weight: 2
 description: >
-Preparation of stimuli and use of external materials at UNF
+  Preparation of stimuli and use of external materials at UNF
 type: 'docs'
 ---
 
