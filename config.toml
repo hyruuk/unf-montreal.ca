@@ -403,6 +403,12 @@ hasChildren = true
   URL = "documents/logos"
   weight = 10
 
+  [[menu.main]]
+  parent = "Your study"
+  name = "Rate"
+  URL = "rate"
+  weight = 11
+
 [[menu.main]]
 name = "Training"
 hasChildren = true
