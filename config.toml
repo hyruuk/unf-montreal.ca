@@ -405,7 +405,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Your study"
-  name = "Rate"
+  name = "Hourly rate"
   URL = "rate"
   weight = 11
 
