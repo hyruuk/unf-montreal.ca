@@ -108,17 +108,11 @@ hasChildren = true
   URL = "documentation/facility/hardware_software"
   weight = 4
 
-  [[Languages.fr.menu.main]]
-  parent = "Installations"
-  name = "EEG (bientôt)"
-  URL = "documentation/facility/eeg"
-  weight = 5
-
-  [[Languages.fr.menu.main]]
+   [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "Calendrier de réservation"
   URL = "https://reservation.unf-montreal.ca/Web/index.php?"
-  weight = 6
+  weight = 5
 
 [[Languages.fr.menu.main]]
 name = "Nouvelles"
@@ -160,53 +154,47 @@ hasChildren = true
   URL = "documentation/your_study/setup_mri"
   weight = 3
 
-  [[Languages.fr.menu.main]]
-  parent = "Votre étude"
-  name = "Préparez votre étude EEG"
-  URL = "documentation/your_study/setup_eeg"
-  weight = 4
-
-  [[Languages.fr.menu.main]]
+   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Réservation"
   URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
-  weight = 5
+  weight = 4
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Formulaires et documents"
   URL = "documents"
-  weight = 6
+  weight = 5
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Téléchargement de vos données IRM"
   URL = "documentation/your_data/download_data"
-  weight = 7
+  weight = 6
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Prétraitement de vos données"
   URL = "documentation/your_data/preproc_data"
-  weight = 8
+  weight = 7
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Découvertes fortuites"
   URL = "documentation/your_study/finding"
-  weight = 9
+  weight = 8
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Logos"
   URL = "documents/logos"
-  weight = 10
+  weight = 9
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
   name = "Taux horaire"
   URL = "rate"
-  weight = 11
+  weight = 10
 
 [[Languages.fr.menu.main]]
 weight = 5
@@ -311,15 +299,9 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Facility"
-  name = "EEG (coming soon)"
-  URL = "documentation/facility/eeg"
-  weight = 5
-
-  [[menu.main]]
-  parent = "Facility"
   name = "Reservation calendar"
   URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
-  weight = 6
+  weight = 5
 
 [[menu.main]]
 name = "News"
@@ -363,51 +345,45 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Your study"
-  name = "Setting up your EEG study"
-  URL = "documentation/your_study/setup_eeg"
-  weight = 4
-
-  [[menu.main]]
-  parent = "Your study"
   name = "Reservation"
   URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
-  weight = 5
+  weight = 4
 
   [[menu.main]]
   parent = "Your study"
   name = "Forms and documents"
   URL = "documents"
-  weight = 6
+  weight = 5
 
   [[menu.main]]
   parent = "Your study"
   name = "MRI data download"
   URL = "documentation/your_data/download_data"
-  weight = 7
+  weight = 6
 
   [[menu.main]]
   parent = "Your study"
   name = "Data preprocessing"
   URL = "documentation/your_data/preproc_data"
-  weight = 8
+  weight = 7
 
   [[menu.main]]
   parent = "Your study"
   name = "Incidental findings"
   URL = "documentation/your_study/finding"
-  weight = 9
+  weight = 8
 
   [[menu.main]]
   parent = "Your study"
   name = "Logos"
   URL = "documents/logos"
-  weight = 10
+  weight = 9
 
   [[menu.main]]
   parent = "Your study"
   name = "Hourly rate"
   URL = "rate"
-  weight = 11
+  weight = 10
 
 [[menu.main]]
 name = "Training"
