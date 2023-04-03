@@ -11,7 +11,7 @@ Ces nouveaux tarifs **ne s’appliqueront pas** sur les projets en cours, mais *
 
 |Statuts       |Tarifs horaire - heures régulières (9h à 17h) [1]|Tarifs horaire - Après 17h et les fins de semaines [2] [3]|
 |-------|---------------------------------------------|--------------------------------------------------|
-|**Membre RNQ** [4]|<span style="color:red"> 550$| <span style="color:red">600$ </span>|
+|**Membre UNF** [4]|<span style="color:red"> 550$| <span style="color:red">600$ </span>|
 |**Secteur privé** [5]|<span style="color:red"> 850$ </span> (+30% frais indirects)| <span style="color:red"> 900$ </span> (+30% frais indirects)|
 
 [1]: Du lundi au vendredi, de 9h00 à 17h00, sauf lors des congés fériés. <br/> [2]: 600 $/heure pour les soirs. Toutefois, un bloc minimal de 3 heures est requis pour l’utilisation du scanner après 20h en semaine et pendant la fin de semaine.<br/> [3]: Si un membre de l’équipe de recherche est formé et autorisé par la direction de l’UNF pour opérer le scanner IRM, c’est le tarif horaire régulier qui s’applique.<br/> [4]: Les membres utilisateurs de la plateforme UNF pour la réalisation entière ou partielle de leur projet de recherche. <br/> [5]: Les frais d’utilisation du scanner peuvent être négociés avec le directeur scientifique de l’UNF. Une entente formelle est signée à cet effet.
