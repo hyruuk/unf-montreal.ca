@@ -1,6 +1,6 @@
 ---
-title: "Incidental discovery"
-linkTitle: "Incidental discovery"
+title: "Incidental findings"
+linkTitle: "Incidental findings"
 date: 2017-01-05
 weight: 4
 description: >
