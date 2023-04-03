@@ -12,7 +12,7 @@ To reserve the MRI scanner, you must have a __[account](https://unf-montreal.ca/
 
 The __[reservation](http://www.unf-montreal.ca/en/documentation/facility/reservation/)__ section shows you step by step how to reserve the MRI scanner.
 
-## Reminders: reservation rules
+## Reminder: reservation rules
 MRI reservations are subject to the following rules:
 
 * Reservations must be for a minimum of 30 minutes
