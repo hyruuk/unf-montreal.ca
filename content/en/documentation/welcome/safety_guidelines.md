@@ -1,10 +1,10 @@
 ---
-title: "Formation à la sécurité"
-linkTitle: "Formation à la sécurité"
+title: "Training in safety measures"
+linkTitle: "Training in safety measures"
 date: 2020-06-03
 weight: 1
 description: >
-  Formation aux pratiques dans un environnement au champs magnétique
+  Training in safety measures in an environment with a high magnetic field
 type: "docs"
 ---
 
