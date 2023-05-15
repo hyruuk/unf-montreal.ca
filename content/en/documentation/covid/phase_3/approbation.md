@@ -1,10 +1,10 @@
 ---
-title: "Once your request is approved"
-linkTitle: "Once your request is approved"
-date: 2021-06-08
-weight: 2
-description: "Once your request has been approved by the UNF or by the DEUR of the CCSMTL"
-type: 'docs'
+#title: "Once your request is approved"
+#linkTitle: "Once your request is approved"
+#date: 2021-06-08
+#weight: 2
+#description: "Once your request has been approved by the UNF or by the DEUR of the CCSMTL"
+#type: 'docs'
 ---
 
 

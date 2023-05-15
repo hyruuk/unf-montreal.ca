@@ -1,10 +1,10 @@
 ---
-title: "Une fois votre demande approuvée"
-linkTitle: "Une fois votre demande approuvée"
-date: 2021-06-08
-weight: 2
-description: "Une fois votre demande approuvée par l'UNF ou par la DEUR du CCSMTL"
-type: 'docs'
+#title: "Une fois votre demande approuvée"
+#linkTitle: "Une fois votre demande approuvée"
+#date: 2021-06-08
+#weight: 2
+#description: "Une fois votre demande approuvée par l'UNF ou par la DEUR du CCSMTL"
+#type: 'docs'
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-title: "Demande d'accès Phase 3"
-linkTitle: "Demande d'accès Phase 3"
-date: 2021-06-08
-weight: 1
-description: "Pour poursuivre votre étude vous devez déposer une demande d'accès Phase 3"
-type: 'docs'
+#title: "Demande d'accès Phase 3"
+#linkTitle: "Demande d'accès Phase 3"
+#date: 2021-06-08
+#weight: 1
+#description: "Pour poursuivre votre étude vous devez déposer une demande d'accès Phase 3"
+#type: 'docs'
 ---
 Pour poursuivre votre étude à l'UNF, vous devez présenter une demande d'accès de reprise des activités de recherche en Phase 3.
 

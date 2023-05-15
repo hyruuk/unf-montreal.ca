@@ -1,10 +1,10 @@
 ---
-title: "Phase 3 access request"
-linkTitle: "Phase 3 access request"
-date: 2021-06-08
-weight: 1
-description: "To continue your study, you must submit a Phase 3 access request"
-type: 'docs'
+#title: "Phase 3 access request"
+#linkTitle: "Phase 3 access request"
+#date: 2021-06-08
+#weight: 1
+#description: "To continue your study, you must submit a Phase 3 access request"
+#type: 'docs'
 ---
 To continue your study at UNF, you must submit an access request to resume research activities in Phase 3.
 
