@@ -22,6 +22,7 @@
         {{ .Content }}
         <a href="tel:{{ .Site.Params.mobile }}" class="text-color h5 d-block">{{ .Site.Params.mobile }}</a>
         <a href="mailto:{{ .Site.Params.email }}" class="mb-5 text-color h5 d-block">{{ .Site.Params.email }}</a>
+        <a href="{{ .Site.Params.slack_invitation }}" class="mb-5 text-color h5 d-block">{{ i18n "slack_invitation" }}</a>
         <p>{{ .Site.Params.address | markdownify }}</p>
       </div>
     </div>

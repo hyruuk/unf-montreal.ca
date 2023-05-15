@@ -461,6 +461,7 @@ author = "Themefisher"
 address = "4565 Queen Mary Rd, Montreal, QC H3W 1W5"
 mobile = "514-340-3540 ext. 3633"
 email = "support.unf@criugm.qc.ca"
+slack_invitation = "https://join.slack.com/t/mic-unf/shared_invite/zt-1vj19znow-oMw8s2tobrPGYYkm27ZLGw"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs

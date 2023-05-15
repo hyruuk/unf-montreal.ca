@@ -7,6 +7,9 @@
 - id: send
   translation: envoyer
 
+- id: slack_invitation
+  translation: Invitation Slack
+
 - id: contact_info
   translation: Info de contact
 
