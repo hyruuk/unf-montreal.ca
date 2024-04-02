@@ -14,8 +14,6 @@ The Neurotheque, affiliated with the Functional Neuroimaging Unit (UNF) installe
 
 Our team is also committed to providing you with technical support and training services for the setup, acquisition, and analysis of your data.
 
-![Photos of the center](TODO:image)
-
 ## Access
 
 The Neurothèque is located in room RS078, in the basement of IUGM.
@@ -23,18 +21,17 @@ The Neurothèque is located in room RS078, in the basement of IUGM.
 
 ## Available Equipment
 
-![DSI-24](/images/documentation/dsi24.jpeg)
 * [DSI-24](https://wearablesensing.com/dsi-24/)
+![DSI-24](/images/documentation/dsi24.jpeg)
     - 19 EEG electrodes, 10-20 system
     - 2 ear clip electrodes
     - Trigger hub (DB25 parallel port, TTL communication, 3.5mm audio connector)
     - EOG/ECG capability
-![Meta Quest 3](/images/documentation/quest3.jpg)
 * VR headset [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
+![Meta Quest 3](/images/documentation/quest3.jpg)
     - With adapter for DSI-24
-![VG controller](/images/documentation/vg_controllers.jpg)
 * Video game controller (SNES-like)
-![Biopac](TODO:image)
+![VG controller](/images/documentation/vg_controllers.jpg)
 * Biopac physiological data acquisition systems
     - TBD
 

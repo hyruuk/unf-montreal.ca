@@ -14,8 +14,6 @@ La Neurothèque, affiliée à l'Unité de Neuroimagerie Fonctionnelle (UNF) inst
 
 Notre équipe s'engage en outre à vous fournir un soutien technique et un service de formation pour la mise en place, l'acquisition et l'analyse de vos données.
 
-![Photos du centre](TODO:image)
-
 ## Accès
 
 La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM. 
@@ -23,18 +21,18 @@ La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM.
 
 ## Matériel disponible
 
-![DSI-24](/images/documentation/dsi24.jpeg)
 * [DSI-24](https://wearablesensing.com/dsi-24/)
+![DSI-24](/images/documentation/dsi24.jpeg)
     - 19 électrodes EEG, système 10-20
     - 2 électrodes auriculaires (pinces)
     - Trigger hub (port parallèle DB25, communication TTL, connecteur audio 3.5mm)
     - EOG/ECG capability
-![Meta Quest 3](/images/documentation/quest3.jpg)
+
 * Casque de VR [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
+![Meta Quest 3](/images/documentation/quest3.jpg)
     - Avec adaptateur pour le DSI-24
-![VG controller](/images/documentation/vg_controllers.jpg)
 * Controlleur de jeu vidéo (SNES-like)
-![Biopac](TODO:image)
+![VG controller](/images/documentation/vg_controllers.jpg)
 * Systèmes d'acquisition de données physiologiques Biopac
     - TBD
 
