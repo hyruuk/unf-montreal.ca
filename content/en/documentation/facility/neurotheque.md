@@ -16,22 +16,25 @@ Our team is also committed to providing you with technical support and training 
 
 ## Access
 
-The Neurothèque is located in room RS078, in the basement of IUGM.
+The Neurothèque is located in room RS078, in the basement of IUGM. To get there, go to the entrance of the UNF as indicated on [this page](https://unf-montreal.ca/documentation/facility/), then take the corridor that leads to the CRIUGM. Next, take the corridor immediately to your left, and go down one floor using the stairs at the end of this second corridor. You will then arrive at the basement of the Institute, and the simulation room will be on your right (RS078). The Neurothèque can be accessed through a second door in room RS078. To obtain the codes to unlock these doors, please contact the Neurothèque team.
 
 
 ## Available Equipment
 
-* [DSI-24](https://wearablesensing.com/dsi-24/)
 ![DSI-24](/images/documentation/dsi24.jpeg)
+* [DSI-24](https://wearablesensing.com/dsi-24/)
     - 19 EEG electrodes, 10-20 system
     - 2 ear clip electrodes
     - Trigger hub (DB25 parallel port, TTL communication, 3.5mm audio connector)
     - EOG/ECG capability
-* VR headset [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
+
 ![Meta Quest 3](/images/documentation/quest3.jpg)
+* VR headset [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
     - With adapter for DSI-24
-* Video game controller (SNES-like)
+
 ![VG controller](/images/documentation/vg_controllers.jpg)
+* Video game controller (SNES-like)
+
 * Biopac physiological data acquisition systems
     - TBD
 

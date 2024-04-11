@@ -16,23 +16,25 @@ Notre équipe s'engage en outre à vous fournir un soutien technique et un servi
 
 ## Accès
 
-La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM. 
+La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM. Pour vous y rendre, accédez à l'entrée de l'UNF tel qu'indiqué sur [cette page](https://unf-montreal.ca/documentation/facility/), puis empruntez le couloir permettant d'accéder au CRIUGM. Prenez alors le couloir immédiatement à votre gauche, et descendez d'un étage en empruntant les escaliers au bout de ce second couloir. Vous arriverez alors au sous-sol de l'Institut, et la salle de simulation se trouvera sur votre droite (RS078). La Neurothèque est accessible par une seconde porte qui se trouve dans la salle RS078. Pour obtenir les codes permettant de déverrouiller ces portes, manifestez vous auprès de l'équipe responsable de la Neurothèque.
 
 
 ## Matériel disponible
 
-* [DSI-24](https://wearablesensing.com/dsi-24/)
 ![DSI-24](/images/documentation/dsi24.jpeg)
+* [DSI-24](https://wearablesensing.com/dsi-24/)
     - 19 électrodes EEG, système 10-20
     - 2 électrodes auriculaires (pinces)
     - Trigger hub (port parallèle DB25, communication TTL, connecteur audio 3.5mm)
     - EOG/ECG capability
 
-* Casque de VR [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
 ![Meta Quest 3](/images/documentation/quest3.jpg)
+* Casque de VR [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
     - Avec adaptateur pour le DSI-24
-* Controlleur de jeu vidéo (SNES-like)
+
 ![VG controller](/images/documentation/vg_controllers.jpg)
+* Controlleur de jeu vidéo (SNES-like)
+
 * Systèmes d'acquisition de données physiologiques Biopac
     - TBD
 
