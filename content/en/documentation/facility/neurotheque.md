@@ -21,19 +21,19 @@ The Neurothèque is located in room RS078, in the basement of IUGM. To get there
 
 ## Available Equipment
 
-![DSI-24](/images/documentation/dsi24.jpeg)
 * [DSI-24](https://wearablesensing.com/dsi-24/)
     - 19 EEG electrodes, 10-20 system
     - 2 ear clip electrodes
     - Trigger hub (DB25 parallel port, TTL communication, 3.5mm audio connector)
     - EOG/ECG capability
+![DSI-24](/images/documentation/dsi24.jpeg)
 
-![Meta Quest 3](/images/documentation/quest3.jpg)
 * VR headset [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
     - With adapter for DSI-24
+![Meta Quest 3](/images/documentation/quest3.jpg)
 
-![VG controller](/images/documentation/vg_controllers.jpg)
 * Video game controller (SNES-like)
+![VG controller](/images/documentation/vg_controllers.jpg)
 
 * Biopac physiological data acquisition systems
     - TBD

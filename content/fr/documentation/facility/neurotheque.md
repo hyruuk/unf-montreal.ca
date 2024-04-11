@@ -21,19 +21,19 @@ La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM. Pour vou
 
 ## Matériel disponible
 
-![DSI-24](/images/documentation/dsi24.jpeg)
 * [DSI-24](https://wearablesensing.com/dsi-24/)
     - 19 électrodes EEG, système 10-20
     - 2 électrodes auriculaires (pinces)
     - Trigger hub (port parallèle DB25, communication TTL, connecteur audio 3.5mm)
     - EOG/ECG capability
+![DSI-24](/images/documentation/dsi24.jpeg)
 
-![Meta Quest 3](/images/documentation/quest3.jpg)
 * Casque de VR [Meta Quest 3](https://www.meta.com/ca/fr/quest/quest-3/)
     - Avec adaptateur pour le DSI-24
+![Meta Quest 3](/images/documentation/quest3.jpg)
 
-![VG controller](/images/documentation/vg_controllers.jpg)
 * Controlleur de jeu vidéo (SNES-like)
+![VG controller](/images/documentation/vg_controllers.jpg)
 
 * Systèmes d'acquisition de données physiologiques Biopac
     - TBD
