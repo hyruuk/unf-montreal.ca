@@ -16,7 +16,7 @@ Notre équipe s'engage en outre à vous fournir un soutien technique et un servi
 
 ## Accès
 
-La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM. Pour vous y rendre, accédez à l'entrée de l'UNF tel qu'indiqué sur [cette page](https://unf-montreal.ca/documentation/facility/), puis empruntez le couloir permettant d'accéder au CRIUGM. Prenez alors le couloir immédiatement à votre gauche, et descendez d'un étage en empruntant les escaliers au bout de ce second couloir. Vous arriverez alors au sous-sol de l'Institut, et la salle de simulation se trouvera sur votre droite (RS078). La Neurothèque est accessible par une seconde porte qui se trouve dans la salle RS078. Pour obtenir les codes permettant de déverrouiller ces portes, manifestez vous auprès de l'équipe responsable de la Neurothèque.
+La Neurothèque est située dans la salle RS718, au sous-sol de l'IUGM. Pour vous y rendre, accédez à l'entrée de l'UNF tel qu'indiqué sur [cette page](https://unf-montreal.ca/documentation/facility/), puis empruntez le couloir permettant d'accéder au CRIUGM. Prenez alors le couloir immédiatement à votre gauche, et descendez d'un étage en empruntant les escaliers au bout de ce second couloir. Vous arriverez alors au sous-sol de l'Institut, et la salle de simulation se trouvera sur votre droite (RS078). La Neurothèque est accessible par une seconde porte qui se trouve dans la salle RS078. Pour obtenir les codes permettant de déverrouiller ces portes, manifestez vous auprès de l'équipe responsable de la Neurothèque.
 
 
 ## Matériel disponible
@@ -37,6 +37,24 @@ La Neurothèque est située dans la salle RS078, au sous-sol de l'IUGM. Pour vou
 
 * Systèmes d'acquisition de données physiologiques Biopac
     - TBD
+
+## Services
+
+- Onboarding
+- Mise à disposition de scripts experimentaux, de pré-traîtement (nettoyage) et d'analyse de données
+- Aide à la mise en place de protocoles
+- Aide à la collecte de données
+- Aide à l'analyse
+
+## Facturation
+
+- Couverture minimale
+    - Onboarding
+    - Accès aux installations
+- Couverture complète
+    - Onboarding
+    - Accès aux installations
+    - Accès aux services d'aide
 
 
 ## Contacts

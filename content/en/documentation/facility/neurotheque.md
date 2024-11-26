@@ -16,7 +16,7 @@ Our team is also committed to providing you with technical support and training 
 
 ## Access
 
-The Neurothèque is located in room RS078, in the basement of IUGM. To get there, go to the entrance of the UNF as indicated on [this page](https://unf-montreal.ca/documentation/facility/), then take the corridor that leads to the CRIUGM. Next, take the corridor immediately to your left, and go down one floor using the stairs at the end of this second corridor. You will then arrive at the basement of the Institute, and the simulation room will be on your right (RS078). The Neurothèque can be accessed through a second door in room RS078. To obtain the codes to unlock these doors, please contact the Neurothèque team.
+The Neurothèque is located in room RS718, in the basement of IUGM. To get there, go to the entrance of the UNF as indicated on [this page](https://unf-montreal.ca/documentation/facility/), then take the corridor that leads to the CRIUGM. Next, take the corridor immediately to your left, and go down one floor using the stairs at the end of this second corridor. You will then arrive at the basement of the Institute, and the simulation room will be on your right (RS078). The Neurothèque can be accessed through a second door in room RS078. To obtain the codes to unlock these doors, please contact the Neurothèque team.
 
 
 ## Available Equipment
@@ -38,6 +38,23 @@ The Neurothèque is located in room RS078, in the basement of IUGM. To get there
 * Biopac physiological data acquisition systems
     - TBD
 
+## Services
+
+- Onboarding
+- Provision of experimental, preprocessing (cleaning), and data analysis scripts
+- Assistance with protocol setup
+- Assistance with data collection
+- Assistance with data analysis
+
+## Billing
+
+- Minimal coverage
+    - Onboarding
+    - Access to facilities
+- Full coverage
+    - Onboarding
+    - Access to facilities
+    - Access to assistance services
 
 ## Contacts
 
