@@ -1,5 +1,5 @@
 ---
-title: "MRI screening"
+title: "MRI screening for staff members"
 date: 2025-03-13
 draft: false
 # page title background image
