@@ -14,4 +14,4 @@ Depuis l’implantation de la plateforme Nagano le 1er avril 2021, toutes les de
 
 Les projets en imagerie menés au CRIUGM à l’Unité de neuroimagerie fonctionnelle (UNF) seront soumis au Comité d’éthique de la recherche – Vieillissement et neuroimagerie (CER VN) (https://ccsmtl-mission-universitaire.ca/fr/cer-vieillissement-et-neuroimagerie).
 
-Si des informations additionnelles vous sont nécessaires, n’hésitez pas à communiquer avec [__Madame Karima Bekhiti__](mailto:karima.bekhiticcsmtl@ssss.gouv.qc.ca)
+Si des informations additionnelles vous sont nécessaires, n’hésitez pas à communiquer avec [__Madame Karima Bekhiti__](mailto:karima.bekhiti.ccsmtl@ssss.gouv.qc.ca)
