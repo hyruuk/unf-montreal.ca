@@ -52,7 +52,11 @@ La Neurothèque est située dans la salle RS718, au sous-sol de l'IUGM. Pour vou
 - Aide à la collecte de données
 - Aide à l'analyse
 
-## Facturation
+## Tutoriels et ressources
+
+Une boîte à outils modulaire contenant des scripts de prétraitement ainsi que des tutoriels liés à notre matériel spécifique est disponible publiquement sur [GitHub](https://github.com/UNFmontreal/neurotheque_resources/tree/main).
+
+## Facturation (Prendre contact avec les membres de l'équipe pour une estimation)
 
 - Couverture minimale
     - Onboarding

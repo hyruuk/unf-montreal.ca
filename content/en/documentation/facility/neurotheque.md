@@ -47,12 +47,16 @@ The Neurothèque is located in room RS718, in the basement of IUGM. To get there
 ## Services
 
 - Onboarding
-- Provision of experimental, preprocessing (cleaning), and data analysis scripts
+- Provision of experimental, preprocessing (cleaning), and data analysis scripts. 
 - Assistance with protocol setup
 - Assistance with data collection
 - Assistance with data analysis
 
-## Billing
+## Tutorials and resources
+
+A modular toolkit containing preprocessing scripts as well as tutorials related to our specific hardware is publicly available on [GitHub](https://github.com/UNFmontreal/neurotheque_resources/tree/main).
+
+## Billing (Contact team members for a quote)
 
 - Minimal coverage
     - Onboarding
